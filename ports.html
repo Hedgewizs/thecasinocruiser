@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Port Day Planner — The Casino Cruiser</title>
+<meta name="description" content="Pick any major cruise port and date: live weather forecast plus what to actually do with your port day.">
+<link rel="stylesheet" href="styles.css">
+<style>
+.planner-controls{display:flex;flex-wrap:wrap;gap:12px;align-items:end;margin:24px 0}
+.planner-controls label{display:flex;flex-direction:column;gap:6px;font-size:.9rem;font-weight:600}
+.planner-controls select,.planner-controls input{padding:10px 12px;border:1px solid #ccc;border-radius:8px;font-size:1rem;min-width:200px}
+.mode-toggle{display:flex;gap:8px;margin-bottom:8px}
+.mode-toggle button{padding:8px 18px;border:1px solid #ccc;background:#fff;border-radius:999px;cursor:pointer;font-size:.95rem}
+.mode-toggle button.active{background:#0b3d66;color:#fff;border-color:#0b3d66}
+.wx-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-top:20px}
+.wx-card{border:1px solid #e3e3e3;border-radius:12px;padding:18px;background:#fff}
+.wx-card h3{margin:0 0 4px}
+.wx-card .wx-date{color:#666;font-size:.9rem;margin-bottom:10px}
+.wx-temp{font-size:1.8rem;font-weight:700}
+.wx-meta{display:flex;gap:14px;margin:10px 0;color:#444;font-size:.95rem}
+.wx-do{margin:10px 0 0;padding-left:18px;font-size:.95rem}
+.wx-do li{margin-bottom:6px}
+.wx-merch{display:inline-block;margin-top:12px}
+.wx-note{background:#f4f7fa;border-radius:10px;padding:14px 18px;margin-top:20px;font-size:.95rem;color:#444}
+.sea-card{opacity:.75}
+.loading{color:#666;font-style:italic;margin-top:20px}
+</style>
+</head>
+<body>
+
+<nav class="nav"><div class="wrap">
+  <a class="brand" href="index.html">The <span>Casino</span> Cruiser</a>
+  <div class="nav-links">
+    <a href="index.html">Home</a>
+    <a href="playbook.html">Playbook</a>
+    <a href="guides.html">Guides</a>
+    <a href="gear.html">Gear</a>
+    <a href="ports.html" class="active">Port Planner</a>
+    <a href="index.html#merch">Merch</a>
+    <a href="booking.html">Book with me</a>
+    <a href="about.html">About</a>
+    <a href="tw/index.html">中文</a>
+  </div>
+</div></nav>
+
+<header class="hero"><div class="wrap">
+  <h1>Port Day <em>Planner</em>.</h1>
+  <p>Pick a port and a date — get the live weather forecast plus what to actually do with your hours ashore. Built for cruisers who plan around the all-aboard time.</p>
+</div></header>
+
+<section class="section"><div class="wrap">
+  <div class="mode-toggle">
+    <button id="mode-port" class="active">Single port</button>
+    <button id="mode-itin">Sample itinerary</button>
+  </div>
+
+  <div id="ctl-port" class="planner-controls">
+    <label>Port
+      <select id="port-select"></select>
+    </label>
+    <label>Port day
+      <input type="date" id="port-date">
+    </label>
+    <button class="btn" id="go-port">Check the weather</button>
+  </div>
+
+  <div id="ctl-itin" class="planner-controls" style="display:none">
+    <label>Itinerary
+      <select id="itin-select"></select>
+    </label>
+    <label>Sail date
+      <input type="date" id="itin-date">
+    </label>
+    <button class="btn" id="go-itin">Plan my week</button>
+  </div>
+
+  <div id="results"></div>
+  <div class="wx-note">Weather via Open-Meteo (free, no signup). Forecasts run about 16 days out — for port days further away, check back closer to sailing. Every port day is better with a plan: <a href="booking.html">book with me</a> and I'll price the whole trip.</div>
+</div></section>
+
+<footer class="footer"><div class="wrap">
+  <p>© The Casino Cruiser · <a href="about.html">About</a> · <a href="booking.html">Book with me</a></p>
+</div></footer>
+
+<script src="port-data.js"></script>
+<script>
+const $ = id => document.getElementById(id);
+const regionOrder = ["Caribbean","Alaska","Mexican Riviera","Mediterranean","Northern Europe","South America","Antarctica","Embarkation"];
+
+// Build port dropdown grouped by region
+(() => {
+  const sel = $("port-select");
+  regionOrder.forEach(r => {
+    const g = document.createElement("optgroup"); g.label = r;
+    PORTS.filter(p => p.region === r).forEach(p => {
+      const o = document.createElement("option"); o.value = p.id; o.textContent = p.name + ", " + p.country; g.appendChild(o);
+    });
+    sel.appendChild(g);
+  });
+  const it = $("itin-select");
+  ITINERARIES.forEach(t => { const o = document.createElement("option"); o.value = t.id; o.textContent = t.name + " (from " + t.from + ")"; it.appendChild(o); });
+  const d = new Date(); d.setDate(d.getDate() + 30);
+  $("port-date").value = d.toISOString().slice(0,10);
+  const s = new Date(); s.setDate(s.getDate() + 60);
+  $("itin-date").value = s.toISOString().slice(0,10);
+})();
+
+$("mode-port").onclick = () => setMode("port");
+$("mode-itin").onclick = () => setMode("itin");
+function setMode(m){
+  $("mode-port").classList.toggle("active", m==="port");
+  $("mode-itin").classList.toggle("active", m==="itin");
+  $("ctl-port").style.display = m==="port" ? "flex" : "none";
+  $("ctl-itin").style.display = m==="itin" ? "flex" : "none";
+  $("results").innerHTML = "";
+}
+
+async function fetchWx(lat, lon, dateStr){
+  const today = new Date(); today.setHours(0,0,0,0);
+  const target = new Date(dateStr + "T00:00:00");
+  const diff = Math.round((target - today) / 86400000);
+  if (diff < 0 || diff > 16) return null;
+  const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max,wind_speed_10m_max,weathercode&start_date=${dateStr}&end_date=${dateStr}&temperature_unit=celsius&wind_speed_unit=mph&timezone=auto`;
+  const r = await fetch(url);
+  if (!r.ok) throw new Error("weather fetch failed");
+  const j = await r.json();
+  const d = j.daily;
+  return {hi: Math.round(d.temperature_2m_max[0]), lo: Math.round(d.temperature_2m_min[0]),
+          rain: d.precipitation_probability_max[0], wind: Math.round(d.wind_speed_10m_max[0]),
+          code: d.weathercode[0]};
+}
+const F2C = c => Math.round(c*9/5+32);
+function wxIcon(code){
+  if (code <= 1) return "☀️";
+  if (code <= 3) return "⛅";
+  if (code <= 48) return "🌫️";
+  if (code <= 67) return "🌧️";
+  if (code <= 77) return "🌨️";
+  if (code <= 82) return "🌧️";
+  return "⛈️";
+}
+
+function portCard(port, dateStr, wx, note){
+  const dateLabel = new Date(dateStr + "T00:00:00").toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric",year:"numeric"});
+  let wxHtml;
+  if (wx) wxHtml = `<div class="wx-temp">${wxIcon(wx.code)} ${F2C(wx.hi)}°F <span style="font-size:1rem;font-weight:400;color:#666">/ ${F2C(wx.lo)}°F</span></div>
+    <div class="wx-meta"><span>🌧 ${wx.rain}%</span><span>💨 ${wx.wind} mph</span></div>`;
+  else wxHtml = `<p style="color:#666">Forecast opens ~16 days out — check back closer to sailing.</p>`;
+  const merch = port.merch ? `<a class="wx-merch btn ghost" href="${port.merch}" target="_blank" rel="noopener">Shop the ${port.name} tee</a>` : "";
+  const noteHtml = note ? `<p class="wx-date">${note}</p>` : "";
+  return `<div class="wx-card"><h3>${port.name}</h3><p class="wx-date">${port.country} · ${dateLabel}</p>${noteHtml}${wxHtml}
+    <ul class="wx-do">${port.do.map(x=>`<li>${x}</li>`).join("")}</ul>${merch}</div>`;
+}
+
+$("go-port").onclick = async () => {
+  const port = PORT_BY_ID[$("port-select").value];
+  const dateStr = $("port-date").value;
+  $("results").innerHTML = `<p class="loading">Checking the skies over ${port.name}…</p>`;
+  let wx = null;
+  try { wx = await fetchWx(port.lat, port.lon, dateStr); } catch(e){ wx = null; }
+  $("results").innerHTML = `<div class="wx-grid">${portCard(port, dateStr, wx)}</div>`;
+};
+
+$("go-itin").onclick = async () => {
+  const itin = ITINERARIES.find(t => t.id === $("itin-select").value);
+  const sail = $("itin-date").value;
+  $("results").innerHTML = `<p class="loading">Planning your ${itin.name.toLowerCase()}…</p>`;
+  const cards = [];
+  for (const stop of itin.days){
+    const d = new Date(sail + "T00:00:00");
+    d.setDate(d.getDate() + (stop.d - 1));
+    const dateStr = d.toISOString().slice(0,10);
+    if (stop.sea){
+      const label = d.toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric"});
+      cards.push(`<div class="wx-card sea-card"><h3>Day at sea</h3><p class="wx-date">Day ${stop.d} · ${label}</p><p style="color:#666">Pool day. Check the forecast at your next port.</p></div>`);
+      continue;
+    }
+    const port = PORT_BY_ID[stop.port];
+    let wx = null;
+    try { wx = await fetchWx(port.lat, port.lon, dateStr); } catch(e){ wx = null; }
+    cards.push(portCard(port, dateStr, wx, (stop.note ? stop.note + " · " : "") + "Day " + stop.d));
+  }
+  $("results").innerHTML = `<h2 style="margin-top:8px">${itin.name}</h2><div class="wx-grid">${cards.join("")}</div>`;
+};
+</script>
+</body>
+</html>
