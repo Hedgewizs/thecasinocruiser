@@ -116,3 +116,18 @@ footer p { margin: 0 0 10px; max-width: 720px; }
 .gear-meta{color:var(--gold);font-weight:600;margin:6px 0 2px}
 .gear-rating{color:var(--muted);font-size:13.5px;margin:0 0 8px}
 .affil-note{font-size:13px;color:var(--muted);border-left:3px solid var(--gold);padding-left:12px;max-width:640px}
+
+.gear-cat{margin:38px 0 16px;font-size:24px}
+.gear-block{display:flex;gap:18px;padding:22px 0;border-top:1px solid rgba(255,255,255,.12)}
+.gear-rank{flex:0 0 44px;height:44px;border-radius:10px;background:var(--navy2,#16283f);color:var(--gold);font-weight:800;font-size:20px;display:flex;align-items:center;justify-content:center}
+.kicker-pill{display:inline-block;font-size:11.5px;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;background:rgba(64,190,180,.16);color:#7fd8cf;border:1px solid rgba(64,190,180,.4);padding:4px 12px;border-radius:20px;margin-bottom:8px}
+.gear-main h2{margin:0 0 10px;font-size:21px}
+.gear-main h2 a{color:#fff;text-decoration:none}
+.gear-main h2 a:hover{color:var(--gold)}
+.buy-row{display:flex;align-items:center;gap:14px;margin:0 0 8px}
+.buy-row .price{font-size:19px;font-weight:800;color:#fff}
+.buy-btn{background:#1c2f4a;color:#fff;font-weight:800;font-size:13px;letter-spacing:1px;padding:10px 22px;border-radius:8px;text-decoration:none;border:1px solid var(--gold)}
+.buy-btn:hover{background:var(--gold);color:#0b1526}
+.gear-sub{color:var(--muted);font-size:13.5px;margin:0 0 10px}
+.gear-main p{max-width:700px}
+@media(max-width:640px){.gear-rank{flex-basis:36px;height:36px;font-size:17px}.gear-main h2{font-size:18px}}
