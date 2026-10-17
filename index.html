@@ -6,6 +6,14 @@
 <title>The Casino Cruiser — The Free Cruise Playbook</title>
 <meta name="description" content="A travel agent's honest guide to cruising on casino comps: how offers work, port-day strategy, ship reviews, real costs, and gear that earns its space.">
 <link rel="stylesheet" href="styles.css">
+<style>
+.finder{display:flex;flex-wrap:wrap;gap:12px;margin:22px 0;max-width:640px}
+.finder select{flex:1 1 220px;padding:14px 16px;font-size:16px;border-radius:10px;border:2px solid var(--gold);background:#fff;color:var(--navy);font-weight:600}
+.hero-sail{background:rgba(255,255,255,.08);border:1px solid rgba(212,164,55,.4);border-radius:12px;padding:16px 18px;margin:6px 0;max-width:640px}
+.hero-sail .hs-row{margin-top:8px;color:#c9d4e8;font-size:15px}
+.hero-sail a{color:var(--gold);font-weight:700}
+.hero-note{color:#c9d4e8;max-width:640px}
+</style>
 </head>
 <body>
 
@@ -13,6 +21,7 @@
   <a class="brand" href="index.html">The <span>Casino</span> Cruiser</a>
   <div class="nav-links">
     <a href="index.html" class="active">Home</a>
+    <a href="sailings.html">Sailings</a>
     <a href="playbook.html">Playbook</a>
     <a href="guides.html">Guides</a>
     <a href="labs.html">Labs</a>
@@ -34,10 +43,15 @@
 </div>
 
 <header class="hero"><div class="wrap">
-  <h1>Cruise <em>free</em> on casino comps.<br>Here's the honest playbook.</h1>
-  <p>I'm a travel agent who cruises for months at a time — much of it on casino offers. This site is everything I wish someone had told me: how comps really work, what trips actually cost, and how to use a port day well.</p>
-  <a class="btn" href="playbook.html">Read the playbook</a>
-  <a class="btn ghost" href="booking.html">Book with me</a>
+  <p class="kicker">Find your sailing</p>
+  <h1>Which ship are <em>you</em> sailing?</h1>
+  <p>Pick your cruise line and ship — see the sailing, the day-by-day ports, and the weather waiting for you.</p>
+  <div class="finder">
+    <select id="hero-line" aria-label="Cruise line"></select>
+    <select id="hero-ship" aria-label="Ship"></select>
+  </div>
+  <div id="hero-results"></div>
+  <p style="margin-top:18px"><a class="btn ghost" href="sailings.html">Open the full sailing finder</a></p>
 </div></header>
 
 <section class="section"><div class="wrap">
@@ -254,5 +268,39 @@
   <p>© 2026 The Casino Cruiser. Gamble responsibly: set a budget, never chase losses, and only play what you can afford to lose.</p>
 </div></footer>
 
+<script src="sailings.js"></script>
+<script>
+(function(){
+  var F = window.SailFinder, T = F.getT();
+  var lineSel = document.getElementById("hero-line"),
+      shipSel = document.getElementById("hero-ship"),
+      res = document.getElementById("hero-results");
+  function render(lineSlug, shipId){
+    res.innerHTML = "";
+    if (!lineSlug || !shipId) return;
+    var ship = F.findShip(lineSlug, shipId);
+    if (!ship) return;
+    var sailings = F.sailingsFor(lineSlug, shipId);
+    var head = "<strong>" + ship.name + "</strong> · " + F.LINE_NAMES[lineSlug] +
+      (ship.passengers ? " · " + ship.passengers.toLocaleString("en-US") + " guests" : "");
+    if (!sailings.length){
+      res.innerHTML = '<div class="hero-sail">' + head + '<div class="hs-row">' + T.comingSoon + "</div></div>";
+      return;
+    }
+    var rows = sailings.map(function(sa){
+      var last = sa.itinerary[sa.itinerary.length-1];
+      return '<div class="hs-row">' + T.departs + " " + F.fmtDate(sa.departure_date) + " · " + sa.nights + " " + T.nights +
+        " · " + sa.embark_port + " → " + (last.port_name || "") + "</div>";
+    }).join("");
+    res.innerHTML = '<div class="hero-sail">' + head + rows +
+      '<div class="hs-row"><a href="sailings.html?line=' + lineSlug + "&ship=" + shipId + '">' + T.viewItin + " →</a></div></div>";
+  }
+  F.loadData().then(function(){
+    F.lineOptions(lineSel);
+    lineSel.onchange = function(){ F.shipOptions(shipSel, lineSel.value); render(lineSel.value, ""); };
+    shipSel.onchange = function(){ render(lineSel.value, shipSel.value); };
+  });
+})();
+</script>
 </body>
 </html>
