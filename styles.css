@@ -99,3 +99,9 @@ footer p { margin: 0 0 10px; max-width: 720px; }
 .cta-band { background: var(--navy); color: #fff; padding: 56px 0; text-align: center; }
 .cta-band h2 { color: #fff; }
 .cta-band p { color: #c9d4e8; max-width: 560px; margin: 0 auto 24px; }
+
+.design-gallery{display:flex;gap:14px;overflow-x:auto;padding:10px 2px 16px;margin:4px 0 10px;scroll-snap-type:x mandatory}
+.design{flex:0 0 132px;scroll-snap-align:start;text-align:center;text-decoration:none}
+.design img{width:132px;height:158px;object-fit:contain;background:#fff;border-radius:14px;display:block;transition:transform .2s}
+.design:hover img{transform:scale(1.05)}
+.design span{display:block;margin-top:6px;font-size:12.5px;color:var(--muted)}
