@@ -105,3 +105,14 @@ footer p { margin: 0 0 10px; max-width: 720px; }
 .design img{width:132px;height:158px;object-fit:contain;background:#fff;border-radius:14px;display:block;transition:transform .2s}
 .design:hover img{transform:scale(1.05)}
 .design span{display:block;margin-top:6px;font-size:12.5px;color:var(--muted)}
+
+.gear-cat{margin:34px 0 14px;font-size:22px}
+.gear-card{position:relative}
+.tier{position:absolute;top:12px;right:12px;font-size:11px;font-weight:700;padding:3px 10px;border-radius:20px;letter-spacing:.5px}
+.tier-budget{background:#1d5c38;color:#c9f2d8}
+.tier-mid{background:#8a6d1c;color:#ffe9a8}
+.tier-high{background:#7c2d4e;color:#ffc9dd}
+.gear-card h3{padding-right:64px}
+.gear-meta{color:var(--gold);font-weight:600;margin:6px 0 2px}
+.gear-rating{color:var(--muted);font-size:13.5px;margin:0 0 8px}
+.affil-note{font-size:13px;color:var(--muted);border-left:3px solid var(--gold);padding-left:12px;max-width:640px}
