@@ -131,3 +131,7 @@ footer p { margin: 0 0 10px; max-width: 720px; }
 .gear-sub{color:var(--muted);font-size:13.5px;margin:0 0 10px}
 .gear-main p{max-width:700px}
 @media(max-width:640px){.gear-rank{flex-basis:36px;height:36px;font-size:17px}.gear-main h2{font-size:18px}}
+
+.gear-img{flex:0 0 190px;align-self:flex-start}
+.gear-img img{width:100%;height:auto;border-radius:10px;background:#fff;display:block}
+@media(max-width:640px){.gear-img{flex-basis:130px}}
