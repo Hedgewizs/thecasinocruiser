@@ -24,6 +24,15 @@ body {
 .wrap { max-width: 860px; margin: 0 auto; padding: 0 20px; }
 img { max-width: 100%; }
 
+/* Ad slots (Google AdSense placeholders) */
+.ad-slot {
+  border: 1px dashed var(--line); border-radius: var(--radius); background: var(--wash);
+  color: var(--muted); margin: 24px auto; padding: 18px; text-align: center; font-size: 12px;
+}
+.ad-slot .ad-label { display: block; margin-bottom: 4px; letter-spacing: .08em; text-transform: uppercase; font-size: 11px; }
+.ad-leaderboard { min-height: 100px; max-width: 860px; }
+.ad-inarticle { min-height: 260px; max-width: 728px; }
+
 /* Nav */
 .nav {
   background: var(--navy);
