@@ -46,9 +46,14 @@ function loadData(){
   var prefix = window.SAIL_DATA_PREFIX || "data/";
   return Promise.all([
     fetch(prefix + "ships.json").then(function(r){ return r.json(); }),
-    fetch(prefix + "sailings.json").then(function(r){ return r.json(); })
+    fetch(prefix + "sailings.json").then(function(r){ return r.json(); }),
+    fetch(prefix + "sailings-princess-1.json").then(function(r){ return r.json(); }),
+    fetch(prefix + "sailings-princess-2.json").then(function(r){ return r.json(); }),
+    fetch(prefix + "sailings-princess-3.json").then(function(r){ return r.json(); }),
+    fetch(prefix + "sailings-princess-4.json").then(function(r){ return r.json(); })
   ]).then(function(res){
     data.ships = res[0]; data.sailings = res[1];
+    data.sailings["princess-cruises"] = res[2].concat(res[3], res[4], res[5]);
     return data;
   });
 }
