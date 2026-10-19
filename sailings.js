@@ -182,7 +182,7 @@ function dayRow(day){
   var badge = '<span class="day-badge kind-' + day.kind + '">' + label + "</span>";
   var info = (day.kind === "call" || day.kind === "embark" || day.kind === "disembark") ? findPortInfo(day) : null;
   var place = day.port_name ? "<strong>" + day.port_name + "</strong>" : "";
-  if (info) place = '<a href="ports.html#' + info.id + '" class="port-link"><strong>' + day.port_name + "</strong></a>";
+  if (info) place = '<a href="ports.html?v=4#' + info.id + '" class="port-link"><strong>' + day.port_name + "</strong></a>";
   var wxSlot = (day.kind !== "sea" && day.lat != null)
     ? '<div class="wx-slot" data-lat="' + day.lat + '" data-lon="' + day.lon + '" data-date="' + day.date + '"><p class="wx-note">…</p></div>'
     : "";
@@ -190,7 +190,7 @@ function dayRow(day){
   if (info && info.do && info.do.length) {
     todoHtml = '<div class="port-todo"><span class="todo-label">📌 What to do:</span><ul>' +
       info.do.slice(0, 3).map(function(d){ return "<li>" + d + "</li>"; }).join("") +
-      '</ul><a href="ports.html#' + info.id + '" class="port-more">Full port guide →</a></div>';
+      '</ul><a href="ports.html?v=4#' + info.id + '" class="port-more">Full port guide →</a></div>';
   }
   return '<div class="day-row">' +
     '<div class="day-date">' + fmtDate(day.date) + "<br>" + badge + "</div>" +
