@@ -61,10 +61,6 @@
 </div></header>
 
 <section class="section"><div class="wrap">
-  <div class="mode-toggle">
-    <button id="mode-port" class="active">Single port</button>
-    <button id="mode-itin">Sample itinerary</button>
-  </div>
 
   <div id="ctl-port" class="planner-controls">
     <label>Port
@@ -74,16 +70,6 @@
       <input type="date" id="port-date">
     </label>
     <button class="btn" id="go-port">Show port guide</button>
-  </div>
-
-  <div id="ctl-itin" class="planner-controls" style="display:none">
-    <label>Itinerary
-      <select id="itin-select"></select>
-    </label>
-    <label>Sail date
-      <input type="date" id="itin-date">
-    </label>
-    <button class="btn" id="go-itin">Plan my week</button>
   </div>
 
   <div id="results"></div>
@@ -117,16 +103,6 @@ const regionOrder = ["Caribbean","Alaska","Mexican Riviera","Mediterranean","Nor
   $("itin-date").value = s.toISOString().slice(0,10);
   // Deep-link: ports.html#apia pre-selects that port (handled after handlers are attached)
 })();
-
-$("mode-port").onclick = () => setMode("port");
-$("mode-itin").onclick = () => setMode("itin");
-function setMode(m){
-  $("mode-port").classList.toggle("active", m==="port");
-  $("mode-itin").classList.toggle("active", m==="itin");
-  $("ctl-port").style.display = m==="port" ? "flex" : "none";
-  $("ctl-itin").style.display = m==="itin" ? "flex" : "none";
-  $("results").innerHTML = "";
-}
 
 async function fetchWx(lat, lon, dateStr){
   const today = new Date(); today.setHours(0,0,0,0);
@@ -226,48 +202,27 @@ function portCard(port, dateStr, wx, note){
   return `<div class="wx-card"><h3>${port.name}</h3><p class="wx-date">${port.country}</p>${noteHtml}${sections}${merch}</div>`;
 }
 
-$("go-port").onclick = async () => {
-  const port = PORT_BY_ID[$("port-select").value];
+async function loadPortGuide(portId){
+  const port = PORT_BY_ID[portId];
+  if (!port) return;
   const dateStr = $("port-date").value;
-  $("results").innerHTML = `<p class="loading">Checking the skies over ${port.name}…</p>`;
+  $("results").innerHTML = `<p class="loading">Loading ${port.name}…</p>`;
   let wx = null;
   try { wx = await fetchWx(port.lat, port.lon, dateStr); } catch(e){ wx = null; }
   if (!wx) {
-    // Fall back to historical climate averages
     try { wx = await fetchClimate(port.lat, port.lon, dateStr); } catch(e){ wx = null; }
   }
   $("results").innerHTML = `<div class="wx-grid">${portCard(port, dateStr, wx)}</div>`;
-};
+}
 
-$("go-itin").onclick = async () => {
-  const itin = ITINERARIES.find(t => t.id === $("itin-select").value);
-  const sail = $("itin-date").value;
-  $("results").innerHTML = `<p class="loading">Planning your ${itin.name.toLowerCase()}…</p>`;
-  const cards = [];
-  for (const stop of itin.days){
-    const d = new Date(sail + "T00:00:00");
-    d.setDate(d.getDate() + (stop.d - 1));
-    const dateStr = d.toISOString().slice(0,10);
-    if (stop.sea){
-      const label = d.toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric"});
-      cards.push(`<div class="wx-card sea-card"><h3>Day at sea</h3><p class="wx-date">Day ${stop.d} · ${label}</p><p style="color:#666">Pool day. Check the forecast at your next port.</p></div>`);
-      continue;
-    }
-    const port = PORT_BY_ID[stop.port];
-    let wx = null;
-    try { wx = await fetchWx(port.lat, port.lon, dateStr); } catch(e){ wx = null; }
-    cards.push(portCard(port, dateStr, wx, (stop.note ? stop.note + " · " : "") + "Day " + stop.d));
-  }
-  $("results").innerHTML = `<h2 style="margin-top:8px">${itin.name}</h2><div class="wx-grid">${cards.join("")}</div>`;
-};
+$("go-port").onclick = () => loadPortGuide($("port-select").value);
 
 // Deep-link: ports.html#apia auto-loads that port's guide — no click needed
 (function(){
   const h = location.hash.replace("#", "");
   if (h && PORT_BY_ID[h]) {
     $("port-select").value = h;
-    setMode("port");
-    $("go-port").click();
+    loadPortGuide(h);
   }
 })();
 </script>
