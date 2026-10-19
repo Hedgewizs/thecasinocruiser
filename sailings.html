@@ -100,11 +100,22 @@
       render(lineSel.value, "");
     };
     shipSel.onchange = function(){ render(lineSel.value, shipSel.value); };
+    // Support both ?line=&ship= and #line=&ship=&sailing=N
     var q = new URLSearchParams(location.search);
-    if (q.get("line") && F.LINE_NAMES[q.get("line")]){
-      lineSel.value = q.get("line");
-      F.shipOptions(shipSel, lineSel.value);
-      if (q.get("ship")){ shipSel.value = q.get("ship"); render(lineSel.value, shipSel.value); }
+    var hq = new URLSearchParams(location.hash.replace("#", ""));
+    var line = q.get("line") || hq.get("line");
+    var ship = q.get("ship") || hq.get("ship");
+    var sailIdx = hq.get("sailing");
+    if (line && F.LINE_NAMES[line]){
+      lineSel.value = line;
+      F.shipOptions(shipSel, line);
+      if (ship){ shipSel.value = ship; render(line, ship); }
+      if (sailIdx !== null) {
+        setTimeout(function(){
+          var head = document.querySelector('.sail-head[data-idx="' + sailIdx + '"]');
+          if (head) { head.click(); head.scrollIntoView({block: "start"}); }
+        }, 400);
+      }
     }
   }).catch(function(){
     results.innerHTML = "<p>Could not load sailing data — please try again.</p>";
