@@ -66,6 +66,8 @@ img { max-width: 100%; }
 .port-todo .todo-label { font-weight: 700; color: var(--navy); }
 .port-todo ul { margin: 4px 0 0 18px; padding: 0; }
 .port-todo li { margin-bottom: 3px; }
+.port-link { color: var(--navy); text-decoration: underline; text-decoration-color: var(--gold); }
+.port-more { display: inline-block; margin-top: 4px; font-size: 13.5px; font-weight: 700; color: var(--navy); }
 
 /* Sections */
 .section { padding: 52px 0; }

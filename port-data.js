@@ -74,6 +74,30 @@ const PORTS = [
   do:["South Beach + Little Havana if you fly in early","Wynwood Walls street art district"]},
  {id:"seattle", name:"Seattle", country:"Washington, USA", region:"Embarkation", lat:47.61, lon:-122.33, merch:null, embark:true,
   do:["Pike Place Market + Space Needle pre-cruise","Chihuly Garden glass exhibit"]},
+ // South Pacific (Tim's Oct 2026 sailing)
+ {id:"apia", name:"Apia", country:"Samoa", region:"South Pacific", lat:-13.83, lon:-171.76, merch:null,
+  do:["To Sua Ocean Trench — swim in the famous sinkhole, 1 hr from port","Papase'ea Sliding Rocks for natural waterslides","Apia market + Immaculate Conception cathedral in town"]},
+ {id:"lautoka", name:"Lautoka", country:"Fiji", region:"South Pacific", lat:-17.61, lon:177.45, merch:null,
+  do:["Garden of the Sleeping Giant orchids + mud pools","Viseisei village — the legendary first Fijian landing site","Boat day trip to the Mamanuca islands for snorkeling"]},
+ {id:"suva", name:"Suva", country:"Fiji", region:"South Pacific", lat:-18.14, lon:178.42, merch:null,
+  do:["Fiji Museum + Thurston Gardens in the city center","Colo-i-Suva rainforest park — waterfall swim 20 min out","Municipal market for kava + tropical fruit"]},
+ {id:"dravuni", name:"Dravuni Island", country:"Fiji", region:"South Pacific", lat:-18.77, lon:178.53, merch:null,
+  do:["Hike to the hilltop lookout — the whole island in one view","Snorkel the reef right off the beach","Village visit: meet locals in one of Fiji's smallest communities"]},
+ {id:"mystery-island", name:"Mystery Island", country:"Vanuatu", region:"South Pacific", lat:-20.25, lon:169.77, merch:null,
+  do:["Uninhabited island: snorkel + beach barbecue is the whole program","Tender port — bring reef shoes, coral is sharp","Local market boats sell crafts right at the beach"]},
+ {id:"port-vila", name:"Port Vila", country:"Vanuatu", region:"South Pacific", lat:-17.74, lon:168.31, merch:null,
+  do:["Hideaway Island marine sanctuary — snorkel from shore","Ekasi cultural village for traditional customs","Seaside market + duty-free on the waterfront"]},
+ {id:"noumea", name:"Nouméa", country:"New Caledonia", region:"South Pacific", lat:-22.27, lon:166.45, merch:null,
+  do:["Tjibaou Cultural Centre — Renzo Piano's Kanak masterpiece","Amedée Lighthouse island day trip — snorkel + lunch","Anse Vata beach + French cafés along the promenade"]},
+ // Hawaii
+ {id:"hilo", name:"Hilo", country:"Hawaii, USA", region:"Hawaii", lat:19.73, lon:-155.09, merch:null,
+  do:["Hawai'i Volcanoes National Park — 45 min each way, go early","Rainbow Falls + Liliuokalani Gardens in town","Hilo farmers market for tropical fruit + mac nuts"]},
+ {id:"kona", name:"Kailua-Kona", country:"Hawaii, USA", region:"Hawaii", lat:19.64, lon:-156.00, merch:null,
+  do:["Manta ray night snorkel — the signature Kona experience","Pu'uhonua o Honaunau (Place of Refuge) national park","Ali'i Drive: coffee farms + historic Kailua village"]},
+ {id:"nawiliwili", name:"Nawiliwili (Kauai)", country:"Hawaii, USA", region:"Hawaii", lat:21.95, lon:-159.35, merch:null,
+  do:["Wailua Falls + Fern Grotto boat tour","Poipu Beach for snorkeling + monk seals","Kauai Coffee Company — largest coffee estate in the US"]},
+ {id:"honolulu", name:"Honolulu", country:"Hawaii, USA", region:"Hawaii", lat:21.31, lon:-157.86, merch:null,
+  do:["Pearl Harbor — book the Arizona memorial ahead","Diamond Head sunrise hike, reservations required","Waikiki beach + poke at the food trucks"]},
 ];
 const PORT_BY_ID = Object.fromEntries(PORTS.map(p => [p.id, p]));
 
