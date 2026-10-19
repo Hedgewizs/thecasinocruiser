@@ -31,7 +31,7 @@ var T = window.SAIL_T || {
   portDay: "Port day",
   scenic: "Scenic cruising",
   seaDay: "At sea",
-  wxSoon: "Forecast opens ~16 days out — check back closer to sailing.",
+  wxSoon: "Forecast opens ~16 days out.",
   wxFail: "Weather unavailable right now.",
   planPort: "Plan this port day",
   fullFinder: "Open the full sailing finder",
