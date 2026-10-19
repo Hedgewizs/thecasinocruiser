@@ -218,13 +218,15 @@ async function loadPortGuide(portId){
 $("go-port").onclick = () => loadPortGuide($("port-select").value);
 
 // Deep-link: ports.html#apia auto-loads that port's guide — no click needed
-(function(){
+function loadFromHash(){
   const h = location.hash.replace("#", "");
   if (h && PORT_BY_ID[h]) {
     $("port-select").value = h;
     loadPortGuide(h);
   }
-})();
+}
+loadFromHash();
+window.addEventListener("hashchange", loadFromHash);
 </script>
 </body>
 </html>
