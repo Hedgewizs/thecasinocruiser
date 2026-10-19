@@ -133,7 +133,7 @@ function wxHtml(wx){
   if (wx === "error") return '<p class="wx-note">' + T.wxFail + "</p>";
   if (!wx) return '<p class="wx-note">' + T.wxSoon + "</p>";
   return '<div class="wx-line">' + wxIcon(wx.code) + " " + f2c(wx.hi) + "°F / " + f2c(wx.lo) +
-    "°F · 🌧 " + wx.rain + "% · 💨 " + wx.wind + " mph</div>";
+    "°F · 💧 " + wx.rain + "% · 💨 " + wx.wind + " mph</div>";
 }
 
 var KIND_LABEL = { embark: "embark", call: "portDay", sea: "seaDay", scenic: "scenic", disembark: "disembark" };
