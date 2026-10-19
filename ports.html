@@ -21,6 +21,9 @@
 .wx-meta{display:flex;gap:14px;margin:10px 0;color:#444;font-size:.95rem}
 .wx-do{margin:10px 0 0;padding-left:18px;font-size:.95rem}
 .wx-do li{margin-bottom:6px}
+.wx-card h4{margin:18px 0 8px;font-size:1rem;color:var(--navy)}
+.wx-card p{font-size:.95rem;line-height:1.55;color:#333;margin:0 0 10px}
+.port-intro{font-size:1rem !important;line-height:1.6 !important;color:#444 !important}
 .wx-merch{display:inline-block;margin-top:12px}
 .wx-note{background:#f4f7fa;border-radius:10px;padding:14px 18px;margin-top:20px;font-size:.95rem;color:#444}
 .sea-card{opacity:.75}
@@ -84,6 +87,7 @@
 </div></footer>
 
 <script src="port-data.js?v=2"></script>
+<script src="rich-guides.js?v=1"></script>
 <script>
 const $ = id => document.getElementById(id);
 const regionOrder = ["Caribbean","Alaska","Mexican Riviera","Mediterranean","Northern Europe","South America","Antarctica","South Pacific","Hawaii","Australia & New Zealand","Panama & Central America","Embarkation"];
@@ -152,15 +156,24 @@ function portCard(port, dateStr, wx, note){
   const dateLabel = new Date(dateStr + "T00:00:00").toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric",year:"numeric"});
   let wxHtml;
   if (wx) wxHtml = `<div class="wx-temp">${wxIcon(wx.code)} ${F2C(wx.hi)}°F <span style="font-size:1rem;font-weight:400;color:#666">/ ${F2C(wx.lo)}°F</span></div>
-    <div class="wx-meta"><span>🌧 ${wx.rain}%</span><span>💨 ${wx.wind} mph</span></div>`;
+    <div class="wx-meta"><span>💧 ${wx.rain}%</span><span>💨 ${wx.wind} mph</span></div>`;
   else wxHtml = `<p style="color:#666">Forecast opens ~16 days out.</p>`;
   const merch = port.merch ? `<a class="wx-merch btn ghost" href="${port.merch}" target="_blank" rel="noopener">Shop the ${port.name} tee</a>` : "";
   const noteHtml = note ? `<p class="wx-date">${note}</p>` : "";
-  // OpenStreetMap embed centered on the port
   const lat = port.lat, lon = port.lon, d = 0.15;
   const mapHtml = `<iframe class="port-map" loading="lazy" src="https://www.openstreetmap.org/export/embed.html?bbox=${lon-d}%2C${lat-d}%2C${lon+d}%2C${lat+d}&layer=mapnik&marker=${lat}%2C${lon}" style="border:1px solid #ddd;border-radius:10px;width:100%;height:280px;margin:12px 0"></iframe>`;
-  return `<div class="wx-card"><h3>${port.name}</h3><p class="wx-date">${port.country} · ${dateLabel}</p>${noteHtml}${wxHtml}${mapHtml}
-    <ul class="wx-do">${port.do.map(x=>`<li>${x}</li>`).join("")}</ul>${merch}</div>`;
+  // Allashore-style sections
+  let sections = "";
+  if (port.intro) sections += `<p class="port-intro">${port.intro}</p>`;
+  sections += `<h4>🌤️ Weather — ${dateLabel}</h4>${wxHtml}`;
+  sections += mapHtml;
+  if (port.ashore) sections += `<h4>🚢 Getting ashore</h4><p>${port.ashore}</p>`;
+  if (port.around) sections += `<h4>🚕 Getting around</h4><p>${port.around}</p>`;
+  sections += `<h4>⭐ Don't miss</h4><ul class="wx-do">${port.do.map(x=>`<li>${x}</li>`).join("")}</ul>`;
+  if (port.planning) sections += `<h4>🗓️ Planning your day</h4><p>${port.planning}</p>`;
+  if (port.food) sections += `<h4>🍽️ Food & drink</h4><p>${port.food}</p>`;
+  if (port.know) sections += `<h4>ℹ️ Know before you go</h4><p>${port.know}</p>`;
+  return `<div class="wx-card"><h3>${port.name}</h3><p class="wx-date">${port.country}</p>${noteHtml}${sections}${merch}</div>`;
 }
 
 $("go-port").onclick = async () => {
