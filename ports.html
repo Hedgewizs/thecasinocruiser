@@ -123,36 +123,6 @@ async function fetchWx(lat, lon, dateStr){
   return {days, type: "forecast"};
 }
 
-async function fetchClimate(lat, lon, dateStr){
-  // Historical average: same date over past 5 years
-  const target = new Date(dateStr + "T00:00:00");
-  const mm = String(target.getMonth() + 1).padStart(2, "0");
-  const dd = String(target.getDate()).padStart(2, "0");
-  const y = target.getFullYear();
-  const start = (y - 5) + "-" + mm + "-" + dd;
-  const end = (y - 1) + "-" + mm + "-" + dd;
-  const url = `https://archive-api.open-meteo.com/v1/archive?latitude=${lat}&longitude=${lon}&start_date=${start}&end_date=${end}&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max&temperature_unit=celsius&wind_speed_unit=mph&timezone=auto`;
-  const r = await fetch(url);
-  if (!r.ok) throw new Error("climate fetch failed");
-  const j = await r.json();
-  const d = j.daily;
-  if (!d || !d.time || !d.time.length) return null;
-  // Average the same month-day across years
-  let hiSum = 0, loSum = 0, rainDays = 0, windSum = 0, n = 0;
-  for (let i = 0; i < d.time.length; i++) {
-    if (d.time[i].slice(5) === mm + "-" + dd) {
-      hiSum += d.temperature_2m_max[i] || 0;
-      loSum += d.temperature_2m_min[i] || 0;
-      if ((d.precipitation_sum[i] || 0) > 1) rainDays++;
-      windSum += d.wind_speed_10m_max[i] || 0;
-      n++;
-    }
-  }
-  if (!n) return null;
-  return {hi: Math.round(hiSum / n), lo: Math.round(loSum / n),
-          rain: Math.round(rainDays / n * 100), wind: Math.round(windSum / n),
-          code: 2, type: "climate", years: n};
-}
 const F2C = c => Math.round(c*9/5+32);
 function wxIcon(code){
   if (code <= 1) return "☀️";
@@ -175,10 +145,7 @@ function portCard(port, dateStr, wx, note){
     }).join("");
     wxHtml = `<div class="wx-strip">${dayCells}</div><p style="font-size:.85rem;color:#888">Live forecast · port day highlighted</p>`;
   }
-  else if (wx && wx.type === "climate") wxHtml = `<div class="wx-temp">⛅ ${F2C(wx.hi)}°F <span style="font-size:1rem;font-weight:400;color:#666">/ ${F2C(wx.lo)}°F</span></div>
-    <div class="wx-meta"><span>💧 ~${wx.rain}% rainy days</span><span>💨 ${wx.wind} mph avg</span></div>
-    <p style="font-size:.85rem;color:#888">Historical average (${wx.years}-yr) — live forecast opens ~16 days out</p>`;
-  else wxHtml = `<p style="color:#666">Weather unavailable.</p>`;
+  else wxHtml = `<p style="color:#666">Forecast unavailable — check back closer to sailing.</p>`;
   const merch = port.merch ? `<a class="wx-merch btn ghost" href="${port.merch}" target="_blank" rel="noopener">Shop the ${port.name} tee</a>` : "";
   const noteHtml = note ? `<p class="wx-date">${note}</p>` : "";
   const lat = port.lat, lon = port.lon, d = 0.15;
@@ -204,9 +171,6 @@ async function loadPortGuide(portId){
   $("results").innerHTML = `<p class="loading">Loading ${port.name}…</p>`;
   let wx = null;
   try { wx = await fetchWx(port.lat, port.lon, dateStr); } catch(e){ wx = null; }
-  if (!wx) {
-    try { wx = await fetchClimate(port.lat, port.lon, dateStr); } catch(e){ wx = null; }
-  }
   $("results").innerHTML = `<div class="wx-grid">${portCard(port, dateStr, wx)}</div>`;
 }
 
