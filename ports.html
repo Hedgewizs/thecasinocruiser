@@ -73,7 +73,7 @@
     <label>Port day
       <input type="date" id="port-date">
     </label>
-    <button class="btn" id="go-port">Check the weather</button>
+    <button class="btn" id="go-port">Show port guide</button>
   </div>
 
   <div id="ctl-itin" class="planner-controls" style="display:none">
@@ -116,13 +116,7 @@ const regionOrder = ["Caribbean","Alaska","Mexican Riviera","Mediterranean","Nor
   $("port-date").value = d.toISOString().slice(0,10);
   const s = new Date(); s.setDate(s.getDate() + 60);
   $("itin-date").value = s.toISOString().slice(0,10);
-  // Deep-link: ports.html#apia pre-selects that port
-  const h = location.hash.replace("#", "");
-  if (h && PORT_BY_ID[h]) {
-    sel.value = h;
-    setMode("port");
-    $("go-port").click();
-  }
+  // Deep-link: ports.html#apia pre-selects that port (handled after handlers are attached)
 })();
 
 $("mode-port").onclick = () => setMode("port");
@@ -267,6 +261,16 @@ $("go-itin").onclick = async () => {
   }
   $("results").innerHTML = `<h2 style="margin-top:8px">${itin.name}</h2><div class="wx-grid">${cards.join("")}</div>`;
 };
+
+// Deep-link: ports.html#apia auto-loads that port's guide — no click needed
+(function(){
+  const h = location.hash.replace("#", "");
+  if (h && PORT_BY_ID[h]) {
+    $("port-select").value = h;
+    setMode("port");
+    $("go-port").click();
+  }
+})();
 </script>
 </body>
 </html>
