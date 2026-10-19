@@ -86,7 +86,7 @@
 <script src="port-data.js"></script>
 <script>
 const $ = id => document.getElementById(id);
-const regionOrder = ["Caribbean","Alaska","Mexican Riviera","Mediterranean","Northern Europe","South America","Antarctica","Embarkation"];
+const regionOrder = ["Caribbean","Alaska","Mexican Riviera","Mediterranean","Northern Europe","South America","Antarctica","South Pacific","Hawaii","Australia & New Zealand","Panama & Central America","Embarkation"];
 
 // Build port dropdown grouped by region
 (() => {
@@ -104,6 +104,13 @@ const regionOrder = ["Caribbean","Alaska","Mexican Riviera","Mediterranean","Nor
   $("port-date").value = d.toISOString().slice(0,10);
   const s = new Date(); s.setDate(s.getDate() + 60);
   $("itin-date").value = s.toISOString().slice(0,10);
+  // Deep-link: ports.html#apia pre-selects that port
+  const h = location.hash.replace("#", "");
+  if (h && PORT_BY_ID[h]) {
+    sel.value = h;
+    setMode("port");
+    $("go-port").click();
+  }
 })();
 
 $("mode-port").onclick = () => setMode("port");
