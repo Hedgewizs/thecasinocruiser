@@ -60,6 +60,8 @@ img { max-width: 100%; }
 .btn:hover { background: var(--gold-soft); }
 .btn.ghost { background: transparent; color: #fff; border: 2px solid var(--gold); }
 .btn.ghost:hover { background: rgba(212,164,55,.12); }
+.card .btn.ghost, .sail-card .btn.ghost { color: var(--navy); }
+.card .btn.ghost:hover, .sail-card .btn.ghost:hover { background: rgba(212,164,55,.15); }
 
 /* Sections */
 .section { padding: 52px 0; }
