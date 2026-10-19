@@ -1,0 +1,157 @@
+/* The Casino Cruiser — shared styles. Mobile-first, navy + gold. */
+:root {
+  --navy: #0b1a33;
+  --navy-2: #12294f;
+  --gold: #d4a437;
+  --gold-soft: #f3e3b3;
+  --ink: #1c2433;
+  --muted: #5b6577;
+  --paper: #ffffff;
+  --wash: #f6f8fc;
+  --line: #e3e9f2;
+  --radius: 14px;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+  line-height: 1.65;
+  font-size: 17px;
+}
+.wrap { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+img { max-width: 100%; }
+
+/* Ad slots (Google AdSense placeholders) */
+.ad-slot {
+  border: 1px dashed var(--line); border-radius: var(--radius); background: var(--wash);
+  color: var(--muted); margin: 24px auto; padding: 18px; text-align: center; font-size: 12px;
+}
+.ad-slot .ad-label { display: block; margin-bottom: 4px; letter-spacing: .08em; text-transform: uppercase; font-size: 11px; }
+.ad-leaderboard { min-height: 100px; max-width: 860px; }
+.ad-inarticle { min-height: 260px; max-width: 728px; }
+
+/* Nav */
+.nav {
+  background: var(--navy);
+  position: sticky; top: 0; z-index: 50;
+  border-bottom: 2px solid var(--gold);
+}
+.nav .wrap { display: flex; align-items: center; gap: 18px; padding-top: 12px; padding-bottom: 12px; }
+.brand { color: #fff; font-weight: 800; text-decoration: none; font-size: 18px; letter-spacing: .2px; white-space: nowrap; }
+.brand span { color: var(--gold); }
+.nav-links { margin-left: auto; display: flex; gap: 4px; flex-wrap: wrap; }
+.nav-links a { color: #dbe4f3; text-decoration: none; font-size: 14.5px; padding: 8px 10px; border-radius: 8px; }
+.nav-links a:hover { background: var(--navy-2); color: #fff; }
+.nav-links a.active { color: var(--gold); font-weight: 700; }
+
+/* Hero */
+.hero { background: linear-gradient(rgba(10,20,40,.55), rgba(10,20,40,.75)), url('https://n.uguu.se/ledhGDVV.jpg') center/cover no-repeat; color: #fff; padding: 64px 0 56px; }
+.hero h1 { font-size: clamp(30px, 6vw, 46px); line-height: 1.15; margin: 0 0 14px; }
+.hero h1 em { color: var(--gold); font-style: normal; }
+.hero p { color: #c9d4e8; font-size: 18px; max-width: 620px; margin: 0 0 26px; }
+.btn {
+  display: inline-block; background: var(--gold); color: var(--navy);
+  font-weight: 800; text-decoration: none; padding: 13px 26px; border-radius: 10px;
+  margin-right: 10px; margin-bottom: 10px;
+}
+.btn:hover { background: var(--gold-soft); }
+.btn.ghost { background: transparent; color: #fff; border: 2px solid var(--gold); }
+.btn.ghost:hover { background: rgba(212,164,55,.12); }
+.card .btn.ghost, .sail-card .btn.ghost, .sailing-card .btn.ghost { color: var(--navy); }
+.card .btn.ghost:hover, .sail-card .btn.ghost:hover, .sailing-card .btn.ghost:hover { background: rgba(212,164,55,.15); }
+.port-todo { margin-top: 8px; font-size: 14px; color: var(--muted); }
+.port-todo .todo-label { font-weight: 700; color: var(--navy); }
+.port-todo ul { margin: 4px 0 0 18px; padding: 0; }
+.port-todo li { margin-bottom: 3px; }
+.port-link { color: var(--navy); text-decoration: underline; text-decoration-color: var(--gold); }
+.port-more { display: inline-block; margin-top: 4px; font-size: 13.5px; font-weight: 700; color: var(--navy); }
+.sail-head { padding: 4px 0; }
+.sail-head:hover h3 { color: var(--gold); }
+.sail-go { display: inline-block; margin-top: 8px; font-size: 14px; font-weight: 700; color: var(--navy); border: 2px solid var(--gold); border-radius: 8px; padding: 8px 16px; }
+
+/* Sections */
+.section { padding: 52px 0; }
+.section.alt { background: var(--wash); }
+.kicker { color: var(--gold); font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; font-size: 13px; margin: 0 0 8px; }
+h2 { font-size: clamp(24px, 4.5vw, 32px); line-height: 1.25; margin: 0 0 14px; color: var(--navy); }
+h3 { color: var(--navy); margin: 26px 0 8px; }
+.lede { font-size: 18.5px; color: var(--muted); max-width: 640px; }
+.cards { display: grid; gap: 18px; margin-top: 26px; }
+@media (min-width: 640px) { .cards { grid-template-columns: repeat(3, 1fr); } .cards.two { grid-template-columns: repeat(2, 1fr); } }
+.card {
+  border: 1px solid var(--line); border-radius: var(--radius); padding: 24px;
+  background: #fff; text-decoration: none; color: inherit; display: block;
+}
+a.card:hover { border-color: var(--gold); box-shadow: 0 6px 22px rgba(11,26,51,.08); }
+.card .num { color: var(--gold); font-weight: 800; font-size: 14px; letter-spacing: 1px; }
+.card h3 { margin: 8px 0 8px; font-size: 19px; }
+.card p { color: var(--muted); font-size: 15.5px; margin: 0 0 12px; }
+.card .more { color: var(--navy); font-weight: 700; font-size: 15px; }
+.card .more::after { content: " →"; color: var(--gold); }
+
+/* Article */
+.article { padding: 46px 0 60px; }
+.article h1 { font-size: clamp(28px, 5.5vw, 40px); line-height: 1.2; color: var(--navy); margin: 0 0 10px; }
+.article .standfirst { font-size: 19px; color: var(--muted); margin: 0 0 30px; max-width: 640px; }
+.article h2 { margin-top: 38px; }
+.article ul, .article ol { padding-left: 22px; }
+.article li { margin-bottom: 8px; }
+.callout {
+  background: var(--wash); border-left: 4px solid var(--gold);
+  padding: 18px 22px; border-radius: 0 var(--radius) var(--radius) 0; margin: 28px 0;
+}
+.callout strong { color: var(--navy); }
+.breadcrumb { font-size: 14px; color: var(--muted); margin-bottom: 18px; }
+.breadcrumb a { color: var(--navy); }
+
+/* Gear list */
+.gear-item { border: 1px solid var(--line); border-radius: var(--radius); padding: 22px; margin: 18px 0; background: #fff; }
+.gear-item h3 { margin-top: 0; }
+.gear-item p { color: var(--muted); font-size: 16px; }
+
+/* Footer */
+footer { background: var(--navy); color: #aebad2; padding: 40px 0; font-size: 14.5px; }
+footer a { color: var(--gold-soft); }
+footer p { margin: 0 0 10px; max-width: 720px; }
+.cta-band { background: var(--navy); color: #fff; padding: 56px 0; text-align: center; }
+.cta-band h2 { color: #fff; }
+.cta-band p { color: #c9d4e8; max-width: 560px; margin: 0 auto 24px; }
+
+.design-gallery{display:flex;gap:14px;overflow-x:auto;padding:10px 2px 16px;margin:4px 0 10px;scroll-snap-type:x mandatory}
+.design{flex:0 0 132px;scroll-snap-align:start;text-align:center;text-decoration:none}
+.design img{width:132px;height:158px;object-fit:contain;background:#fff;border-radius:14px;display:block;transition:transform .2s}
+.design:hover img{transform:scale(1.05)}
+.design span{display:block;margin-top:6px;font-size:12.5px;color:var(--muted)}
+
+.gear-cat{margin:34px 0 14px;font-size:22px}
+.gear-card{position:relative}
+.tier{position:absolute;top:12px;right:12px;font-size:11px;font-weight:700;padding:3px 10px;border-radius:20px;letter-spacing:.5px}
+.tier-budget{background:#1d5c38;color:#c9f2d8}
+.tier-mid{background:#8a6d1c;color:#ffe9a8}
+.tier-high{background:#7c2d4e;color:#ffc9dd}
+.gear-card h3{padding-right:64px}
+.gear-meta{color:var(--gold);font-weight:600;margin:6px 0 2px}
+.gear-rating{color:var(--muted);font-size:13.5px;margin:0 0 8px}
+.affil-note{font-size:13px;color:var(--muted);border-left:3px solid var(--gold);padding-left:12px;max-width:640px}
+
+.gear-cat{margin:38px 0 16px;font-size:24px}
+.gear-block{display:flex;gap:18px;padding:22px 0;border-top:1px solid rgba(255,255,255,.12)}
+.gear-rank{flex:0 0 44px;height:44px;border-radius:10px;background:var(--navy2,#16283f);color:var(--gold);font-weight:800;font-size:20px;display:flex;align-items:center;justify-content:center}
+.kicker-pill{display:inline-block;font-size:11.5px;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;background:rgba(64,190,180,.16);color:#7fd8cf;border:1px solid rgba(64,190,180,.4);padding:4px 12px;border-radius:20px;margin-bottom:8px}
+.gear-main h2{margin:0 0 10px;font-size:21px}
+.gear-main h2 a{color:#fff;text-decoration:none}
+.gear-main h2 a:hover{color:var(--gold)}
+.buy-row{display:flex;align-items:center;gap:14px;margin:0 0 8px}
+.buy-row .price{font-size:19px;font-weight:800;color:#fff}
+.buy-btn{background:#1c2f4a;color:#fff;font-weight:800;font-size:13px;letter-spacing:1px;padding:10px 22px;border-radius:8px;text-decoration:none;border:1px solid var(--gold)}
+.buy-btn:hover{background:var(--gold);color:#0b1526}
+.gear-sub{color:var(--muted);font-size:13.5px;margin:0 0 10px}
+.gear-main p{max-width:700px}
+@media(max-width:640px){.gear-rank{flex-basis:36px;height:36px;font-size:17px}.gear-main h2{font-size:18px}}
+
+.gear-img{flex:0 0 190px;align-self:flex-start}
+.gear-img img{width:100%;height:auto;border-radius:10px;background:#fff;display:block}
+@media(max-width:640px){.gear-img{flex-basis:130px}}

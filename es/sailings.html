@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Encuentra tu salida — Buscador de salidas | The Casino Cruiser</title>
+<meta name="description" content="Busca salidas de crucero por línea y barco. Mira itinerarios día por día con el clima de cada puerto antes de reservar.">
+<link rel="stylesheet" href="styles.css?v=3">
+<style>
+.finder{display:flex;flex-wrap:wrap;gap:12px;margin:22px 0}
+.finder select{flex:1 1 220px;padding:14px 16px;font-size:16px;border-radius:10px;border:2px solid var(--gold);background:#fff;color:var(--navy);font-weight:600}
+.finder select option{background:#fff;color:#1a1a2e}
+.sailing-card{border:1px solid var(--line,#e5e0d5);border-radius:14px;padding:20px;margin:18px 0;background:#fff}
+.sailing-card h3{margin:0 0 6px;font-size:21px}
+.sail-meta{color:var(--muted);margin:0 0 14px}
+.btn.small{padding:8px 16px;font-size:14px}
+.itin{margin-top:16px;border-top:1px solid var(--line,#e5e0d5);padding-top:8px}
+.day-row{display:flex;gap:14px;padding:12px 0;border-bottom:1px dashed var(--line,#e5e0d5)}
+.day-date{flex:0 0 150px;font-size:13.5px;color:var(--muted)}
+.day-body{flex:1;font-size:15.5px}
+.day-badge{display:inline-block;font-size:11px;font-weight:800;letter-spacing:1px;text-transform:uppercase;padding:3px 10px;border-radius:20px;margin-top:6px}
+.kind-embark,.kind-disembark{background:var(--navy);color:#fff}
+.kind-call{background:#0e7a3d;color:#fff}
+.kind-sea{background:#e8e4d8;color:#6b6455}
+.kind-scenic{background:#7a5c1e;color:#fff}
+.wx-line{margin-top:8px;font-size:14.5px}
+.wx-note{color:#888;font-size:13.5px;margin:8px 0 0}
+.ship-note{background:var(--wash,#f7f4ec);border-radius:14px;padding:22px;margin:18px 0}
+.ship-note h3{margin:0 0 6px}
+@media(max-width:640px){.day-row{flex-direction:column;gap:4px}.day-date{flex:none}}
+</style>
+</head>
+<body>
+
+<nav class="nav"><div class="wrap">
+  <a class="brand" href="index.html">The <span>Casino</span> Cruiser</a>
+  <div class="nav-links">
+    <a href="index.html">Inicio</a>
+    <a href="sailings.html" class="active">Salidas</a>
+    <a href="playbook.html">Manual</a>
+    <a href="guides.html">Guías</a>
+    <a href="labs.html">Labs</a>
+    <a href="gear.html">Equipo</a>
+    <a href="#merch">Merch</a>
+    <a href="booking.html">Reserva conmigo</a>
+    <a href="about.html">Acerca de</a>
+    <a href="../">EN</a>
+    <a href="../tw/">中</a>
+  </div>
+</div></nav>
+
+<header class="hero"><div class="wrap">
+  <p class="kicker">Encuentra tu salida</p>
+  <h1>¿En qué barco <em>navegas</em>?</h1>
+  <p>Elige tu línea de cruceros y tu barco: mira la salida, los puertos día por día y el clima que te espera. Agregamos itinerarios regularmente.</p>
+</div></header>
+
+<section class="section"><div class="wrap">
+  <div class="finder">
+    <select id="line-sel" aria-label="Línea de cruceros"></select>
+    <select id="ship-sel" aria-label="Barco"></select>
+  </div>
+  <div id="results"></div>
+</div></section>
+
+<footer><div class="wrap">
+  <p><strong style="color:#fff">The Casino Cruiser</strong> : guía honesta de cruceros de un agente de viajes que navega con comps de casino.</p>
+  <p>Divulgación de afiliados: algunos enlaces de este sitio son enlaces de afiliado, incluyendo Amazon. Como Afiliado de Amazon gano con las compras elegibles, sin costo para ti, y eso mantiene las guías gratuitas.</p>
+  <p>© 2026 The Casino Cruiser. Juega con responsabilidad: fija un presupuesto, nunca persigas pérdidas y apuesta solo lo que puedas permitirte perder.</p>
+</div></footer>
+
+<script src="port-data.js?v=2"></script>
+<script src="sailings.js?v=5"></script>
+<script>
+(function(){
+  var F = window.SailFinder, T = F.getT();
+  var lineSel = document.getElementById("line-sel"),
+      shipSel = document.getElementById("ship-sel"),
+      results = document.getElementById("results");
+  F.bindToggle(document);
+
+  function render(lineSlug, shipId){
+    results.innerHTML = "";
+    if (!lineSlug || !shipId) return;
+    var ship = F.findShip(lineSlug, shipId);
+    if (!ship) return;
+    var sailings = F.sailingsFor(lineSlug, shipId);
+    var head = '<div class="ship-note"><h3>' + ship.name + "</h3><p class=\"sail-meta\">" +
+      F.LINE_NAMES[lineSlug] + (ship.passengers ? " · " + F.fmtCap(ship.passengers) : "") + "</p></div>";
+    if (!sailings.length){
+      results.innerHTML = head + '<div class="ship-note"><p>' + T.comingSoon + "</p></div>";
+      return;
+    }
+    results.innerHTML = head + sailings.map(function(s, i){ return F.sailingCard(s, i); }).join("");
+  }
+
+  F.loadData().then(function(){
+    F.lineOptions(lineSel);
+    lineSel.onchange = function(){
+      F.shipOptions(shipSel, lineSel.value);
+      render(lineSel.value, "");
+    };
+    shipSel.onchange = function(){ render(lineSel.value, shipSel.value); };
+    // Support both ?line=&ship= and #line=&ship=&sailing=N
+    var q = new URLSearchParams(location.search);
+    var hq = new URLSearchParams(location.hash.replace("#", ""));
+    var line = q.get("line") || hq.get("line");
+    var ship = q.get("ship") || hq.get("ship");
+    var sailIdx = hq.get("sailing");
+    if (line && F.LINE_NAMES[line]){
+      lineSel.value = line;
+      F.shipOptions(shipSel, line);
+      if (ship){ shipSel.value = ship; render(line, ship); }
+      if (sailIdx !== null) {
+        setTimeout(function(){
+          var head = document.querySelector('.sail-head[data-idx="' + sailIdx + '"]');
+          if (head) { head.click(); head.scrollIntoView({block: "start"}); }
+        }, 400);
+      }
+    }
+  }).catch(function(){
+    results.innerHTML = "<p>No se pudieron cargar los datos de salidas; inténtalo de nuevo.</p>";
+  });
+})();
+</script>
+</body>
+</html>
