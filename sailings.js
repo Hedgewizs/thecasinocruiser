@@ -120,8 +120,32 @@ function fetchWx(lat, lon, dateStr){
   return fetch(url).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(j){
     var d = j.daily;
     return { hi: Math.round(d.temperature_2m_max[0]), lo: Math.round(d.temperature_2m_min[0]),
-             rain: d.precipitation_probability_max[0], wind: Math.round(d.wind_speed_10m_max[0]), code: d.weathercode[0] };
-  }).catch(function(){ return "error"; });
+             rain: d.precipitation_probability_max[0], wind: Math.round(d.wind_speed_10m_max[0]), code: d.weathercode[0], type: "forecast" };
+  }).catch(function(){
+    // Fallback to historical climate averages
+    return fetchClimate(lat, lon, dateStr).catch(function(){ return "error"; });
+  });
+}
+function fetchClimate(lat, lon, dateStr){
+  var target = new Date(dateStr + "T00:00:00");
+  var mm = String(target.getMonth() + 1).padStart(2, "0");
+  var dd = String(target.getDate()).padStart(2, "0");
+  var y = target.getFullYear();
+  var url = "https://archive-api.open-meteo.com/v1/archive?latitude=" + lat + "&longitude=" + lon +
+    "&start_date=" + (y-5) + "-" + mm + "-" + dd + "&end_date=" + (y-1) + "-" + mm + "-" + dd +
+    "&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max&temperature_unit=celsius&wind_speed_unit=mph&timezone=auto";
+  return fetch(url).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(j){
+    var d = j.daily, hiS=0, loS=0, rd=0, wS=0, n=0, key = mm + "-" + dd;
+    for (var i=0; i<d.time.length; i++){
+      if (d.time[i].slice(5) === key){
+        hiS += d.temperature_2m_max[i]||0; loS += d.temperature_2m_min[i]||0;
+        if ((d.precipitation_sum[i]||0) > 1) rd++; wS += d.wind_speed_10m_max[i]||0; n++;
+      }
+    }
+    if (!n) throw 0;
+    return { hi: Math.round(hiS/n), lo: Math.round(loS/n), rain: Math.round(rd/n*100),
+             wind: Math.round(wS/n), code: 2, type: "climate" };
+  });
 }
 function f2c(c){ return Math.round(c*9/5+32); }
 function wxIcon(code){
@@ -132,8 +156,9 @@ function wxIcon(code){
 function wxHtml(wx){
   if (wx === "error") return '<p class="wx-note">' + T.wxFail + "</p>";
   if (!wx) return '<p class="wx-note">' + T.wxSoon + "</p>";
+  var label = wx.type === "climate" ? " (avg)" : "";
   return '<div class="wx-line">' + wxIcon(wx.code) + " " + f2c(wx.hi) + "°F / " + f2c(wx.lo) +
-    "°F · 💧 " + wx.rain + "% · 💨 " + wx.wind + " mph</div>";
+    "°F" + label + " · 💧 " + wx.rain + "% · 💨 " + wx.wind + " mph</div>";
 }
 
 var KIND_LABEL = { embark: "embark", call: "portDay", sea: "seaDay", scenic: "scenic", disembark: "disembark" };
