@@ -48,7 +48,7 @@ img { max-width: 100%; }
 .nav-links a.active { color: var(--gold); font-weight: 700; }
 
 /* Hero */
-.hero { background: linear-gradient(rgba(10,20,40,.55), rgba(10,20,40,.75)), url('https://tmpfiles.org/dl/wTA0n3VxlcRp/media-generation-cc-hero-cruise-0-962e980b-9962-4d55-91cc-37dd7b698b95.webp') center/cover no-repeat; color: #fff; padding: 64px 0 56px; }
+.hero { background: linear-gradient(rgba(10,20,40,.55), rgba(10,20,40,.75)), url('https://muse.ai/files/813724891827085/4134172806885780/65wrecuuirf181qzdlxa26pr/media-generation-cc-hero-cruise-0-962e980b-9962-4d55-91cc-37dd7b698b95.webp') center/cover no-repeat; color: #fff; padding: 64px 0 56px; }
 .hero h1 { font-size: clamp(30px, 6vw, 46px); line-height: 1.15; margin: 0 0 14px; }
 .hero h1 em { color: var(--gold); font-style: normal; }
 .hero p { color: #c9d4e8; font-size: 18px; max-width: 620px; margin: 0 0 26px; }
