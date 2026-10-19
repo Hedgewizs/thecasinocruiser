@@ -139,9 +139,10 @@ function wxHtml(wx){
 var KIND_LABEL = { embark: "embark", call: "portDay", sea: "seaDay", scenic: "scenic", disembark: "disembark" };
 
 function findPortInfo(day){
-  if (typeof PORTS === "undefined" || !day.port_id) return null;
+  if (typeof PORTS === "undefined") return null;
+  var pid = day.port_id;
   for (var i = 0; i < PORTS.length; i++) {
-    if (PORTS[i].id === day.port_id) return PORTS[i];
+    if (PORTS[i].id === pid || PORTS[i].alias === pid) return PORTS[i];
   }
   // fallback: match by name
   var nm = (day.port_name || "").toLowerCase();
