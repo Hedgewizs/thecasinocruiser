@@ -172,13 +172,49 @@ function dayRow(day){
     '<div class="day-body">' + place + wxSlot + todoHtml + "</div></div>";
 }
 
+/* Live sailing tracker — inspired by allashore.app countdown.
+   For sailings underway today, shows "Day X of Y" + today's status. */
+function liveStatus(s){
+  var today = new Date(); today.setHours(0,0,0,0);
+  var dep = new Date(s.departure_date + "T00:00:00");
+  var dayNum = Math.floor((today - dep) / 86400000) + 1;
+  if (dayNum < 1 || dayNum > s.nights) return null;
+  var total = s.nights;
+  var todayEntry = null, nextCall = null;
+  var todayStr = today.toISOString().slice(0,10);
+  // itinerary dates may be explicit; fall back to day_offset
+  for (var i = 0; i < s.itinerary.length; i++){
+    var d = s.itinerary[i];
+    var ds = d.date || (function(){
+      var dt = new Date(dep); dt.setDate(dt.getDate() + (d.day_offset || 0));
+      return dt.toISOString().slice(0,10);
+    })();
+    if (ds === todayStr) todayEntry = d;
+    if (ds > todayStr && (d.kind === "call" || d.kind === "embark") && !nextCall) nextCall = {day: d, date: ds};
+  }
+  var status = todayEntry
+    ? (todayEntry.kind === "sea" ? T.seaDay : (todayEntry.port_name || T.portDay))
+    : T.seaDay;
+  return { dayNum: dayNum, total: total, status: status, nextCall: nextCall };
+}
+
+function liveBadgeHtml(live){
+  if (!live) return "";
+  var next = live.nextCall
+    ? '<div class="live-next">Next: <strong>' + live.nextCall.day.port_name + "</strong> · " + fmtDate(live.nextCall.date) + "</div>"
+    : "";
+  return '<div class="live-badge">🔴 LIVE — Day ' + live.dayNum + " of " + live.total +
+    ' · Today: <strong>' + live.status + "</strong></div>" + next;
+}
+
 function sailingCard(s, idx){
   var calls = s.itinerary.filter(function(d){ return d.kind === "call"; }).length;
   var last = s.itinerary[s.itinerary.length - 1];
   var disembark = last.port_name || "";
+  var live = liveStatus(s);
   var html = '<div class="sailing-card" id="sailing-' + idx + '">' +
     '<div class="sail-head toggle-itin" data-idx="' + idx + '" style="cursor:pointer">' +
-    '<h3>' + s.ship_name + "</h3>" +
+    '<h3>' + s.ship_name + "</h3>" + liveBadgeHtml(live) +
     '<p class="sail-meta">' + T.departs + " " + fmtDate(s.departure_date) + " · " + s.nights + " " + T.nights +
     " · " + s.embark_port + " → " + disembark + " · " + calls + " " + T.portCalls + "</p>" +
     '<span class="sail-go">' + T.viewItin + " →</span>" +
