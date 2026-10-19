@@ -176,11 +176,13 @@ function sailingCard(s, idx){
   var calls = s.itinerary.filter(function(d){ return d.kind === "call"; }).length;
   var last = s.itinerary[s.itinerary.length - 1];
   var disembark = last.port_name || "";
-  var html = '<div class="sailing-card">' +
+  var html = '<div class="sailing-card" id="sailing-' + idx + '">' +
+    '<div class="sail-head toggle-itin" data-idx="' + idx + '" style="cursor:pointer">' +
     '<h3>' + s.ship_name + "</h3>" +
     '<p class="sail-meta">' + T.departs + " " + fmtDate(s.departure_date) + " · " + s.nights + " " + T.nights +
     " · " + s.embark_port + " → " + disembark + " · " + calls + " " + T.portCalls + "</p>" +
-    '<button class="btn ghost small toggle-itin" data-idx="' + idx + '">' + T.viewItin + "</button>" +
+    '<span class="sail-go">' + T.viewItin + " →</span>" +
+    '</div>' +
     '<div class="itin" id="itin-' + idx + '" style="display:none">' +
       s.itinerary.map(dayRow).join("") +
       '<p class="wx-note"><a href="' + T.plannerUrl + '">' + T.planPort + " →</a></p>" +
@@ -200,12 +202,27 @@ function bindToggle(root){
   root.addEventListener("click", function(e){
     var b = e.target.closest(".toggle-itin");
     if (!b) return;
+    // Don't toggle if clicking a link inside
+    if (e.target.closest("a")) return;
     var panel = document.getElementById("itin-" + b.dataset.idx);
     var open = panel.style.display !== "none";
     panel.style.display = open ? "none" : "block";
-    b.textContent = open ? T.viewItin : T.hideItin;
-    if (!open) hydrateWeather(panel);
+    var go = b.querySelector(".sail-go");
+    if (go) go.textContent = open ? T.viewItin + " →" : T.hideItin + " ↑";
+    if (!open) {
+      hydrateWeather(panel);
+      // Update URL hash for deep-linking
+      history.replaceState(null, "", "#sailing-" + b.dataset.idx);
+    }
   });
+  // Deep-link: open sailing from URL hash on load
+  var h = location.hash.match(/sailing-(\d+)/);
+  if (h) {
+    var head = document.querySelector('.sail-head[data-idx="' + h[1] + '"]');
+    if (head) {
+      setTimeout(function(){ head.click(); head.scrollIntoView({block: "start"}); }, 300);
+    }
+  }
 }
 
 window.SailFinder = {

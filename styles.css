@@ -68,6 +68,9 @@ img { max-width: 100%; }
 .port-todo li { margin-bottom: 3px; }
 .port-link { color: var(--navy); text-decoration: underline; text-decoration-color: var(--gold); }
 .port-more { display: inline-block; margin-top: 4px; font-size: 13.5px; font-weight: 700; color: var(--navy); }
+.sail-head { padding: 4px 0; }
+.sail-head:hover h3 { color: var(--gold); }
+.sail-go { display: inline-block; margin-top: 8px; font-size: 14px; font-weight: 700; color: var(--navy); border: 2px solid var(--gold); border-radius: 8px; padding: 8px 16px; }
 
 /* Sections */
 .section { padding: 52px 0; }
