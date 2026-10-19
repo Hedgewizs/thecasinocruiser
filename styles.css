@@ -62,6 +62,10 @@ img { max-width: 100%; }
 .btn.ghost:hover { background: rgba(212,164,55,.12); }
 .card .btn.ghost, .sail-card .btn.ghost { color: var(--navy); }
 .card .btn.ghost:hover, .sail-card .btn.ghost:hover { background: rgba(212,164,55,.15); }
+.port-todo { margin-top: 8px; font-size: 14px; color: var(--muted); }
+.port-todo .todo-label { font-weight: 700; color: var(--navy); }
+.port-todo ul { margin: 4px 0 0 18px; padding: 0; }
+.port-todo li { margin-bottom: 3px; }
 
 /* Sections */
 .section { padding: 52px 0; }

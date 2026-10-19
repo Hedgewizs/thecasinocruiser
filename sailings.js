@@ -138,6 +138,19 @@ function wxHtml(wx){
 
 var KIND_LABEL = { embark: "embark", call: "portDay", sea: "seaDay", scenic: "scenic", disembark: "disembark" };
 
+function findPortInfo(day){
+  if (typeof PORTS === "undefined" || !day.port_id) return null;
+  for (var i = 0; i < PORTS.length; i++) {
+    if (PORTS[i].id === day.port_id) return PORTS[i];
+  }
+  // fallback: match by name
+  var nm = (day.port_name || "").toLowerCase();
+  for (var j = 0; j < PORTS.length; j++) {
+    if (PORTS[j].name.toLowerCase() === nm) return PORTS[j];
+  }
+  return null;
+}
+
 function dayRow(day){
   var label = T[KIND_LABEL[day.kind] || "portDay"];
   var badge = '<span class="day-badge kind-' + day.kind + '">' + label + "</span>";
@@ -145,9 +158,18 @@ function dayRow(day){
   var wxSlot = (day.kind !== "sea" && day.lat != null)
     ? '<div class="wx-slot" data-lat="' + day.lat + '" data-lon="' + day.lon + '" data-date="' + day.date + '"><p class="wx-note">…</p></div>'
     : "";
+  var todoHtml = "";
+  if (day.kind === "call" || day.kind === "embark" || day.kind === "disembark") {
+    var info = findPortInfo(day);
+    if (info && info.do && info.do.length) {
+      todoHtml = '<div class="port-todo"><span class="todo-label">📌 What to do:</span><ul>' +
+        info.do.slice(0, 3).map(function(d){ return "<li>" + d + "</li>"; }).join("") +
+        "</ul></div>";
+    }
+  }
   return '<div class="day-row">' +
     '<div class="day-date">' + fmtDate(day.date) + "<br>" + badge + "</div>" +
-    '<div class="day-body">' + place + wxSlot + "</div></div>";
+    '<div class="day-body">' + place + wxSlot + todoHtml + "</div></div>";
 }
 
 function sailingCard(s, idx){
