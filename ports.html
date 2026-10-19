@@ -95,13 +95,8 @@ const regionOrder = ["Caribbean","Alaska","Mexican Riviera","Mediterranean","Nor
     });
     sel.appendChild(g);
   });
-  const it = $("itin-select");
-  ITINERARIES.forEach(t => { const o = document.createElement("option"); o.value = t.id; o.textContent = t.name + " (from " + t.from + ")"; it.appendChild(o); });
   const d = new Date(); d.setDate(d.getDate() + 30);
   $("port-date").value = d.toISOString().slice(0,10);
-  const s = new Date(); s.setDate(s.getDate() + 60);
-  $("itin-date").value = s.toISOString().slice(0,10);
-  // Deep-link: ports.html#apia pre-selects that port (handled after handlers are attached)
 })();
 
 async function fetchWx(lat, lon, dateStr){
