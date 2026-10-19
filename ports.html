@@ -215,9 +215,16 @@ $("go-port").onclick = () => loadPortGuide($("port-select").value);
 // Deep-link: ports.html#apia auto-loads that port's guide — no click needed
 function loadFromHash(){
   const h = location.hash.replace("#", "");
-  if (h && PORT_BY_ID[h]) {
-    $("port-select").value = h;
-    loadPortGuide(h);
+  if (!h) return;
+  const parts = h.split("|");
+  const portId = parts[0];
+  const dateStr = parts[1];
+  if (portId && PORT_BY_ID[portId]) {
+    $("port-select").value = portId;
+    if (dateStr && /^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
+      $("port-date").value = dateStr;
+    }
+    loadPortGuide(portId);
   }
 }
 loadFromHash();
