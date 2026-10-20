@@ -160,6 +160,8 @@ function portCard(port, dateStr, wx, note){
   if (port.ashore) sections += `<h4>🚢 Cómo bajar a tierra</h4><p>${port.ashore}</p>`;
   if (port.around) sections += `<h4>🚕 Cómo moverse</h4><p>${port.around}</p>`;
   sections += `<h4>⭐ No te pierdas</h4><ul class="wx-do">${port.do.map(x=>`<li>${x}</li>`).join("")}</ul>`;
+  const viatorUrl = `https://www.viator.com/searchResults/all?text=${encodeURIComponent(port.name)}&pid=P00326918&mcid=42383&medium=link`;
+  sections += `<div class="viator-cta"><h4>🎟️ Excursiones en ${port.name}</h4><p>Evita el sobreprecio de la naviera. Explora los tours mejor valorados para tu día en ${port.name} — muchos con garantía de regreso al barco.</p><a class="btn btn-primary" href="${viatorUrl}" target="_blank" rel="noopener nofollow sponsored">Ver excursiones en Viator →</a></div>`;
   if (port.planning) sections += `<h4>🗓️ Planifica tu día</h4><p>${port.planning}</p>`;
   if (port.food) sections += `<h4>🍽️ Comida y bebida</h4><p>${port.food}</p>`;
   if (port.know) sections += `<h4>ℹ️ Qué saber antes de ir</h4><p>${port.know}</p>`;
