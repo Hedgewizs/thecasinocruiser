@@ -16919,6 +16919,1542 @@
    "nights": 14,
    "sailing_id": null,
    "ship_name": "Carnival Dream"
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Elation",
+   "departure_date": "2026-10-22",
+   "nights": 4,
+   "embark_port": "Jacksonville, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-22",
+     "port_id": "jacksonville",
+     "port_name": "Jacksonville, Florida",
+     "lat": 30.4069,
+     "lon": -81.57842,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-10-23",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key, Bahamas",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-10-24",
+     "port_id": "nassau",
+     "port_name": "Nassau, Bahamas",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-10-25",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-10-26",
+     "port_id": "jacksonville",
+     "port_name": "Jacksonville, Florida",
+     "lat": 30.4069,
+     "lon": -81.57842,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Elation",
+   "departure_date": "2026-10-26",
+   "nights": 5,
+   "embark_port": "Jacksonville, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-26",
+     "port_id": "jacksonville",
+     "port_name": "Jacksonville, Florida",
+     "lat": 30.4069,
+     "lon": -81.57842,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-10-27",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-10-28",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay, Bahamas",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-10-29",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key, Bahamas",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-10-30",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-10-31",
+     "port_id": "jacksonville",
+     "port_name": "Jacksonville, Florida",
+     "lat": 30.4069,
+     "lon": -81.57842,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Elation",
+   "departure_date": "2026-10-31",
+   "nights": 5,
+   "embark_port": "Jacksonville, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-31",
+     "port_id": "jacksonville",
+     "port_name": "Jacksonville, Florida",
+     "lat": 30.4069,
+     "lon": -81.57842,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-01",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-02",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key, Bahamas",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-03",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay, Bahamas",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-04",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-05",
+     "port_id": "jacksonville",
+     "port_name": "Jacksonville, Florida",
+     "lat": 30.4069,
+     "lon": -81.57842,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Elation",
+   "departure_date": "2026-11-05",
+   "nights": 4,
+   "embark_port": "Jacksonville, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-05",
+     "port_id": "jacksonville",
+     "port_name": "Jacksonville, Florida",
+     "lat": 30.4069,
+     "lon": -81.57842,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-06",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key, Bahamas",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-07",
+     "port_id": "nassau",
+     "port_name": "Nassau, Bahamas",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-08",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-09",
+     "port_id": "jacksonville",
+     "port_name": "Jacksonville, Florida",
+     "lat": 30.4069,
+     "lon": -81.57842,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Elation",
+   "departure_date": "2026-11-09",
+   "nights": 5,
+   "embark_port": "Jacksonville, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-09",
+     "port_id": "jacksonville",
+     "port_name": "Jacksonville, Florida",
+     "lat": 30.4069,
+     "lon": -81.57842,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-10",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-11",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key, Bahamas",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-12",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay, Bahamas",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-13",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-14",
+     "port_id": "jacksonville",
+     "port_name": "Jacksonville, Florida",
+     "lat": 30.4069,
+     "lon": -81.57842,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Elation",
+   "departure_date": "2026-11-14",
+   "nights": 5,
+   "embark_port": "Jacksonville, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-14",
+     "port_id": "jacksonville",
+     "port_name": "Jacksonville, Florida",
+     "lat": 30.4069,
+     "lon": -81.57842,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-15",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-16",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay, Bahamas",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-17",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key, Bahamas",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-18",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-19",
+     "port_id": "jacksonville",
+     "port_name": "Jacksonville, Florida",
+     "lat": 30.4069,
+     "lon": -81.57842,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Elation",
+   "departure_date": "2026-11-19",
+   "nights": 4,
+   "embark_port": "Jacksonville, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-19",
+     "port_id": "jacksonville",
+     "port_name": "Jacksonville, Florida",
+     "lat": 30.4069,
+     "lon": -81.57842,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-20",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key, Bahamas",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-21",
+     "port_id": "nassau",
+     "port_name": "Nassau, Bahamas",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-22",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-23",
+     "port_id": "jacksonville",
+     "port_name": "Jacksonville, Florida",
+     "lat": 30.4069,
+     "lon": -81.57842,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Elation",
+   "departure_date": "2026-11-23",
+   "nights": 6,
+   "embark_port": "Jacksonville, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-23",
+     "port_id": "jacksonville",
+     "port_name": "Jacksonville, Florida",
+     "lat": 30.4069,
+     "lon": -81.57842,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-24",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-25",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key, Bahamas",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-26",
+     "port_id": "nassau",
+     "port_name": "Nassau, Bahamas",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-27",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay, Bahamas",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-28",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-29",
+     "port_id": "jacksonville",
+     "port_name": "Jacksonville, Florida",
+     "lat": 30.4069,
+     "lon": -81.57842,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "departure_date": "2026-10-25",
+   "embark_port": "Brisbane",
+   "itinerary": [
+    {
+     "date": "2026-10-25",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "port_id": "brisbane",
+     "port_name": "Brisbane, Queensland"
+    },
+    {
+     "date": "2026-10-26",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-10-27",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": -20.26907,
+     "lon": 148.71929,
+     "port_id": "airlie-beach",
+     "port_name": "Airlie Beach, Queensland"
+    },
+    {
+     "date": "2026-10-28",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": -16.9206657,
+     "lon": 145.7721854,
+     "port_id": "cairns",
+     "port_name": "Cairns, Queensland"
+    },
+    {
+     "date": "2026-10-29",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "scenic",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-10-30",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-10-31",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "disembark",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "port_id": "brisbane",
+     "port_name": "Brisbane, Queensland"
+    }
+   ],
+   "nights": 6,
+   "sailing_id": null,
+   "ship_name": "Carnival Encounter"
+  },
+  {
+   "departure_date": "2026-10-31",
+   "embark_port": "Brisbane",
+   "itinerary": [
+    {
+     "date": "2026-10-31",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "port_id": "brisbane",
+     "port_name": "Brisbane, Queensland"
+    },
+    {
+     "date": "2026-11-01",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-02",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-03",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "disembark",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "port_id": "brisbane",
+     "port_name": "Brisbane, Queensland"
+    }
+   ],
+   "nights": 3,
+   "sailing_id": null,
+   "ship_name": "Carnival Encounter"
+  },
+  {
+   "departure_date": "2026-11-03",
+   "embark_port": "Brisbane",
+   "itinerary": [
+    {
+     "date": "2026-11-03",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "port_id": "brisbane",
+     "port_name": "Brisbane, Queensland"
+    },
+    {
+     "date": "2026-11-04",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-05",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": -20.26907,
+     "lon": 148.71929,
+     "port_id": "airlie-beach",
+     "port_name": "Airlie Beach, Queensland"
+    },
+    {
+     "date": "2026-11-06",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-07",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "disembark",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "port_id": "brisbane",
+     "port_name": "Brisbane, Queensland"
+    }
+   ],
+   "nights": 4,
+   "sailing_id": null,
+   "ship_name": "Carnival Encounter"
+  },
+  {
+   "departure_date": "2026-11-07",
+   "embark_port": "Brisbane",
+   "itinerary": [
+    {
+     "date": "2026-11-07",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "port_id": "brisbane",
+     "port_name": "Brisbane, Queensland"
+    },
+    {
+     "date": "2026-11-08",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-09",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-10",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": -20.2491889,
+     "lon": 169.7711722,
+     "port_id": "mystery-island",
+     "port_name": "Mystery Island, Vanuatu"
+    },
+    {
+     "date": "2026-11-11",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": -17.75676,
+     "lon": 168.2984,
+     "port_id": "port-vila",
+     "port_name": "Port Vila, Vanuatu"
+    },
+    {
+     "date": "2026-11-12",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "call",
+     "lat": -21.04516,
+     "lon": 167.28461,
+     "port_id": "lifou",
+     "port_name": "Lifou, New Caledonia"
+    },
+    {
+     "date": "2026-11-13",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-14",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-15",
+     "day_confidence": "exact",
+     "day_offset": 8,
+     "kind": "disembark",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "port_id": "brisbane",
+     "port_name": "Brisbane, Queensland"
+    }
+   ],
+   "nights": 8,
+   "sailing_id": null,
+   "ship_name": "Carnival Encounter"
+  },
+  {
+   "departure_date": "2026-11-15",
+   "embark_port": "Brisbane",
+   "itinerary": [
+    {
+     "date": "2026-11-15",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "port_id": "brisbane",
+     "port_name": "Brisbane, Queensland"
+    },
+    {
+     "date": "2026-11-16",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-17",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": -20.26907,
+     "lon": 148.71929,
+     "port_id": "airlie-beach",
+     "port_name": "Airlie Beach, Queensland"
+    },
+    {
+     "date": "2026-11-18",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-19",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "disembark",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "port_id": "brisbane",
+     "port_name": "Brisbane, Queensland"
+    }
+   ],
+   "nights": 4,
+   "sailing_id": null,
+   "ship_name": "Carnival Encounter"
+  },
+  {
+   "departure_date": "2026-11-19",
+   "embark_port": "Brisbane",
+   "itinerary": [
+    {
+     "date": "2026-11-19",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "port_id": "brisbane",
+     "port_name": "Brisbane, Queensland"
+    },
+    {
+     "date": "2026-11-20",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-21",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-22",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "disembark",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "port_id": "brisbane",
+     "port_name": "Brisbane, Queensland"
+    }
+   ],
+   "nights": 3,
+   "sailing_id": null,
+   "ship_name": "Carnival Encounter"
+  },
+  {
+   "departure_date": "2026-11-22",
+   "embark_port": "Brisbane",
+   "itinerary": [
+    {
+     "date": "2026-11-22",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "port_id": "brisbane",
+     "port_name": "Brisbane, Queensland"
+    },
+    {
+     "date": "2026-11-23",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-24",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": -20.26907,
+     "lon": 148.71929,
+     "port_id": "airlie-beach",
+     "port_name": "Airlie Beach, Queensland"
+    },
+    {
+     "date": "2026-11-25",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": -16.9206657,
+     "lon": 145.7721854,
+     "port_id": "cairns",
+     "port_name": "Cairns, Queensland"
+    },
+    {
+     "date": "2026-11-26",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "scenic",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-27",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-28",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "disembark",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "port_id": "brisbane",
+     "port_name": "Brisbane, Queensland"
+    }
+   ],
+   "nights": 6,
+   "sailing_id": null,
+   "ship_name": "Carnival Encounter"
+  },
+  {
+   "departure_date": "2026-11-28",
+   "embark_port": "Brisbane",
+   "itinerary": [
+    {
+     "date": "2026-11-28",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "port_id": "brisbane",
+     "port_name": "Brisbane, Queensland"
+    },
+    {
+     "date": "2026-11-29",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-30",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-01",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": -22.21113,
+     "lon": 166.46625,
+     "port_id": "noumea",
+     "port_name": "Noumea, New Caledonia"
+    },
+    {
+     "date": "2026-12-02",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": -20.2491889,
+     "lon": 169.7711722,
+     "port_id": "mystery-island",
+     "port_name": "Mystery Island, Vanuatu"
+    },
+    {
+     "date": "2026-12-03",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "call",
+     "lat": -21.04516,
+     "lon": 167.28461,
+     "port_id": "lifou",
+     "port_name": "Lifou, New Caledonia"
+    },
+    {
+     "date": "2026-12-04",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-05",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-06",
+     "day_confidence": "exact",
+     "day_offset": 8,
+     "kind": "disembark",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "port_id": "brisbane",
+     "port_name": "Brisbane, Queensland"
+    }
+   ],
+   "nights": 8,
+   "sailing_id": null,
+   "ship_name": "Carnival Encounter"
+  },
+  {
+   "departure_date": "2026-11-20",
+   "embark_port": "Long Beach, California",
+   "itinerary": [
+    {
+     "date": "2026-11-20",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California"
+    },
+    {
+     "date": "2026-11-21",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-22",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 31.86427,
+     "lon": -116.6145,
+     "port_id": "ensenada",
+     "port_name": "Ensenada, Mexico"
+    },
+    {
+     "date": "2026-11-23",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "disembark",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California"
+    }
+   ],
+   "nights": 3,
+   "sailing_id": null,
+   "ship_name": "Carnival Firenze"
+  },
+  {
+   "departure_date": "2026-11-23",
+   "embark_port": "Long Beach, California",
+   "itinerary": [
+    {
+     "date": "2026-11-23",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California"
+    },
+    {
+     "date": "2026-11-24",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "call",
+     "lat": 33.32412,
+     "lon": -118.34154,
+     "port_id": "catalina-island",
+     "port_name": "Catalina Island, California"
+    },
+    {
+     "date": "2026-11-25",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 31.86427,
+     "lon": -116.6145,
+     "port_id": "ensenada",
+     "port_name": "Ensenada, Mexico"
+    },
+    {
+     "date": "2026-11-26",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-27",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "disembark",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California"
+    }
+   ],
+   "nights": 4,
+   "sailing_id": null,
+   "ship_name": "Carnival Firenze"
+  },
+  {
+   "departure_date": "2026-11-27",
+   "embark_port": "Long Beach, California",
+   "itinerary": [
+    {
+     "date": "2026-11-27",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California"
+    },
+    {
+     "date": "2026-11-28",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-29",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 31.86427,
+     "lon": -116.6145,
+     "port_id": "ensenada",
+     "port_name": "Ensenada, Mexico"
+    },
+    {
+     "date": "2026-11-30",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "disembark",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California"
+    }
+   ],
+   "nights": 3,
+   "sailing_id": null,
+   "ship_name": "Carnival Firenze"
+  },
+  {
+   "departure_date": "2026-11-30",
+   "embark_port": "Long Beach, California",
+   "itinerary": [
+    {
+     "date": "2026-11-30",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California"
+    },
+    {
+     "date": "2026-12-01",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "call",
+     "lat": 33.32412,
+     "lon": -118.34154,
+     "port_id": "catalina-island",
+     "port_name": "Catalina Island, California"
+    },
+    {
+     "date": "2026-12-02",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 31.86427,
+     "lon": -116.6145,
+     "port_id": "ensenada",
+     "port_name": "Ensenada, Mexico"
+    },
+    {
+     "date": "2026-12-03",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-04",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "disembark",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California"
+    }
+   ],
+   "nights": 4,
+   "sailing_id": null,
+   "ship_name": "Carnival Firenze"
+  },
+  {
+   "departure_date": "2026-12-04",
+   "embark_port": "Long Beach, California",
+   "itinerary": [
+    {
+     "date": "2026-12-04",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California"
+    },
+    {
+     "date": "2026-12-05",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-06",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 31.86427,
+     "lon": -116.6145,
+     "port_id": "ensenada",
+     "port_name": "Ensenada, Mexico"
+    },
+    {
+     "date": "2026-12-07",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "disembark",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California"
+    }
+   ],
+   "nights": 3,
+   "sailing_id": null,
+   "ship_name": "Carnival Firenze"
+  },
+  {
+   "departure_date": "2026-12-07",
+   "embark_port": "Long Beach, California",
+   "itinerary": [
+    {
+     "date": "2026-12-07",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California"
+    },
+    {
+     "date": "2026-12-08",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "call",
+     "lat": 33.32412,
+     "lon": -118.34154,
+     "port_id": "catalina-island",
+     "port_name": "Catalina Island, California"
+    },
+    {
+     "date": "2026-12-09",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 31.86427,
+     "lon": -116.6145,
+     "port_id": "ensenada",
+     "port_name": "Ensenada, Mexico"
+    },
+    {
+     "date": "2026-12-10",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-11",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "disembark",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California"
+    }
+   ],
+   "nights": 4,
+   "sailing_id": null,
+   "ship_name": "Carnival Firenze"
+  },
+  {
+   "departure_date": "2026-12-11",
+   "embark_port": "Long Beach, California",
+   "itinerary": [
+    {
+     "date": "2026-12-11",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California"
+    },
+    {
+     "date": "2026-12-12",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "call",
+     "lat": 31.86427,
+     "lon": -116.6145,
+     "port_id": "ensenada",
+     "port_name": "Ensenada, Mexico"
+    },
+    {
+     "date": "2026-12-13",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-14",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "disembark",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California"
+    }
+   ],
+   "nights": 3,
+   "sailing_id": null,
+   "ship_name": "Carnival Firenze"
+  },
+  {
+   "departure_date": "2026-12-14",
+   "embark_port": "Long Beach, California",
+   "itinerary": [
+    {
+     "date": "2026-12-14",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California"
+    },
+    {
+     "date": "2026-12-15",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "call",
+     "lat": 33.32412,
+     "lon": -118.34154,
+     "port_id": "catalina-island",
+     "port_name": "Catalina Island, California"
+    },
+    {
+     "date": "2026-12-16",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 31.86427,
+     "lon": -116.6145,
+     "port_id": "ensenada",
+     "port_name": "Ensenada, Mexico"
+    },
+    {
+     "date": "2026-12-17",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-18",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "disembark",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California"
+    }
+   ],
+   "nights": 4,
+   "sailing_id": null,
+   "ship_name": "Carnival Firenze"
   }
  ],
  "royal-caribbean": [],
