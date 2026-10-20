@@ -159,3 +159,8 @@ footer p { margin: 0 0 10px; max-width: 720px; }
 /* Live sailing tracker badge */
 .live-badge{display:inline-block;background:#c0392b;color:#fff;font-weight:700;font-size:.85rem;padding:5px 12px;border-radius:999px;margin:6px 0}
 .live-next{font-size:.9rem;color:var(--muted,#666);margin:2px 0 6px}
+
+/* Viator affiliate CTA in port guides */
+.viator-cta{background:#f4f8f4;border:1px solid #d8e5d8;border-radius:12px;padding:16px 18px;margin:18px 0}
+.viator-cta h4{margin:0 0 6px}
+.viator-cta p{margin:0 0 10px;color:var(--muted,#555)}

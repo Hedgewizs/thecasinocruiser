@@ -158,6 +158,8 @@ function portCard(port, dateStr, wx, note){
   if (port.ashore) sections += `<h4>🚢 Getting ashore</h4><p>${port.ashore}</p>`;
   if (port.around) sections += `<h4>🚕 Getting around</h4><p>${port.around}</p>`;
   sections += `<h4>⭐ Don't miss</h4><ul class="wx-do">${port.do.map(x=>`<li>${x}</li>`).join("")}</ul>`;
+  const viatorUrl = `https://www.viator.com/searchResults/all?text=${encodeURIComponent(port.name)}&pid=P00326918&mcid=42383&medium=link`;
+  sections += `<div class="viator-cta"><h4>🎟️ Shore excursions in ${port.name}</h4><p>Skip the cruise-line markup. Browse top-rated tours for your day in ${port.name} — many with a back-to-ship guarantee.</p><a class="btn btn-primary" href="${viatorUrl}" target="_blank" rel="noopener nofollow sponsored">See excursions on Viator →</a></div>`;
   if (port.planning) sections += `<h4>🗓️ Planning your day</h4><p>${port.planning}</p>`;
   if (port.food) sections += `<h4>🍽️ Food & drink</h4><p>${port.food}</p>`;
   if (port.know) sections += `<h4>ℹ️ Know before you go</h4><p>${port.know}</p>`;
