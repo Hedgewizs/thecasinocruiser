@@ -163,9 +163,10 @@ function dayRow(day){
     : "";
   var todoHtml = "";
   if (info && info.do && info.do.length) {
+    var viatorLink = '<div class="port-todo" style="margin-top:8px"><a href="https://www.viator.com/searchResults/all?text=' + encodeURIComponent(day.port_name) + '&pid=P00326918&mcid=42383&medium=link" target="_blank" rel="noopener nofollow sponsored" class="port-more">🎟️ Shore excursions in ' + day.port_name + ' →</a></div>';
     todoHtml = '<div class="port-todo"><span class="todo-label">📌 What to do:</span><ul>' +
       info.do.slice(0, 3).map(function(d){ return "<li>" + d + "</li>"; }).join("") +
-      '</ul><a href="ports.html?v=4#' + info.id + "|" + day.date + '" class="port-more">Full port guide →</a></div>';
+      '</ul><a href="ports.html?v=4#' + info.id + "|" + day.date + '" class="port-more">Full port guide →</a></div>' + viatorLink;
   }
   return '<div class="day-row">' +
     '<div class="day-date">' + fmtDate(day.date) + "<br>" + badge + "</div>" +
