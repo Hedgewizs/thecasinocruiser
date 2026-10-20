@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>停靠港日計劃 — 賭場郵輪客</title>
+<meta name="description" content="選任一主要郵輪停靠港和日期：即時天氣預報，加上停靠日到底該怎麼玩。">
+<link rel="stylesheet" href="../styles.css?v=3">
+<style>
+.planner-controls{display:flex;flex-wrap:wrap;gap:12px;align-items:end;margin:24px 0}
+.planner-controls label{display:flex;flex-direction:column;gap:6px;font-size:.9rem;font-weight:600}
+.planner-controls select,.planner-controls input{padding:10px 12px;border:1px solid #ccc;border-radius:8px;font-size:1rem;min-width:200px}
+.mode-toggle{display:flex;gap:8px;margin-bottom:8px}
+.mode-toggle button{padding:8px 18px;border:1px solid #ccc;background:#fff;border-radius:999px;cursor:pointer;font-size:.95rem}
+.mode-toggle button.active{background:#0b3d66;color:#fff;border-color:#0b3d66}
+.wx-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-top:20px}
+.wx-grid:has(> .wx-card:only-child){grid-template-columns:minmax(0,860px);justify-content:center}
+.wx-strip{display:flex;gap:10px;overflow-x:auto;padding:4px 0;margin:8px 0}
+.wx-day{flex:0 0 auto;min-width:110px;text-align:center;border:1px solid #e3e3e3;border-radius:10px;padding:10px 8px;background:#fafafa}
+.wx-day .wx-d{font-size:.8rem;color:#666;margin-bottom:4px}
+.wx-day .wx-i{font-size:1.6rem}
+.wx-day .wx-t{font-weight:700;font-size:1rem;margin:4px 0}
+.wx-day .wx-r{font-size:.78rem;color:#666}
+.wx-card{border:1px solid #e3e3e3;border-radius:12px;padding:18px;background:#fff}
+.wx-card h3{margin:0 0 4px}
+.wx-card .wx-date{color:#666;font-size:.9rem;margin-bottom:10px}
+.wx-temp{font-size:1.8rem;font-weight:700}
+.wx-meta{display:flex;gap:14px;margin:10px 0;color:#444;font-size:.95rem}
+.wx-do{margin:10px 0 0;padding-left:18px;font-size:1.1rem}
+.wx-do li{margin-bottom:8px}
+.wx-card h4{margin:22px 0 10px;font-size:1.25rem;color:var(--navy)}
+.wx-card h3{font-size:1.6rem}
+.wx-card p{font-size:1.1rem;line-height:1.65;color:#333;margin:0 0 12px}
+.port-intro{font-size:1.15rem !important;line-height:1.7 !important;color:#444 !important}
+.wx-merch{display:inline-block;margin-top:12px}
+.wx-note{background:#f4f7fa;border-radius:10px;padding:14px 18px;margin-top:20px;font-size:.95rem;color:#444}
+.sea-card{opacity:.75}
+.loading{color:#666;font-style:italic;margin-top:20px}
+</style>
+</head>
+<body>
+
+<nav class="nav"><div class="wrap">
+  <a class="brand" href="index.html">賭場<span>郵輪</span>客</a>
+  <div class="nav-links">
+    <a href="index.html">首頁</a>
+    <a href="sailings.html">行程</a>
+    <a href="playbook.html">實戰手冊</a>
+    <a href="guides.html">指南</a>
+    <a href="ports.html" class="active">停靠港</a>
+    <a href="labs.html">實驗室</a>
+    <a href="gear.html">裝備</a>
+    <a href="index.html#merch">周邊</a>
+    <a href="booking.html">找我訂</a>
+    <a href="about.html">關於</a>
+    <a href="../ports.html">English</a>
+  </div>
+</div></nav>
+
+<header class="hero"><div class="wrap">
+  <h1>停靠港<em>日計劃</em>。</h1>
+  <p>選一個停靠港和日期——即時天氣預報，加上上岸這幾小時到底該怎麼玩。專為要趕最後登船時間的人設計。</p>
+</div></header>
+
+<section class="section"><div class="wrap">
+
+  <div id="ctl-port" class="planner-controls">
+    <label>停靠港
+      <select id="port-select"></select>
+    </label>
+    <label>停靠日期
+      <input type="date" id="port-date">
+    </label>
+    <button class="btn" id="go-port">查看港口指南</button>
+  </div>
+
+  <div id="results"></div>
+</div></section>
+
+<footer class="footer"><div class="wrap">
+  <p>© 賭場郵輪客 · <a href="about.html">關於</a> · <a href="booking.html">找我訂</a></p>
+</div></footer>
+
+<script src="../port-data.js?v=2"></script>
+<script src="../rich-guides.js?v=1"></script>
+<script>
+const $ = id => document.getElementById(id);
+const regionOrder = ["Caribbean","Alaska","Mexican Riviera","Mediterranean","Northern Europe","South America","Antarctica","South Pacific","Hawaii","Australia & New Zealand","Panama & Central America","Embarkation"];
+
+// Build port dropdown grouped by region
+(() => {
+  const sel = $("port-select");
+  regionOrder.forEach(r => {
+    const g = document.createElement("optgroup"); g.label = r;
+    PORTS.filter(p => p.region === r).forEach(p => {
+      const o = document.createElement("option"); o.value = p.id; o.textContent = p.name + ", " + p.country; g.appendChild(o);
+    });
+    sel.appendChild(g);
+  });
+  const d = new Date(); d.setDate(d.getDate() + 30);
+  $("port-date").value = d.toISOString().slice(0,10);
+})();
+
+async function fetchWx(lat, lon, dateStr){
+  const today = new Date(); today.setHours(0,0,0,0);
+  const target = new Date(dateStr + "T00:00:00");
+  const diff = Math.round((target - today) / 86400000);
+  if (diff < -2 || diff > 16) return null;
+  // 5-day window: 2 days before through 2 days after
+  const s = new Date(target); s.setDate(s.getDate() - 2);
+  const e = new Date(target); e.setDate(e.getDate() + 2);
+  const fmt = d => d.toISOString().slice(0, 10);
+  const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max,wind_speed_10m_max,weathercode&start_date=${fmt(s)}&end_date=${fmt(e)}&temperature_unit=celsius&wind_speed_unit=mph&timezone=auto`;
+  const r = await fetch(url);
+  if (!r.ok) throw new Error("weather fetch failed");
+  const j = await r.json();
+  const d = j.daily;
+  const days = d.time.map((t, i) => ({
+    date: t,
+    hi: Math.round(d.temperature_2m_max[i]), lo: Math.round(d.temperature_2m_min[i]),
+    rain: d.precipitation_probability_max[i], wind: Math.round(d.wind_speed_10m_max[i]),
+    code: d.weathercode[i],
+    isTarget: t === dateStr
+  }));
+  return {days, type: "forecast"};
+}
+
+const F2C = c => Math.round(c*9/5+32);
+function wxIcon(code){
+  if (code <= 1) return "☀️";
+  if (code <= 3) return "⛅";
+  if (code <= 48) return "🌫️";
+  if (code <= 67) return "🌧️";
+  if (code <= 77) return "🌨️";
+  if (code <= 82) return "🌧️";
+  return "⛈️";
+}
+
+function portCard(port, dateStr, wx, note){
+  const dateLabel = new Date(dateStr + "T00:00:00").toLocaleDateString("zh-TW",{weekday:"short",month:"short",day:"numeric",year:"numeric"});
+  let wxHtml;
+  if (wx && wx.type === "forecast") {
+    const dayCells = wx.days.map(dy => {
+      const dl = new Date(dy.date + "T00:00:00").toLocaleDateString("zh-TW",{weekday:"short",month:"numeric",day:"numeric"});
+      const hl = dy.isTarget ? ' style="border:2px solid var(--gold);background:#fffbe6"' : "";
+      return `<div class="wx-day"${hl}><div class="wx-d">${dl}</div><div class="wx-i">${wxIcon(dy.code)}</div><div class="wx-t">${F2C(dy.hi)}°/${F2C(dy.lo)}°</div><div class="wx-r">💧${dy.rain}% 💨${dy.wind}</div></div>`;
+    }).join("");
+    wxHtml = `<div class="wx-strip">${dayCells}</div><p style="font-size:.85rem;color:#888">即時預報 · 已標示停靠日</p>`;
+  }
+  else wxHtml = `<p style="color:#666">暫無預報——接近出發日期時再回來看。</p>`;
+  const merch = port.merch ? `<a class="wx-merch btn ghost" href="${port.merch}" target="_blank" rel="noopener">選購 ${port.name} 港口 T 恤</a>` : "";
+  const noteHtml = note ? `<p class="wx-date">${note}</p>` : "";
+  const lat = port.lat, lon = port.lon, d = 0.15;
+  const mapHtml = `<iframe class="port-map" loading="lazy" src="https://www.openstreetmap.org/export/embed.html?bbox=${lon-d}%2C${lat-d}%2C${lon+d}%2C${lat+d}&layer=mapnik&marker=${lat}%2C${lon}" style="border:1px solid #ddd;border-radius:10px;width:100%;height:280px;margin:12px 0"></iframe>`;
+  // Allashore-style sections
+  let sections = "";
+  if (port.intro) sections += `<p class="port-intro">${port.intro}</p>`;
+  sections += `<h4>🌤️ 天氣 — ${dateLabel}</h4>${wxHtml}`;
+  sections += mapHtml;
+  if (port.ashore) sections += `<h4>🚢 如何上岸</h4><p>${port.ashore}</p>`;
+  if (port.around) sections += `<h4>🚕 當地交通</h4><p>${port.around}</p>`;
+  sections += `<h4>⭐ 不可錯過</h4><ul class="wx-do">${port.do.map(x=>`<li>${x}</li>`).join("")}</ul>`;
+  const viatorUrl = `https://www.viator.com/searchResults/all?text=${encodeURIComponent(port.name)}&pid=P00326918&mcid=42383&medium=link`;
+  sections += `<div class="viator-cta"><h4>🎟️ ${port.name} 岸上行程</h4><p>跳過郵輪公司的加價。瀏覽 ${port.name} 高評價的一日行程——很多附保證送回船。</p><a class="btn btn-primary" href="${viatorUrl}" target="_blank" rel="noopener nofollow sponsored">在 Viator 看行程 →</a></div>`;
+  if (port.planning) sections += `<h4>🗓️ 規劃你的一天</h4><p>${port.planning}</p>`;
+  if (port.food) sections += `<h4>🍽️ 美食與飲品</h4><p>${port.food}</p>`;
+  if (port.know) sections += `<h4>ℹ️ 出發前須知</h4><p>${port.know}</p>`;
+  return `<div class="wx-card"><h3>${port.name}</h3><p class="wx-date">${port.country}</p>${noteHtml}${sections}${merch}</div>`;
+}
+
+async function loadPortGuide(portId){
+  const port = PORT_BY_ID[portId];
+  if (!port) return;
+  const dateStr = $("port-date").value;
+  $("results").innerHTML = `<p class="loading">載入 ${port.name}…</p>`;
+  let wx = null;
+  try { wx = await fetchWx(port.lat, port.lon, dateStr); } catch(e){ wx = null; }
+  $("results").innerHTML = `<div class="wx-grid">${portCard(port, dateStr, wx)}</div>`;
+}
+
+$("go-port").onclick = () => loadPortGuide($("port-select").value);
+
+// Deep-link: ports.html#apia auto-loads that port's guide — no click needed
+function loadFromHash(){
+  const h = location.hash.replace("#", "");
+  if (!h) return;
+  const parts = h.split("|");
+  const portId = parts[0];
+  const dateStr = parts[1];
+  if (portId && PORT_BY_ID[portId]) {
+    $("port-select").value = portId;
+    if (dateStr && /^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
+      $("port-date").value = dateStr;
+    }
+    loadPortGuide(portId);
+  }
+}
+loadFromHash();
+window.addEventListener("hashchange", loadFromHash);
+</script>
+</body>
+</html>
