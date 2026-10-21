@@ -20818,6 +20818,2182 @@
      "day_confidence": "exact"
     }
    ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Jubilee",
+   "departure_date": "2026-10-25",
+   "nights": 6,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-25",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-10-26",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-10-27",
+     "port_id": "cozumel",
+     "port_name": "Cozumel, Mexico",
+     "lat": 20.5,
+     "lon": -86.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-10-28",
+     "port_id": "mahogany-bay",
+     "port_name": "Mahogany Bay",
+     "lat": 16.32633,
+     "lon": -86.49642,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-10-29",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-10-30",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-10-31",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Jubilee",
+   "departure_date": "2026-10-31",
+   "nights": 8,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-31",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-01",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-02",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-03",
+     "port_id": "nassau",
+     "port_name": "Nassau, Bahamas",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-04",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay, Bahamas",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-05",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key, Bahamas",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-06",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-08",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Jubilee",
+   "departure_date": "2026-11-08",
+   "nights": 6,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-08",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-09",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-10",
+     "port_id": "cozumel",
+     "port_name": "Cozumel, Mexico",
+     "lat": 20.5,
+     "lon": -86.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-11",
+     "port_id": "mahogany-bay",
+     "port_name": "Mahogany Bay",
+     "lat": 16.32633,
+     "lon": -86.49642,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-12",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-13",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-14",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Jubilee",
+   "departure_date": "2026-11-14",
+   "nights": 8,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-14",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-15",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-16",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-17",
+     "port_id": "nassau",
+     "port_name": "Nassau, Bahamas",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-18",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay, Bahamas",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-19",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key, Bahamas",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-21",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-22",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Jubilee",
+   "departure_date": "2026-11-22",
+   "nights": 6,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-22",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-23",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-24",
+     "port_id": "cozumel",
+     "port_name": "Cozumel, Mexico",
+     "lat": 20.5,
+     "lon": -86.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-25",
+     "port_id": "mahogany-bay",
+     "port_name": "Mahogany Bay",
+     "lat": 16.32633,
+     "lon": -86.49642,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-26",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-27",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-28",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Jubilee",
+   "departure_date": "2026-11-28",
+   "nights": 8,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-28",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-29",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-30",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-01",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key, Bahamas",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-02",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay, Bahamas",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-03",
+     "port_id": "nassau",
+     "port_name": "Nassau, Bahamas",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-04",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-05",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-06",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Jubilee",
+   "departure_date": "2026-12-06",
+   "nights": 6,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-06",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-08",
+     "port_id": "cozumel",
+     "port_name": "Cozumel, Mexico",
+     "lat": 20.5,
+     "lon": -86.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-09",
+     "port_id": "mahogany-bay",
+     "port_name": "Mahogany Bay",
+     "lat": 16.32633,
+     "lon": -86.49642,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-10",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-11",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-12",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Jubilee",
+   "departure_date": "2026-12-12",
+   "nights": 6,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-12",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-13",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-14",
+     "port_id": "cozumel",
+     "port_name": "Cozumel, Mexico",
+     "lat": 20.5,
+     "lon": -86.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-15",
+     "port_id": "mahogany-bay",
+     "port_name": "Mahogany Bay",
+     "lat": 16.32633,
+     "lon": -86.49642,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-16",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-17",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-18",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Legend",
+   "departure_date": "2026-11-16",
+   "nights": 5,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-16",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-17",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-18",
+     "port_id": "george-town",
+     "port_name": "George Town",
+     "lat": 19.29657,
+     "lon": -81.38175,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-19",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-21",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Legend",
+   "departure_date": "2026-11-21",
+   "nights": 8,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-21",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-22",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-23",
+     "port_id": "george-town",
+     "port_name": "George Town",
+     "lat": 19.29657,
+     "lon": -81.38175,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-24",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-25",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-26",
+     "port_id": "belize-city",
+     "port_name": "Belize City",
+     "lat": 17.49953,
+     "lon": -88.22171,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-27",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-28",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-29",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Legend",
+   "departure_date": "2026-11-29",
+   "nights": 7,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-29",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-30",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-01",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-02",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-03",
+     "port_id": "montego-bay",
+     "port_name": "Montego Bay",
+     "lat": 18.467,
+     "lon": -77.917,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-04",
+     "port_id": "george-town",
+     "port_name": "George Town",
+     "lat": 19.29657,
+     "lon": -81.38175,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-05",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-06",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Legend",
+   "departure_date": "2026-12-06",
+   "nights": 7,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-06",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-08",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-09",
+     "port_id": "belize-city",
+     "port_name": "Belize City",
+     "lat": 17.49953,
+     "lon": -88.22171,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-10",
+     "port_id": "mahogany-bay",
+     "port_name": "Mahogany Bay",
+     "lat": 16.32633,
+     "lon": -86.49642,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-11",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-12",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-13",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Legend",
+   "departure_date": "2026-12-13",
+   "nights": 6,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-13",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-14",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-15",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-16",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-17",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-18",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-19",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Legend",
+   "departure_date": "2026-12-19",
+   "nights": 8,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-19",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-21",
+     "port_id": "george-town",
+     "port_name": "George Town",
+     "lat": 19.29657,
+     "lon": -81.38175,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-22",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-23",
+     "port_id": "mahogany-bay",
+     "port_name": "Mahogany Bay",
+     "lat": 16.32633,
+     "lon": -86.49642,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-24",
+     "port_id": "belize-city",
+     "port_name": "Belize City",
+     "lat": 17.49953,
+     "lon": -88.22171,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-25",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-26",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-27",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Legend",
+   "departure_date": "2026-12-27",
+   "nights": 7,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-27",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-28",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-29",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-30",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-31",
+     "port_id": "ocho-rios",
+     "port_name": "Ocho Rios",
+     "lat": 18.41232,
+     "lon": -77.09725,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-01",
+     "port_id": "george-town",
+     "port_name": "George Town",
+     "lat": 19.29657,
+     "lon": -81.38175,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-02",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-03",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Legend",
+   "departure_date": "2027-01-03",
+   "nights": 7,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-03",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-04",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-05",
+     "port_id": "george-town",
+     "port_name": "George Town",
+     "lat": 19.29657,
+     "lon": -81.38175,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-06",
+     "port_id": "ocho-rios",
+     "port_name": "Ocho Rios",
+     "lat": 18.41232,
+     "lon": -77.09725,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-08",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-09",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-10",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Liberty",
+   "departure_date": "2026-10-25",
+   "nights": 7,
+   "embark_port": "New Orleans, Louisiana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-25",
+     "port_id": "new-orleans",
+     "port_name": "New Orleans, Louisiana",
+     "lat": 29.93735,
+     "lon": -90.06154,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-10-26",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-10-27",
+     "port_id": "key-west",
+     "port_name": "Key West",
+     "lat": 24.55536,
+     "lon": -81.7879,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-10-28",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.57,
+     "lon": -78.49,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-10-29",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.01512,
+     "lon": -77.38204,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-10-30",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-10-31",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-01",
+     "port_id": "new-orleans",
+     "port_name": "New Orleans, Louisiana",
+     "lat": 29.93735,
+     "lon": -90.06154,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Liberty",
+   "departure_date": "2026-11-01",
+   "nights": 7,
+   "embark_port": "New Orleans, Louisiana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-01",
+     "port_id": "new-orleans",
+     "port_name": "New Orleans, Louisiana",
+     "lat": 29.93735,
+     "lon": -90.06154,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-02",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-03",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-04",
+     "port_id": "mahogany-bay",
+     "port_name": "Mahogany Bay",
+     "lat": 16.32633,
+     "lon": -86.49642,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-05",
+     "port_id": "belize-city",
+     "port_name": "Belize City",
+     "lat": 17.49953,
+     "lon": -88.22171,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-06",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-08",
+     "port_id": "new-orleans",
+     "port_name": "New Orleans, Louisiana",
+     "lat": 29.93735,
+     "lon": -90.06154,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Liberty",
+   "departure_date": "2026-11-08",
+   "nights": 7,
+   "embark_port": "New Orleans, Louisiana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-08",
+     "port_id": "new-orleans",
+     "port_name": "New Orleans, Louisiana",
+     "lat": 29.93735,
+     "lon": -90.06154,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-09",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-10",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-11",
+     "port_id": "belize-city",
+     "port_name": "Belize City",
+     "lat": 17.49953,
+     "lon": -88.22171,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-12",
+     "port_id": "mahogany-bay",
+     "port_name": "Mahogany Bay",
+     "lat": 16.32633,
+     "lon": -86.49642,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-13",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-14",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-15",
+     "port_id": "new-orleans",
+     "port_name": "New Orleans, Louisiana",
+     "lat": 29.93735,
+     "lon": -90.06154,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Liberty",
+   "departure_date": "2026-11-15",
+   "nights": 6,
+   "embark_port": "New Orleans, Louisiana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-15",
+     "port_id": "new-orleans",
+     "port_name": "New Orleans, Louisiana",
+     "lat": 29.93735,
+     "lon": -90.06154,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-16",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-17",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-18",
+     "port_id": "belize-city",
+     "port_name": "Belize City",
+     "lat": 17.49953,
+     "lon": -88.22171,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-19",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-21",
+     "port_id": "new-orleans",
+     "port_name": "New Orleans, Louisiana",
+     "lat": 29.93735,
+     "lon": -90.06154,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Liberty",
+   "departure_date": "2026-11-21",
+   "nights": 8,
+   "embark_port": "New Orleans, Louisiana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-21",
+     "port_id": "new-orleans",
+     "port_name": "New Orleans, Louisiana",
+     "lat": 29.93735,
+     "lon": -90.06154,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-22",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-23",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-24",
+     "port_id": "grand-bahama-island",
+     "port_name": "Grand Bahama Island",
+     "lat": 26.52015,
+     "lon": -78.77198,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-25",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-26",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.01512,
+     "lon": -77.38204,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-27",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-28",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-29",
+     "port_id": "new-orleans",
+     "port_name": "New Orleans, Louisiana",
+     "lat": 29.93735,
+     "lon": -90.06154,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Liberty",
+   "departure_date": "2026-11-29",
+   "nights": 14,
+   "embark_port": "New Orleans, Louisiana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-29",
+     "port_id": "new-orleans",
+     "port_name": "New Orleans, Louisiana",
+     "lat": 29.93735,
+     "lon": -90.06154,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-30",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-01",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-02",
+     "port_id": "montego-bay",
+     "port_name": "Montego Bay",
+     "lat": 18.467,
+     "lon": -77.917,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-03",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-04",
+     "port_id": "oranjestad",
+     "port_name": "Oranjestad, Aruba",
+     "lat": 12.52367,
+     "lon": -70.03487,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-05",
+     "port_id": "willemstad",
+     "port_name": "Willemstad, Curacao",
+     "lat": 12.10363,
+     "lon": -68.9327,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-06",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-07",
+     "port_id": "cartagena",
+     "port_name": "Cartagena",
+     "lat": 10.42513,
+     "lon": -75.5383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-12-08",
+     "port_id": "colon",
+     "port_name": "Colon",
+     "lat": 9.3617,
+     "lon": -79.89965,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-12-09",
+     "port_id": "puerto-limon",
+     "port_name": "Puerto Limon",
+     "lat": 9.99095,
+     "lon": -83.02908,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2026-12-10",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2026-12-11",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 13,
+     "date": "2026-12-12",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 14,
+     "date": "2026-12-13",
+     "port_id": "new-orleans",
+     "port_name": "New Orleans, Louisiana",
+     "lat": 29.93735,
+     "lon": -90.06154,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Liberty",
+   "departure_date": "2026-12-13",
+   "nights": 6,
+   "embark_port": "New Orleans, Louisiana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-13",
+     "port_id": "new-orleans",
+     "port_name": "New Orleans, Louisiana",
+     "lat": 29.93735,
+     "lon": -90.06154,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-14",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-15",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-16",
+     "port_id": "belize-city",
+     "port_name": "Belize City",
+     "lat": 17.49953,
+     "lon": -88.22171,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-17",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-18",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-19",
+     "port_id": "new-orleans",
+     "port_name": "New Orleans, Louisiana",
+     "lat": 29.93735,
+     "lon": -90.06154,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Liberty",
+   "departure_date": "2026-12-19",
+   "nights": 8,
+   "embark_port": "New Orleans, Louisiana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-19",
+     "port_id": "new-orleans",
+     "port_name": "New Orleans, Louisiana",
+     "lat": 29.93735,
+     "lon": -90.06154,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-21",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-22",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.01512,
+     "lon": -77.38204,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-23",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-24",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.57,
+     "lon": -78.49,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-25",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-26",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-27",
+     "port_id": "new-orleans",
+     "port_name": "New Orleans, Louisiana",
+     "lat": 29.93735,
+     "lon": -90.06154,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
   }
  ],
  "royal-caribbean": [],
