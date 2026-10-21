@@ -4767,135 +4767,6 @@
   {
    "sailing_id": null,
    "ship_name": "Enchanted Princess",
-   "departure_date": "2026-10-20",
-   "nights": 11,
-   "embark_port": "Civitavecchia (Rome)",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-10-20",
-     "port_id": "civitavecchia-rome",
-     "port_name": "Civitavecchia (Rome)",
-     "lat": 42.09,
-     "lon": 11.79,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-10-21",
-     "port_id": "alghero-sardinia",
-     "port_name": "Alghero (Sardinia)",
-     "lat": 40.56018,
-     "lon": 8.31421,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-10-22",
-     "port_id": "genoa",
-     "port_name": "Genoa",
-     "lat": 44.40535,
-     "lon": 8.93636,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-10-23",
-     "port_id": "livorno",
-     "port_name": "Livorno",
-     "lat": 43.55291,
-     "lon": 10.31997,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-10-24",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 5,
-     "date": "2026-10-25",
-     "port_id": "valletta",
-     "port_name": "Valletta",
-     "lat": 35.89353,
-     "lon": 14.5118,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 6,
-     "date": "2026-10-26",
-     "port_id": "messina",
-     "port_name": "Messina (Sicily)",
-     "lat": 38.17839,
-     "lon": 15.55309,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 7,
-     "date": "2026-10-27",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 8,
-     "date": "2026-10-28",
-     "port_id": "mykonos",
-     "port_name": "Mykonos",
-     "lat": 37.44274,
-     "lon": 25.32955,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 9,
-     "date": "2026-10-29",
-     "port_id": "rhodes",
-     "port_name": "Rhodes",
-     "lat": 36.44814,
-     "lon": 28.22569,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 10,
-     "date": "2026-10-30",
-     "port_id": "kusadasi",
-     "port_name": "Kusadasi",
-     "lat": 37.86087,
-     "lon": 27.25515,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 11,
-     "date": "2026-10-31",
-     "port_id": "piraeus",
-     "port_name": "Piraeus (Athens)",
-     "lat": 37.94,
-     "lon": 23.64,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Enchanted Princess",
    "departure_date": "2026-10-31",
    "nights": 10,
    "embark_port": "Piraeus (Athens)",
@@ -12982,65 +12853,6 @@
      "port_name": "Port Canaveral",
      "lat": 28.405,
      "lon": -80.61497,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Star Princess",
-   "departure_date": "2026-10-20",
-   "nights": 4,
-   "embark_port": "Fort Lauderdale",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-10-20",
-     "port_id": "fort-lauderdale",
-     "port_name": "Fort Lauderdale",
-     "lat": 26.09,
-     "lon": -80.11,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-10-21",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-10-22",
-     "port_id": "grand-turk",
-     "port_name": "Grand Turk, Turks & Caicos",
-     "lat": 21.46914,
-     "lon": -71.14584,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-10-23",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-10-24",
-     "port_id": "fort-lauderdale",
-     "port_name": "Fort Lauderdale",
-     "lat": 26.09,
-     "lon": -80.11,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -22990,6 +22802,2322 @@
      "port_name": "New Orleans, Louisiana",
      "lat": 29.93735,
      "lon": -90.06154,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Luminosa",
+   "departure_date": "2026-11-30",
+   "nights": 14,
+   "embark_port": "Singapore",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-30",
+     "port_id": "singapore",
+     "port_name": "Singapore",
+     "lat": 1.30834,
+     "lon": 103.85193,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-01",
+     "port_id": "cross-the-equator",
+     "port_name": "Cross The Equator",
+     "lat": null,
+     "lon": null,
+     "kind": "scenic",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-02",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-03",
+     "port_id": "lombok-island",
+     "port_name": "Lombok Island",
+     "lat": -8.73495,
+     "lon": 116.071,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-04",
+     "port_id": "benoa",
+     "port_name": "Benoa",
+     "lat": -8.79158,
+     "lon": 115.22496,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-05",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-06",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-08",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-12-09",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-12-10",
+     "port_id": "cairns",
+     "port_name": "Cairns",
+     "lat": -16.9206657,
+     "lon": 145.7721854,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2026-12-11",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2026-12-12",
+     "port_id": "airlie-beach",
+     "port_name": "Airlie Beach",
+     "lat": -20.26907,
+     "lon": 148.71929,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 13,
+     "date": "2026-12-13",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 14,
+     "date": "2026-12-14",
+     "port_id": "brisbane",
+     "port_name": "Brisbane",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Luminosa",
+   "departure_date": "2026-12-14",
+   "nights": 4,
+   "embark_port": "Brisbane",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-14",
+     "port_id": "brisbane",
+     "port_name": "Brisbane",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-15",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-16",
+     "port_id": "airlie-beach",
+     "port_name": "Airlie Beach",
+     "lat": -20.26907,
+     "lon": 148.71929,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-17",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-18",
+     "port_id": "brisbane",
+     "port_name": "Brisbane",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Luminosa",
+   "departure_date": "2026-12-18",
+   "nights": 8,
+   "embark_port": "Brisbane",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-18",
+     "port_id": "brisbane",
+     "port_name": "Brisbane",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-19",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-21",
+     "port_id": "mystery-island",
+     "port_name": "Mystery Island",
+     "lat": -20.2491889,
+     "lon": 169.7711722,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-22",
+     "port_id": "port-vila",
+     "port_name": "Port Vila",
+     "lat": -17.75676,
+     "lon": 168.2984,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-23",
+     "port_id": "champagne-bay",
+     "port_name": "Champagne Bay",
+     "lat": -15.143792,
+     "lon": 167.120381,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-24",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-25",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-26",
+     "port_id": "brisbane",
+     "port_name": "Brisbane",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Luminosa",
+   "departure_date": "2026-12-26",
+   "nights": 3,
+   "embark_port": "Brisbane",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-26",
+     "port_id": "brisbane",
+     "port_name": "Brisbane",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-29",
+     "port_id": "brisbane",
+     "port_name": "Brisbane",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Luminosa",
+   "departure_date": "2026-12-29",
+   "nights": 6,
+   "embark_port": "Brisbane",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-29",
+     "port_id": "brisbane",
+     "port_name": "Brisbane",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-30",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-31",
+     "port_id": "airlie-beach",
+     "port_name": "Airlie Beach",
+     "lat": -20.26907,
+     "lon": 148.71929,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-01",
+     "port_id": "cairns",
+     "port_name": "Cairns",
+     "lat": -16.9206657,
+     "lon": 145.7721854,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-02",
+     "port_id": "willis-island",
+     "port_name": "Willis Island",
+     "lat": -16.2872478,
+     "lon": 149.9643682,
+     "kind": "scenic",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-03",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-04",
+     "port_id": "brisbane",
+     "port_name": "Brisbane",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Luminosa",
+   "departure_date": "2027-01-04",
+   "nights": 7,
+   "embark_port": "Brisbane",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-04",
+     "port_id": "brisbane",
+     "port_name": "Brisbane",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-05",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-06",
+     "port_id": "noumea",
+     "port_name": "Noumea",
+     "lat": -22.21113,
+     "lon": 166.46625,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-07",
+     "port_id": "lifou-isle",
+     "port_name": "Lifou Isle",
+     "lat": -20.91877,
+     "lon": 167.2787,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-08",
+     "port_id": "mystery-island",
+     "port_name": "Mystery Island",
+     "lat": -20.2491889,
+     "lon": 169.7711722,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-09",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-10",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-11",
+     "port_id": "brisbane",
+     "port_name": "Brisbane",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Luminosa",
+   "departure_date": "2027-02-07",
+   "nights": 14,
+   "embark_port": "Brisbane",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-07",
+     "port_id": "brisbane",
+     "port_name": "Brisbane",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-08",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-09",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-10",
+     "port_id": "kingston-norfolk-island",
+     "port_name": "Kingston (Norfolk Island)",
+     "lat": -29.05712,
+     "lon": 167.9585,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-11",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-12",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-13",
+     "port_id": "nukualofa",
+     "port_name": "Nuku'alofa",
+     "lat": -21.13351,
+     "lon": -175.20344,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-14",
+     "port_id": "bounty-islands",
+     "port_name": "Bounty Islands",
+     "lat": -47.75,
+     "lon": 179.05,
+     "kind": "scenic",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-02-15",
+     "port_id": "suva",
+     "port_name": "Suva",
+     "lat": -18.14127,
+     "lon": 178.42325,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2027-02-16",
+     "port_id": "dravuni-island",
+     "port_name": "Dravuni Island",
+     "lat": -18.767,
+     "lon": 178.533,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2027-02-17",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2027-02-18",
+     "port_id": "port-vila",
+     "port_name": "Port Vila",
+     "lat": -17.75676,
+     "lon": 168.2984,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2027-02-19",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 13,
+     "date": "2027-02-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 14,
+     "date": "2027-02-21",
+     "port_id": "brisbane",
+     "port_name": "Brisbane",
+     "lat": -27.4693645,
+     "lon": 152.9687926,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Luminosa",
+   "departure_date": "2027-04-06",
+   "nights": 22,
+   "embark_port": "Sydney",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-04-06",
+     "port_id": "sydney",
+     "port_name": "Sydney",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-04-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-04-08",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-04-09",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-04-10",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-04-11",
+     "port_id": "suva",
+     "port_name": "Suva",
+     "lat": -18.14127,
+     "lon": 178.42325,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-04-12",
+     "port_id": "cross-international-dateline",
+     "port_name": "Cross International Dateline",
+     "lat": null,
+     "lon": null,
+     "kind": "scenic",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-04-13",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-04-14",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2027-04-15",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2027-04-16",
+     "port_id": "papeete",
+     "port_name": "Papeete",
+     "lat": -17.54471,
+     "lon": -149.57463,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2027-04-17",
+     "port_id": "moorea",
+     "port_name": "Moorea",
+     "lat": -17.51004,
+     "lon": -149.82281,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2027-04-18",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 13,
+     "date": "2027-04-19",
+     "port_id": "cross-the-equator",
+     "port_name": "Cross The Equator",
+     "lat": null,
+     "lon": null,
+     "kind": "scenic",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 14,
+     "date": "2027-04-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 15,
+     "date": "2027-04-21",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 16,
+     "date": "2027-04-22",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 17,
+     "date": "2027-04-23",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 18,
+     "date": "2027-04-24",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 19,
+     "date": "2027-04-25",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 20,
+     "date": "2027-04-26",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 21,
+     "date": "2027-04-27",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 22,
+     "date": "2027-04-28",
+     "port_id": "san-francisco",
+     "port_name": "San Francisco",
+     "lat": 37.78228,
+     "lon": -122.41429,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Magic",
+   "departure_date": "2026-10-25",
+   "nights": 6,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-25",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-10-26",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-10-27",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-10-28",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "lat": 19.83,
+     "lon": -70.66,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-10-29",
+     "port_id": "grand-turk",
+     "port_name": "Grand Turk",
+     "lat": 21.46914,
+     "lon": -71.14584,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-10-30",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-10-31",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Magic",
+   "departure_date": "2026-10-31",
+   "nights": 8,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-31",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-01",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-02",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-03",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-04",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-05",
+     "port_id": "st-thomas",
+     "port_name": "St. Thomas (Charlotte Amalie)",
+     "lat": 18.34899,
+     "lon": -64.93042,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-06",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-07",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-08",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Magic",
+   "departure_date": "2026-11-08",
+   "nights": 6,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-08",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-09",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-10",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-11",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "lat": 19.83,
+     "lon": -70.66,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-12",
+     "port_id": "grand-turk",
+     "port_name": "Grand Turk",
+     "lat": 21.46914,
+     "lon": -71.14584,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-13",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-14",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Magic",
+   "departure_date": "2026-11-14",
+   "nights": 8,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-14",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-15",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-16",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-17",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-18",
+     "port_id": "oranjestad",
+     "port_name": "Oranjestad",
+     "lat": 12.52367,
+     "lon": -70.03487,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-19",
+     "port_id": "willemstad",
+     "port_name": "Willemstad",
+     "lat": 12.10363,
+     "lon": -68.9327,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-20",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-21",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-22",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Magic",
+   "departure_date": "2026-11-22",
+   "nights": 6,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-22",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-23",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-24",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-25",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "lat": 19.83,
+     "lon": -70.66,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-26",
+     "port_id": "grand-turk",
+     "port_name": "Grand Turk",
+     "lat": 21.46914,
+     "lon": -71.14584,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-27",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-28",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Magic",
+   "departure_date": "2026-11-28",
+   "nights": 8,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-28",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-29",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-30",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-01",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-02",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-03",
+     "port_id": "st-thomas",
+     "port_name": "St. Thomas (Charlotte Amalie)",
+     "lat": 18.34899,
+     "lon": -64.93042,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-04",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-05",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-06",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Magic",
+   "departure_date": "2026-12-06",
+   "nights": 6,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-06",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-07",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-08",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-09",
+     "port_id": "montego-bay",
+     "port_name": "Montego Bay",
+     "lat": 18.467,
+     "lon": -77.917,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-10",
+     "port_id": "grand-cayman",
+     "port_name": "Grand Cayman",
+     "lat": 19.29657,
+     "lon": -81.38175,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-11",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-12",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Magic",
+   "departure_date": "2026-12-12",
+   "nights": 6,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-12",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-13",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-14",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-15",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "lat": 19.83,
+     "lon": -70.66,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-16",
+     "port_id": "grand-turk",
+     "port_name": "Grand Turk",
+     "lat": 21.46914,
+     "lon": -71.14584,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-17",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-18",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Miracle",
+   "departure_date": "2026-10-22",
+   "nights": 4,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-22",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-10-23",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-10-24",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-10-25",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-10-26",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Miracle",
+   "departure_date": "2026-10-26",
+   "nights": 10,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-26",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-10-27",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-10-28",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-10-29",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-10-30",
+     "port_id": "puerto-limon",
+     "port_name": "Puerto Limon",
+     "lat": 9.99095,
+     "lon": -83.02909,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-10-31",
+     "port_id": "colon",
+     "port_name": "Colon",
+     "lat": 9.3617,
+     "lon": -79.89965,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-01",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-02",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-03",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-11-04",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-11-05",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Miracle",
+   "departure_date": "2026-11-05",
+   "nights": 4,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-05",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-06",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-07",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-08",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-09",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Miracle",
+   "departure_date": "2026-11-09",
+   "nights": 10,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-09",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-10",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-11",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-12",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-13",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-14",
+     "port_id": "grand-turk",
+     "port_name": "Grand Turk",
+     "lat": 21.46914,
+     "lon": -71.14584,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-15",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "lat": 19.83,
+     "lon": -70.66,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-16",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-17",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-11-18",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-11-19",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Miracle",
+   "departure_date": "2026-11-19",
+   "nights": 4,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-19",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-21",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-22",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-23",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Miracle",
+   "departure_date": "2026-11-23",
+   "nights": 10,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-23",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-24",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-25",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-26",
+     "port_id": "belize-city",
+     "port_name": "Belize City",
+     "lat": 17.49953,
+     "lon": -88.22171,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-27",
+     "port_id": "mahogany-bay",
+     "port_name": "Mahogany Bay",
+     "lat": 16.32633,
+     "lon": -86.49642,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-28",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-29",
+     "port_id": "montego-bay",
+     "port_name": "Montego Bay",
+     "lat": 18.467,
+     "lon": -77.917,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-30",
+     "port_id": "george-town",
+     "port_name": "George Town",
+     "lat": 19.29657,
+     "lon": -81.38175,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-01",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-12-02",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-12-03",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Miracle",
+   "departure_date": "2026-12-03",
+   "nights": 4,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-03",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-04",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-05",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-06",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-07",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Miracle",
+   "departure_date": "2026-12-07",
+   "nights": 10,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-07",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-08",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-09",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-10",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-11",
+     "port_id": "puerto-limon",
+     "port_name": "Puerto Limon",
+     "lat": 9.99095,
+     "lon": -83.02909,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-12",
+     "port_id": "colon",
+     "port_name": "Colon",
+     "lat": 9.3617,
+     "lon": -79.89965,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-13",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-14",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-15",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-12-16",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-12-17",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
      "kind": "disembark",
      "day_confidence": "exact"
     }
