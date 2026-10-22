@@ -22819,8 +22819,8 @@
      "date": "2026-11-30",
      "port_id": "singapore",
      "port_name": "Singapore",
-     "lat": 1.30834,
-     "lon": 103.85193,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -22849,8 +22849,8 @@
      "date": "2026-12-03",
      "port_id": "lombok-island",
      "port_name": "Lombok Island",
-     "lat": -8.73495,
-     "lon": 116.071,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -22859,8 +22859,8 @@
      "date": "2026-12-04",
      "port_id": "benoa",
      "port_name": "Benoa",
-     "lat": -8.79158,
-     "lon": 115.22496,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -22918,9 +22918,9 @@
      "day_offset": 10,
      "date": "2026-12-10",
      "port_id": "cairns",
-     "port_name": "Cairns, Queensland",
-     "lat": -16.9206657,
-     "lon": 145.7721854,
+     "port_name": "Cairns",
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -22939,8 +22939,8 @@
      "date": "2026-12-12",
      "port_id": "airlie-beach",
      "port_name": "Airlie Beach",
-     "lat": -20.26907,
-     "lon": 148.71929,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -22959,8 +22959,8 @@
      "date": "2026-12-14",
      "port_id": "brisbane",
      "port_name": "Brisbane",
-     "lat": -27.4693645,
-     "lon": 152.9687926,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -22978,8 +22978,8 @@
      "date": "2026-12-14",
      "port_id": "brisbane",
      "port_name": "Brisbane",
-     "lat": -27.4693645,
-     "lon": 152.9687926,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -22998,8 +22998,8 @@
      "date": "2026-12-16",
      "port_id": "airlie-beach",
      "port_name": "Airlie Beach",
-     "lat": -20.26907,
-     "lon": 148.71929,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23018,8 +23018,8 @@
      "date": "2026-12-18",
      "port_id": "brisbane",
      "port_name": "Brisbane",
-     "lat": -27.4693645,
-     "lon": 152.9687926,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -23037,8 +23037,8 @@
      "date": "2026-12-18",
      "port_id": "brisbane",
      "port_name": "Brisbane",
-     "lat": -27.4693645,
-     "lon": 152.9687926,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -23066,9 +23066,9 @@
      "day_offset": 3,
      "date": "2026-12-21",
      "port_id": "mystery-island",
-     "port_name": "Mystery Island, Vanuatu",
-     "lat": -20.2491889,
-     "lon": 169.7711722,
+     "port_name": "Mystery Island",
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23077,8 +23077,8 @@
      "date": "2026-12-22",
      "port_id": "port-vila",
      "port_name": "Port Vila",
-     "lat": -17.75676,
-     "lon": 168.2984,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23087,8 +23087,8 @@
      "date": "2026-12-23",
      "port_id": "champagne-bay",
      "port_name": "Champagne Bay",
-     "lat": -15.143792,
-     "lon": 167.120381,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23117,8 +23117,8 @@
      "date": "2026-12-26",
      "port_id": "brisbane",
      "port_name": "Brisbane",
-     "lat": -27.4693645,
-     "lon": 152.9687926,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -23136,8 +23136,8 @@
      "date": "2026-12-26",
      "port_id": "brisbane",
      "port_name": "Brisbane",
-     "lat": -27.4693645,
-     "lon": 152.9687926,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -23146,8 +23146,8 @@
      "date": "2026-12-29",
      "port_id": "brisbane",
      "port_name": "Brisbane",
-     "lat": -27.4693645,
-     "lon": 152.9687926,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -23165,8 +23165,8 @@
      "date": "2026-12-29",
      "port_id": "brisbane",
      "port_name": "Brisbane",
-     "lat": -27.4693645,
-     "lon": 152.9687926,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -23185,8 +23185,8 @@
      "date": "2026-12-31",
      "port_id": "airlie-beach",
      "port_name": "Airlie Beach",
-     "lat": -20.26907,
-     "lon": 148.71929,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23194,9 +23194,9 @@
      "day_offset": 3,
      "date": "2027-01-01",
      "port_id": "cairns",
-     "port_name": "Cairns, Queensland",
-     "lat": -16.9206657,
-     "lon": 145.7721854,
+     "port_name": "Cairns",
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23205,8 +23205,8 @@
      "date": "2027-01-02",
      "port_id": "willis-island",
      "port_name": "Willis Island",
-     "lat": -16.2872478,
-     "lon": 149.9643682,
+     "lat": null,
+     "lon": null,
      "kind": "scenic",
      "day_confidence": "exact"
     },
@@ -23225,8 +23225,8 @@
      "date": "2027-01-04",
      "port_id": "brisbane",
      "port_name": "Brisbane",
-     "lat": -27.4693645,
-     "lon": 152.9687926,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -23244,8 +23244,8 @@
      "date": "2027-01-04",
      "port_id": "brisbane",
      "port_name": "Brisbane",
-     "lat": -27.4693645,
-     "lon": 152.9687926,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -23263,9 +23263,9 @@
      "day_offset": 2,
      "date": "2027-01-06",
      "port_id": "noumea",
-     "port_name": "Noum\u00e9a, New Caledonia",
-     "lat": -22.21113,
-     "lon": 166.46625,
+     "port_name": "Noumea",
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23274,8 +23274,8 @@
      "date": "2027-01-07",
      "port_id": "lifou-isle",
      "port_name": "Lifou Isle",
-     "lat": -20.91877,
-     "lon": 167.2787,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23283,9 +23283,9 @@
      "day_offset": 4,
      "date": "2027-01-08",
      "port_id": "mystery-island",
-     "port_name": "Mystery Island, Vanuatu",
-     "lat": -20.2491889,
-     "lon": 169.7711722,
+     "port_name": "Mystery Island",
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23314,8 +23314,8 @@
      "date": "2027-01-11",
      "port_id": "brisbane",
      "port_name": "Brisbane",
-     "lat": -27.4693645,
-     "lon": 152.9687926,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -23333,8 +23333,8 @@
      "date": "2027-02-07",
      "port_id": "brisbane",
      "port_name": "Brisbane",
-     "lat": -27.4693645,
-     "lon": 152.9687926,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -23363,8 +23363,8 @@
      "date": "2027-02-10",
      "port_id": "kingston-norfolk-island",
      "port_name": "Kingston (Norfolk Island)",
-     "lat": -29.05712,
-     "lon": 167.9585,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23393,8 +23393,8 @@
      "date": "2027-02-13",
      "port_id": "nukualofa",
      "port_name": "Nuku'alofa",
-     "lat": -21.13351,
-     "lon": -175.20344,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23403,8 +23403,8 @@
      "date": "2027-02-14",
      "port_id": "bounty-islands",
      "port_name": "Bounty Islands",
-     "lat": -47.75,
-     "lon": 179.05,
+     "lat": null,
+     "lon": null,
      "kind": "scenic",
      "day_confidence": "exact"
     },
@@ -23413,8 +23413,8 @@
      "date": "2027-02-15",
      "port_id": "suva",
      "port_name": "Suva",
-     "lat": -18.14127,
-     "lon": 178.42325,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23423,8 +23423,8 @@
      "date": "2027-02-16",
      "port_id": "dravuni-island",
      "port_name": "Dravuni Island",
-     "lat": -18.767,
-     "lon": 178.533,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23443,8 +23443,8 @@
      "date": "2027-02-18",
      "port_id": "port-vila",
      "port_name": "Port Vila",
-     "lat": -17.75676,
-     "lon": 168.2984,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23473,8 +23473,8 @@
      "date": "2027-02-21",
      "port_id": "brisbane",
      "port_name": "Brisbane",
-     "lat": -27.4693645,
-     "lon": 152.9687926,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -23492,8 +23492,8 @@
      "date": "2027-04-06",
      "port_id": "sydney",
      "port_name": "Sydney",
-     "lat": -33.85929,
-     "lon": 151.20904,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -23542,8 +23542,8 @@
      "date": "2027-04-11",
      "port_id": "suva",
      "port_name": "Suva",
-     "lat": -18.14127,
-     "lon": 178.42325,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23592,8 +23592,8 @@
      "date": "2027-04-16",
      "port_id": "papeete",
      "port_name": "Papeete",
-     "lat": -17.54471,
-     "lon": -149.57463,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23602,8 +23602,8 @@
      "date": "2027-04-17",
      "port_id": "moorea",
      "port_name": "Moorea",
-     "lat": -17.51004,
-     "lon": -149.82281,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23662,8 +23662,8 @@
      "date": "2027-04-23",
      "port_id": "honolulu",
      "port_name": "Honolulu",
-     "lat": 21.30554,
-     "lon": -157.86404,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23712,8 +23712,8 @@
      "date": "2027-04-28",
      "port_id": "san-francisco",
      "port_name": "San Francisco",
-     "lat": 37.78228,
-     "lon": -122.41429,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -23731,8 +23731,8 @@
      "date": "2026-10-25",
      "port_id": "miami",
      "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -23741,8 +23741,8 @@
      "date": "2026-10-26",
      "port_id": "celebration-key",
      "port_name": "Celebration Key",
-     "lat": 26.6,
-     "lon": -78.7,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23761,8 +23761,8 @@
      "date": "2026-10-28",
      "port_id": "amber-cove",
      "port_name": "Amber Cove",
-     "lat": 19.83,
-     "lon": -70.66,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23771,8 +23771,8 @@
      "date": "2026-10-29",
      "port_id": "grand-turk",
      "port_name": "Grand Turk",
-     "lat": 21.46914,
-     "lon": -71.14584,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23791,8 +23791,8 @@
      "date": "2026-10-31",
      "port_id": "miami",
      "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -23810,8 +23810,8 @@
      "date": "2026-10-31",
      "port_id": "miami",
      "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -23820,8 +23820,8 @@
      "date": "2026-11-01",
      "port_id": "half-moon-cay",
      "port_name": "Half Moon Cay",
-     "lat": 24.58,
-     "lon": -75.95,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23840,8 +23840,8 @@
      "date": "2026-11-03",
      "port_id": "san-juan",
      "port_name": "San Juan",
-     "lat": 18.47,
-     "lon": -66.11,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23850,8 +23850,8 @@
      "date": "2026-11-04",
      "port_id": "philipsburg",
      "port_name": "Philipsburg",
-     "lat": 18.01411,
-     "lon": -63.04425,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23859,9 +23859,9 @@
      "day_offset": 5,
      "date": "2026-11-05",
      "port_id": "st-thomas",
-     "port_name": "St. Thomas",
-     "lat": 18.34899,
-     "lon": -64.93042,
+     "port_name": "St. Thomas (Charlotte Amalie)",
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23890,8 +23890,8 @@
      "date": "2026-11-08",
      "port_id": "miami",
      "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -23909,8 +23909,8 @@
      "date": "2026-11-08",
      "port_id": "miami",
      "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -23919,8 +23919,8 @@
      "date": "2026-11-09",
      "port_id": "celebration-key",
      "port_name": "Celebration Key",
-     "lat": 26.6,
-     "lon": -78.7,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23939,8 +23939,8 @@
      "date": "2026-11-11",
      "port_id": "amber-cove",
      "port_name": "Amber Cove",
-     "lat": 19.83,
-     "lon": -70.66,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23949,8 +23949,8 @@
      "date": "2026-11-12",
      "port_id": "grand-turk",
      "port_name": "Grand Turk",
-     "lat": 21.46914,
-     "lon": -71.14584,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -23969,8 +23969,8 @@
      "date": "2026-11-14",
      "port_id": "miami",
      "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -23988,8 +23988,8 @@
      "date": "2026-11-14",
      "port_id": "miami",
      "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -23998,8 +23998,8 @@
      "date": "2026-11-15",
      "port_id": "celebration-key",
      "port_name": "Celebration Key",
-     "lat": 26.6,
-     "lon": -78.7,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24028,8 +24028,8 @@
      "date": "2026-11-18",
      "port_id": "oranjestad",
      "port_name": "Oranjestad",
-     "lat": 12.52367,
-     "lon": -70.03487,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24038,8 +24038,8 @@
      "date": "2026-11-19",
      "port_id": "willemstad",
      "port_name": "Willemstad",
-     "lat": 12.10363,
-     "lon": -68.9327,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24068,8 +24068,8 @@
      "date": "2026-11-22",
      "port_id": "miami",
      "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -24087,8 +24087,8 @@
      "date": "2026-11-22",
      "port_id": "miami",
      "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -24097,8 +24097,8 @@
      "date": "2026-11-23",
      "port_id": "celebration-key",
      "port_name": "Celebration Key",
-     "lat": 26.6,
-     "lon": -78.7,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24117,8 +24117,8 @@
      "date": "2026-11-25",
      "port_id": "amber-cove",
      "port_name": "Amber Cove",
-     "lat": 19.83,
-     "lon": -70.66,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24127,8 +24127,8 @@
      "date": "2026-11-26",
      "port_id": "grand-turk",
      "port_name": "Grand Turk",
-     "lat": 21.46914,
-     "lon": -71.14584,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24147,8 +24147,8 @@
      "date": "2026-11-28",
      "port_id": "miami",
      "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -24166,8 +24166,8 @@
      "date": "2026-11-28",
      "port_id": "miami",
      "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -24176,8 +24176,8 @@
      "date": "2026-11-29",
      "port_id": "half-moon-cay",
      "port_name": "Half Moon Cay",
-     "lat": 24.58,
-     "lon": -75.95,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24196,8 +24196,8 @@
      "date": "2026-12-01",
      "port_id": "san-juan",
      "port_name": "San Juan",
-     "lat": 18.47,
-     "lon": -66.11,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24206,8 +24206,8 @@
      "date": "2026-12-02",
      "port_id": "philipsburg",
      "port_name": "Philipsburg",
-     "lat": 18.01411,
-     "lon": -63.04425,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24215,9 +24215,9 @@
      "day_offset": 5,
      "date": "2026-12-03",
      "port_id": "st-thomas",
-     "port_name": "St. Thomas",
-     "lat": 18.34899,
-     "lon": -64.93042,
+     "port_name": "St. Thomas (Charlotte Amalie)",
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24246,8 +24246,8 @@
      "date": "2026-12-06",
      "port_id": "miami",
      "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -24265,8 +24265,8 @@
      "date": "2026-12-06",
      "port_id": "miami",
      "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -24275,8 +24275,8 @@
      "date": "2026-12-07",
      "port_id": "celebration-key",
      "port_name": "Celebration Key",
-     "lat": 26.6,
-     "lon": -78.7,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24295,8 +24295,8 @@
      "date": "2026-12-09",
      "port_id": "montego-bay",
      "port_name": "Montego Bay",
-     "lat": 18.467,
-     "lon": -77.917,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24305,8 +24305,8 @@
      "date": "2026-12-10",
      "port_id": "grand-cayman",
      "port_name": "Grand Cayman",
-     "lat": 19.29657,
-     "lon": -81.38175,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24325,8 +24325,8 @@
      "date": "2026-12-12",
      "port_id": "miami",
      "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -24344,8 +24344,8 @@
      "date": "2026-12-12",
      "port_id": "miami",
      "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -24354,8 +24354,8 @@
      "date": "2026-12-13",
      "port_id": "half-moon-cay",
      "port_name": "Half Moon Cay",
-     "lat": 24.58,
-     "lon": -75.95,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24374,8 +24374,8 @@
      "date": "2026-12-15",
      "port_id": "amber-cove",
      "port_name": "Amber Cove",
-     "lat": 19.83,
-     "lon": -70.66,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24384,8 +24384,8 @@
      "date": "2026-12-16",
      "port_id": "grand-turk",
      "port_name": "Grand Turk",
-     "lat": 21.46914,
-     "lon": -71.14584,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24404,8 +24404,8 @@
      "date": "2026-12-18",
      "port_id": "miami",
      "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -24423,8 +24423,8 @@
      "date": "2026-10-22",
      "port_id": "galveston",
      "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -24443,8 +24443,8 @@
      "date": "2026-10-24",
      "port_id": "cozumel",
      "port_name": "Cozumel",
-     "lat": 20.47897,
-     "lon": -86.9735,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24463,8 +24463,8 @@
      "date": "2026-10-26",
      "port_id": "galveston",
      "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -24482,8 +24482,8 @@
      "date": "2026-10-26",
      "port_id": "galveston",
      "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -24502,8 +24502,8 @@
      "date": "2026-10-28",
      "port_id": "cozumel",
      "port_name": "Cozumel",
-     "lat": 20.47897,
-     "lon": -86.9735,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24522,8 +24522,8 @@
      "date": "2026-10-30",
      "port_id": "puerto-limon",
      "port_name": "Puerto Limon",
-     "lat": 9.99095,
-     "lon": -83.02909,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24532,8 +24532,8 @@
      "date": "2026-10-31",
      "port_id": "colon",
      "port_name": "Colon",
-     "lat": 9.3617,
-     "lon": -79.89965,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24552,8 +24552,8 @@
      "date": "2026-11-02",
      "port_id": "roatan",
      "port_name": "Roatan",
-     "lat": 16.33154,
-     "lon": -86.53855,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24582,8 +24582,8 @@
      "date": "2026-11-05",
      "port_id": "galveston",
      "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -24601,8 +24601,8 @@
      "date": "2026-11-05",
      "port_id": "galveston",
      "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -24621,8 +24621,8 @@
      "date": "2026-11-07",
      "port_id": "cozumel",
      "port_name": "Cozumel",
-     "lat": 20.47897,
-     "lon": -86.9735,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24641,8 +24641,8 @@
      "date": "2026-11-09",
      "port_id": "galveston",
      "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -24660,8 +24660,8 @@
      "date": "2026-11-09",
      "port_id": "galveston",
      "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -24690,8 +24690,8 @@
      "date": "2026-11-12",
      "port_id": "celebration-key",
      "port_name": "Celebration Key",
-     "lat": 26.6,
-     "lon": -78.7,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24700,8 +24700,8 @@
      "date": "2026-11-13",
      "port_id": "half-moon-cay",
      "port_name": "Half Moon Cay",
-     "lat": 24.58,
-     "lon": -75.95,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24710,8 +24710,8 @@
      "date": "2026-11-14",
      "port_id": "grand-turk",
      "port_name": "Grand Turk",
-     "lat": 21.46914,
-     "lon": -71.14584,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24720,8 +24720,8 @@
      "date": "2026-11-15",
      "port_id": "amber-cove",
      "port_name": "Amber Cove",
-     "lat": 19.83,
-     "lon": -70.66,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24760,8 +24760,8 @@
      "date": "2026-11-19",
      "port_id": "galveston",
      "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -24779,8 +24779,8 @@
      "date": "2026-11-19",
      "port_id": "galveston",
      "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -24799,8 +24799,8 @@
      "date": "2026-11-21",
      "port_id": "cozumel",
      "port_name": "Cozumel",
-     "lat": 20.47897,
-     "lon": -86.9735,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24819,8 +24819,8 @@
      "date": "2026-11-23",
      "port_id": "galveston",
      "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -24838,8 +24838,8 @@
      "date": "2026-11-23",
      "port_id": "galveston",
      "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -24858,8 +24858,8 @@
      "date": "2026-11-25",
      "port_id": "cozumel",
      "port_name": "Cozumel",
-     "lat": 20.47897,
-     "lon": -86.9735,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24868,8 +24868,8 @@
      "date": "2026-11-26",
      "port_id": "belize-city",
      "port_name": "Belize City",
-     "lat": 17.49953,
-     "lon": -88.22171,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24878,8 +24878,8 @@
      "date": "2026-11-27",
      "port_id": "mahogany-bay",
      "port_name": "Mahogany Bay",
-     "lat": 16.32633,
-     "lon": -86.49642,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24898,8 +24898,8 @@
      "date": "2026-11-29",
      "port_id": "montego-bay",
      "port_name": "Montego Bay",
-     "lat": 18.467,
-     "lon": -77.917,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24908,8 +24908,8 @@
      "date": "2026-11-30",
      "port_id": "george-town",
      "port_name": "George Town",
-     "lat": 19.29657,
-     "lon": -81.38175,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24938,8 +24938,8 @@
      "date": "2026-12-03",
      "port_id": "galveston",
      "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -24957,8 +24957,8 @@
      "date": "2026-12-03",
      "port_id": "galveston",
      "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -24977,8 +24977,8 @@
      "date": "2026-12-05",
      "port_id": "cozumel",
      "port_name": "Cozumel",
-     "lat": 20.47897,
-     "lon": -86.9735,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -24997,8 +24997,8 @@
      "date": "2026-12-07",
      "port_id": "galveston",
      "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -25016,8 +25016,8 @@
      "date": "2026-12-07",
      "port_id": "galveston",
      "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -25036,8 +25036,8 @@
      "date": "2026-12-09",
      "port_id": "cozumel",
      "port_name": "Cozumel",
-     "lat": 20.47897,
-     "lon": -86.9735,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25056,8 +25056,8 @@
      "date": "2026-12-11",
      "port_id": "puerto-limon",
      "port_name": "Puerto Limon",
-     "lat": 9.99095,
-     "lon": -83.02909,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25066,8 +25066,8 @@
      "date": "2026-12-12",
      "port_id": "colon",
      "port_name": "Colon",
-     "lat": 9.3617,
-     "lon": -79.89965,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25086,8 +25086,8 @@
      "date": "2026-12-14",
      "port_id": "roatan",
      "port_name": "Roatan",
-     "lat": 16.33154,
-     "lon": -86.53855,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25116,8 +25116,8 @@
      "date": "2026-12-17",
      "port_id": "galveston",
      "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -25134,9 +25134,9 @@
      "day_offset": 0,
      "date": "2026-10-24",
      "port_id": "long-beach",
-     "port_name": "Long Beach, California",
-     "lat": 33.75074,
-     "lon": -118.1891,
+     "port_name": "Long Beach",
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -25165,8 +25165,8 @@
      "date": "2026-10-27",
      "port_id": "puerto-vallarta",
      "port_name": "Puerto Vallarta",
-     "lat": 20.60841,
-     "lon": -105.23524,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25175,8 +25175,8 @@
      "date": "2026-10-28",
      "port_id": "mazatlan",
      "port_name": "Mazatlan",
-     "lat": 23.2,
-     "lon": -106.42175,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25185,8 +25185,8 @@
      "date": "2026-10-29",
      "port_id": "la-paz",
      "port_name": "La Paz",
-     "lat": 24.16185,
-     "lon": -110.31322,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25195,8 +25195,8 @@
      "date": "2026-10-30",
      "port_id": "cabo-san-lucas",
      "port_name": "Cabo San Lucas",
-     "lat": 22.89406,
-     "lon": -109.92628,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25214,9 +25214,9 @@
      "day_offset": 8,
      "date": "2026-11-01",
      "port_id": "long-beach",
-     "port_name": "Long Beach, California",
-     "lat": 33.75074,
-     "lon": -118.1891,
+     "port_name": "Long Beach",
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -25233,9 +25233,9 @@
      "day_offset": 0,
      "date": "2026-11-01",
      "port_id": "long-beach",
-     "port_name": "Long Beach, California",
-     "lat": 33.75074,
-     "lon": -118.1891,
+     "port_name": "Long Beach",
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -25254,8 +25254,8 @@
      "date": "2026-11-03",
      "port_id": "cabo-san-lucas",
      "port_name": "Cabo San Lucas",
-     "lat": 22.89406,
-     "lon": -109.92628,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25264,8 +25264,8 @@
      "date": "2026-11-04",
      "port_id": "cabo-san-lucas",
      "port_name": "Cabo San Lucas",
-     "lat": 22.89406,
-     "lon": -109.92628,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25284,8 +25284,8 @@
      "date": "2026-11-06",
      "port_id": "ensenada",
      "port_name": "Ensenada",
-     "lat": 31.86427,
-     "lon": -116.6145,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25293,9 +25293,9 @@
      "day_offset": 6,
      "date": "2026-11-07",
      "port_id": "long-beach",
-     "port_name": "Long Beach, California",
-     "lat": 33.75074,
-     "lon": -118.1891,
+     "port_name": "Long Beach",
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -25312,9 +25312,9 @@
      "day_offset": 0,
      "date": "2026-11-07",
      "port_id": "long-beach",
-     "port_name": "Long Beach, California",
-     "lat": 33.75074,
-     "lon": -118.1891,
+     "port_name": "Long Beach",
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -25343,8 +25343,8 @@
      "date": "2026-11-10",
      "port_id": "puerto-vallarta",
      "port_name": "Puerto Vallarta",
-     "lat": 20.60841,
-     "lon": -105.23524,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25353,8 +25353,8 @@
      "date": "2026-11-11",
      "port_id": "mazatlan",
      "port_name": "Mazatlan",
-     "lat": 23.2,
-     "lon": -106.42175,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25363,8 +25363,8 @@
      "date": "2026-11-12",
      "port_id": "la-paz",
      "port_name": "La Paz",
-     "lat": 24.16185,
-     "lon": -110.31322,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25373,8 +25373,8 @@
      "date": "2026-11-13",
      "port_id": "cabo-san-lucas",
      "port_name": "Cabo San Lucas",
-     "lat": 22.89406,
-     "lon": -109.92628,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25392,9 +25392,9 @@
      "day_offset": 8,
      "date": "2026-11-15",
      "port_id": "long-beach",
-     "port_name": "Long Beach, California",
-     "lat": 33.75074,
-     "lon": -118.1891,
+     "port_name": "Long Beach",
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -25411,9 +25411,9 @@
      "day_offset": 0,
      "date": "2026-11-15",
      "port_id": "long-beach",
-     "port_name": "Long Beach, California",
-     "lat": 33.75074,
-     "lon": -118.1891,
+     "port_name": "Long Beach",
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -25432,8 +25432,8 @@
      "date": "2026-11-17",
      "port_id": "cabo-san-lucas",
      "port_name": "Cabo San Lucas",
-     "lat": 22.89406,
-     "lon": -109.92628,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25442,8 +25442,8 @@
      "date": "2026-11-18",
      "port_id": "cabo-san-lucas",
      "port_name": "Cabo San Lucas",
-     "lat": 22.89406,
-     "lon": -109.92628,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25462,8 +25462,8 @@
      "date": "2026-11-20",
      "port_id": "ensenada",
      "port_name": "Ensenada",
-     "lat": 31.86427,
-     "lon": -116.6145,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25471,9 +25471,9 @@
      "day_offset": 6,
      "date": "2026-11-21",
      "port_id": "long-beach",
-     "port_name": "Long Beach, California",
-     "lat": 33.75074,
-     "lon": -118.1891,
+     "port_name": "Long Beach",
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -25490,9 +25490,9 @@
      "day_offset": 0,
      "date": "2026-11-21",
      "port_id": "long-beach",
-     "port_name": "Long Beach, California",
-     "lat": 33.75074,
-     "lon": -118.1891,
+     "port_name": "Long Beach",
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -25521,8 +25521,8 @@
      "date": "2026-11-24",
      "port_id": "puerto-vallarta",
      "port_name": "Puerto Vallarta",
-     "lat": 20.60841,
-     "lon": -105.23524,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25531,8 +25531,8 @@
      "date": "2026-11-25",
      "port_id": "mazatlan",
      "port_name": "Mazatlan",
-     "lat": 23.2,
-     "lon": -106.42175,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25541,8 +25541,8 @@
      "date": "2026-11-26",
      "port_id": "la-paz",
      "port_name": "La Paz",
-     "lat": 24.16185,
-     "lon": -110.31322,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25551,8 +25551,8 @@
      "date": "2026-11-27",
      "port_id": "cabo-san-lucas",
      "port_name": "Cabo San Lucas",
-     "lat": 22.89406,
-     "lon": -109.92628,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25570,9 +25570,9 @@
      "day_offset": 8,
      "date": "2026-11-29",
      "port_id": "long-beach",
-     "port_name": "Long Beach, California",
-     "lat": 33.75074,
-     "lon": -118.1891,
+     "port_name": "Long Beach",
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -25589,9 +25589,9 @@
      "day_offset": 0,
      "date": "2026-11-29",
      "port_id": "long-beach",
-     "port_name": "Long Beach, California",
-     "lat": 33.75074,
-     "lon": -118.1891,
+     "port_name": "Long Beach",
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -25610,8 +25610,8 @@
      "date": "2026-12-01",
      "port_id": "cabo-san-lucas",
      "port_name": "Cabo San Lucas",
-     "lat": 22.89406,
-     "lon": -109.92628,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25620,8 +25620,8 @@
      "date": "2026-12-02",
      "port_id": "cabo-san-lucas",
      "port_name": "Cabo San Lucas",
-     "lat": 22.89406,
-     "lon": -109.92628,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25640,8 +25640,8 @@
      "date": "2026-12-04",
      "port_id": "ensenada",
      "port_name": "Ensenada",
-     "lat": 31.86427,
-     "lon": -116.6145,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25649,9 +25649,9 @@
      "day_offset": 6,
      "date": "2026-12-05",
      "port_id": "long-beach",
-     "port_name": "Long Beach, California",
-     "lat": 33.75074,
-     "lon": -118.1891,
+     "port_name": "Long Beach",
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -25668,9 +25668,9 @@
      "day_offset": 0,
      "date": "2026-12-05",
      "port_id": "long-beach",
-     "port_name": "Long Beach, California",
-     "lat": 33.75074,
-     "lon": -118.1891,
+     "port_name": "Long Beach",
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -25699,8 +25699,8 @@
      "date": "2026-12-08",
      "port_id": "puerto-vallarta",
      "port_name": "Puerto Vallarta",
-     "lat": 20.60841,
-     "lon": -105.23524,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25709,8 +25709,8 @@
      "date": "2026-12-09",
      "port_id": "mazatlan",
      "port_name": "Mazatlan",
-     "lat": 23.2,
-     "lon": -106.42175,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25719,8 +25719,8 @@
      "date": "2026-12-10",
      "port_id": "la-paz",
      "port_name": "La Paz",
-     "lat": 24.16185,
-     "lon": -110.31322,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25729,8 +25729,8 @@
      "date": "2026-12-11",
      "port_id": "cabo-san-lucas",
      "port_name": "Cabo San Lucas",
-     "lat": 22.89406,
-     "lon": -109.92628,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25748,9 +25748,9 @@
      "day_offset": 8,
      "date": "2026-12-13",
      "port_id": "long-beach",
-     "port_name": "Long Beach, California",
-     "lat": 33.75074,
-     "lon": -118.1891,
+     "port_name": "Long Beach",
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -25767,9 +25767,9 @@
      "day_offset": 0,
      "date": "2026-12-13",
      "port_id": "long-beach",
-     "port_name": "Long Beach, California",
-     "lat": 33.75074,
-     "lon": -118.1891,
+     "port_name": "Long Beach",
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -25788,8 +25788,8 @@
      "date": "2026-12-15",
      "port_id": "cabo-san-lucas",
      "port_name": "Cabo San Lucas",
-     "lat": 22.89406,
-     "lon": -109.92628,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25798,8 +25798,8 @@
      "date": "2026-12-16",
      "port_id": "cabo-san-lucas",
      "port_name": "Cabo San Lucas",
-     "lat": 22.89406,
-     "lon": -109.92628,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25818,8 +25818,8 @@
      "date": "2026-12-18",
      "port_id": "ensenada",
      "port_name": "Ensenada",
-     "lat": 31.86427,
-     "lon": -116.6145,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25827,9 +25827,9 @@
      "day_offset": 6,
      "date": "2026-12-19",
      "port_id": "long-beach",
-     "port_name": "Long Beach, California",
-     "lat": 33.75074,
-     "lon": -118.1891,
+     "port_name": "Long Beach",
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -25847,8 +25847,8 @@
      "date": "2026-10-22",
      "port_id": "tampa",
      "port_name": "Tampa, Florida",
-     "lat": 27.95007,
-     "lon": -82.44523,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -25866,9 +25866,9 @@
      "day_offset": 2,
      "date": "2026-10-24",
      "port_id": "cozumel",
-     "port_name": "Cozumel",
-     "lat": 20.47897,
-     "lon": -86.9735,
+     "port_name": "Cozumel, Mexico",
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25887,8 +25887,8 @@
      "date": "2026-10-26",
      "port_id": "tampa",
      "port_name": "Tampa, Florida",
-     "lat": 27.95007,
-     "lon": -82.44523,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -25906,8 +25906,8 @@
      "date": "2026-10-26",
      "port_id": "tampa",
      "port_name": "Tampa, Florida",
-     "lat": 27.95007,
-     "lon": -82.44523,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -25926,8 +25926,8 @@
      "date": "2026-10-28",
      "port_id": "belize-city",
      "port_name": "Belize City",
-     "lat": 17.49953,
-     "lon": -88.22171,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25936,8 +25936,8 @@
      "date": "2026-10-29",
      "port_id": "mahogany-bay",
      "port_name": "Mahogany Bay",
-     "lat": 16.32633,
-     "lon": -86.49642,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25945,9 +25945,9 @@
      "day_offset": 4,
      "date": "2026-10-30",
      "port_id": "cozumel",
-     "port_name": "Cozumel",
-     "lat": 20.47897,
-     "lon": -86.9735,
+     "port_name": "Cozumel, Mexico",
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -25966,8 +25966,8 @@
      "date": "2026-11-01",
      "port_id": "tampa",
      "port_name": "Tampa, Florida",
-     "lat": 27.95007,
-     "lon": -82.44523,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -25985,8 +25985,8 @@
      "date": "2026-11-01",
      "port_id": "tampa",
      "port_name": "Tampa, Florida",
-     "lat": 27.95007,
-     "lon": -82.44523,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -26004,9 +26004,9 @@
      "day_offset": 2,
      "date": "2026-11-03",
      "port_id": "cozumel",
-     "port_name": "Cozumel",
-     "lat": 20.47897,
-     "lon": -86.9735,
+     "port_name": "Cozumel, Mexico",
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -26025,8 +26025,8 @@
      "date": "2026-11-05",
      "port_id": "tampa",
      "port_name": "Tampa, Florida",
-     "lat": 27.95007,
-     "lon": -82.44523,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -26044,8 +26044,8 @@
      "date": "2026-11-05",
      "port_id": "tampa",
      "port_name": "Tampa, Florida",
-     "lat": 27.95007,
-     "lon": -82.44523,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -26063,9 +26063,9 @@
      "day_offset": 2,
      "date": "2026-11-07",
      "port_id": "cozumel",
-     "port_name": "Cozumel",
-     "lat": 20.47897,
-     "lon": -86.9735,
+     "port_name": "Cozumel, Mexico",
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -26084,8 +26084,8 @@
      "date": "2026-11-09",
      "port_id": "tampa",
      "port_name": "Tampa, Florida",
-     "lat": 27.95007,
-     "lon": -82.44523,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -26103,8 +26103,8 @@
      "date": "2026-11-09",
      "port_id": "tampa",
      "port_name": "Tampa, Florida",
-     "lat": 27.95007,
-     "lon": -82.44523,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -26122,9 +26122,9 @@
      "day_offset": 2,
      "date": "2026-11-11",
      "port_id": "celebration-key",
-     "port_name": "Celebration Key",
-     "lat": 26.6,
-     "lon": -78.7,
+     "port_name": "Celebration Key, Bahamas",
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -26133,8 +26133,8 @@
      "date": "2026-11-12",
      "port_id": "half-moon-cay",
      "port_name": "Half Moon Cay",
-     "lat": 24.58,
-     "lon": -75.95,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -26143,8 +26143,8 @@
      "date": "2026-11-13",
      "port_id": "nassau",
      "port_name": "Nassau, Bahamas",
-     "lat": 25.07895,
-     "lon": -77.341,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -26163,8 +26163,8 @@
      "date": "2026-11-15",
      "port_id": "tampa",
      "port_name": "Tampa, Florida",
-     "lat": 27.95007,
-     "lon": -82.44523,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -26182,8 +26182,8 @@
      "date": "2026-11-15",
      "port_id": "tampa",
      "port_name": "Tampa, Florida",
-     "lat": 27.95007,
-     "lon": -82.44523,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -26201,9 +26201,9 @@
      "day_offset": 2,
      "date": "2026-11-17",
      "port_id": "cozumel",
-     "port_name": "Cozumel",
-     "lat": 20.47897,
-     "lon": -86.9735,
+     "port_name": "Cozumel, Mexico",
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -26222,8 +26222,8 @@
      "date": "2026-11-19",
      "port_id": "tampa",
      "port_name": "Tampa, Florida",
-     "lat": 27.95007,
-     "lon": -82.44523,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -26241,8 +26241,8 @@
      "date": "2026-11-19",
      "port_id": "tampa",
      "port_name": "Tampa, Florida",
-     "lat": 27.95007,
-     "lon": -82.44523,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -26260,9 +26260,9 @@
      "day_offset": 2,
      "date": "2026-11-21",
      "port_id": "cozumel",
-     "port_name": "Cozumel",
-     "lat": 20.47897,
-     "lon": -86.9735,
+     "port_name": "Cozumel, Mexico",
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -26281,8 +26281,8 @@
      "date": "2026-11-23",
      "port_id": "tampa",
      "port_name": "Tampa, Florida",
-     "lat": 27.95007,
-     "lon": -82.44523,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -26300,8 +26300,8 @@
      "date": "2026-11-23",
      "port_id": "tampa",
      "port_name": "Tampa, Florida",
-     "lat": 27.95007,
-     "lon": -82.44523,
+     "lat": null,
+     "lon": null,
      "kind": "embark",
      "day_confidence": "exact"
     },
@@ -26319,9 +26319,9 @@
      "day_offset": 2,
      "date": "2026-11-25",
      "port_id": "celebration-key",
-     "port_name": "Celebration Key",
-     "lat": 26.6,
-     "lon": -78.7,
+     "port_name": "Celebration Key, Bahamas",
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -26330,8 +26330,8 @@
      "date": "2026-11-26",
      "port_id": "nassau",
      "port_name": "Nassau, Bahamas",
-     "lat": 25.07895,
-     "lon": -77.341,
+     "lat": null,
+     "lon": null,
      "kind": "call",
      "day_confidence": "exact"
     },
@@ -26350,8 +26350,8 @@
      "date": "2026-11-28",
      "port_id": "tampa",
      "port_name": "Tampa, Florida",
-     "lat": 27.95007,
-     "lon": -82.44523,
+     "lat": null,
+     "lon": null,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -26370,9 +26370,7 @@
      "port_id": "baltimore",
      "port_name": "Baltimore",
      "kind": "embark",
-     "day_confidence": "exact",
-     "lat": 39.26497,
-     "lon": -76.59868
+     "day_confidence": "exact"
     },
     {
      "day_offset": 1,
@@ -26396,19 +26394,15 @@
      "port_id": "half-moon-cay",
      "port_name": "Half Moon Cay",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 24.58,
-     "lon": -75.95
+     "day_confidence": "exact"
     },
     {
      "day_offset": 4,
      "date": "2026-10-29",
      "port_id": "nassau",
-     "port_name": "Nassau, Bahamas",
+     "port_name": "Nassau",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 25.07895,
-     "lon": -77.341
+     "day_confidence": "exact"
     },
     {
      "day_offset": 5,
@@ -26416,9 +26410,7 @@
      "port_id": "celebration-key",
      "port_name": "Celebration Key",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 26.6,
-     "lon": -78.7
+     "day_confidence": "exact"
     },
     {
      "day_offset": 6,
@@ -26434,9 +26426,7 @@
      "port_id": "baltimore",
      "port_name": "Baltimore",
      "kind": "disembark",
-     "day_confidence": "exact",
-     "lat": 39.26497,
-     "lon": -76.59868
+     "day_confidence": "exact"
     }
    ]
   },
@@ -26453,9 +26443,7 @@
      "port_id": "baltimore",
      "port_name": "Baltimore",
      "kind": "embark",
-     "day_confidence": "exact",
-     "lat": 39.26497,
-     "lon": -76.59868
+     "day_confidence": "exact"
     },
     {
      "day_offset": 1,
@@ -26487,9 +26475,7 @@
      "port_id": "st-thomas",
      "port_name": "St. Thomas",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 18.34899,
-     "lon": -64.93042
+     "day_confidence": "exact"
     },
     {
      "day_offset": 5,
@@ -26497,9 +26483,7 @@
      "port_id": "philipsburg",
      "port_name": "Philipsburg",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 18.01411,
-     "lon": -63.04425
+     "day_confidence": "exact"
     },
     {
      "day_offset": 6,
@@ -26507,9 +26491,7 @@
      "port_id": "st-kitts",
      "port_name": "St. Kitts",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 17.29652,
-     "lon": -62.72389
+     "day_confidence": "exact"
     },
     {
      "day_offset": 7,
@@ -26525,9 +26507,7 @@
      "port_id": "oranjestad",
      "port_name": "Oranjestad",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 12.52367,
-     "lon": -70.03487
+     "day_confidence": "exact"
     },
     {
      "day_offset": 9,
@@ -26535,9 +26515,7 @@
      "port_id": "willemstad",
      "port_name": "Willemstad",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 12.10363,
-     "lon": -68.9327
+     "day_confidence": "exact"
     },
     {
      "day_offset": 10,
@@ -26553,9 +26531,7 @@
      "port_id": "amber-cove",
      "port_name": "Amber Cove",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 19.83,
-     "lon": -70.66
+     "day_confidence": "exact"
     },
     {
      "day_offset": 12,
@@ -26579,9 +26555,7 @@
      "port_id": "baltimore",
      "port_name": "Baltimore",
      "kind": "disembark",
-     "day_confidence": "exact",
-     "lat": 39.26497,
-     "lon": -76.59868
+     "day_confidence": "exact"
     }
    ]
   },
@@ -26598,9 +26572,7 @@
      "port_id": "baltimore",
      "port_name": "Baltimore",
      "kind": "embark",
-     "day_confidence": "exact",
-     "lat": 39.26497,
-     "lon": -76.59868
+     "day_confidence": "exact"
     },
     {
      "day_offset": 1,
@@ -26622,11 +26594,9 @@
      "day_offset": 3,
      "date": "2026-11-18",
      "port_id": "nassau",
-     "port_name": "Nassau, Bahamas",
+     "port_name": "Nassau",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 25.07895,
-     "lon": -77.341
+     "day_confidence": "exact"
     },
     {
      "day_offset": 4,
@@ -26634,9 +26604,7 @@
      "port_id": "half-moon-cay",
      "port_name": "Half Moon Cay",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 24.58,
-     "lon": -75.95
+     "day_confidence": "exact"
     },
     {
      "day_offset": 5,
@@ -26644,9 +26612,7 @@
      "port_id": "celebration-key",
      "port_name": "Celebration Key",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 26.6,
-     "lon": -78.7
+     "day_confidence": "exact"
     },
     {
      "day_offset": 6,
@@ -26662,9 +26628,7 @@
      "port_id": "baltimore",
      "port_name": "Baltimore",
      "kind": "disembark",
-     "day_confidence": "exact",
-     "lat": 39.26497,
-     "lon": -76.59868
+     "day_confidence": "exact"
     }
    ]
   },
@@ -26681,9 +26645,7 @@
      "port_id": "baltimore",
      "port_name": "Baltimore",
      "kind": "embark",
-     "day_confidence": "exact",
-     "lat": 39.26497,
-     "lon": -76.59868
+     "day_confidence": "exact"
     },
     {
      "day_offset": 1,
@@ -26705,11 +26667,9 @@
      "day_offset": 3,
      "date": "2026-11-25",
      "port_id": "nassau",
-     "port_name": "Nassau, Bahamas",
+     "port_name": "Nassau",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 25.07895,
-     "lon": -77.341
+     "day_confidence": "exact"
     },
     {
      "day_offset": 4,
@@ -26717,9 +26677,7 @@
      "port_id": "half-moon-cay",
      "port_name": "Half Moon Cay",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 24.58,
-     "lon": -75.95
+     "day_confidence": "exact"
     },
     {
      "day_offset": 5,
@@ -26727,9 +26685,7 @@
      "port_id": "celebration-key",
      "port_name": "Celebration Key",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 26.6,
-     "lon": -78.7
+     "day_confidence": "exact"
     },
     {
      "day_offset": 6,
@@ -26745,9 +26701,7 @@
      "port_id": "baltimore",
      "port_name": "Baltimore",
      "kind": "disembark",
-     "day_confidence": "exact",
-     "lat": 39.26497,
-     "lon": -76.59868
+     "day_confidence": "exact"
     }
    ]
   },
@@ -26764,9 +26718,7 @@
      "port_id": "baltimore",
      "port_name": "Baltimore",
      "kind": "embark",
-     "day_confidence": "exact",
-     "lat": 39.26497,
-     "lon": -76.59868
+     "day_confidence": "exact"
     },
     {
      "day_offset": 1,
@@ -26788,11 +26740,9 @@
      "day_offset": 3,
      "date": "2026-12-02",
      "port_id": "nassau",
-     "port_name": "Nassau, Bahamas",
+     "port_name": "Nassau",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 25.07895,
-     "lon": -77.341
+     "day_confidence": "exact"
     },
     {
      "day_offset": 4,
@@ -26800,9 +26750,7 @@
      "port_id": "half-moon-cay",
      "port_name": "Half Moon Cay",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 24.58,
-     "lon": -75.95
+     "day_confidence": "exact"
     },
     {
      "day_offset": 5,
@@ -26810,9 +26758,7 @@
      "port_id": "celebration-key",
      "port_name": "Celebration Key",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 26.6,
-     "lon": -78.7
+     "day_confidence": "exact"
     },
     {
      "day_offset": 6,
@@ -26828,9 +26774,7 @@
      "port_id": "baltimore",
      "port_name": "Baltimore",
      "kind": "disembark",
-     "day_confidence": "exact",
-     "lat": 39.26497,
-     "lon": -76.59868
+     "day_confidence": "exact"
     }
    ]
   },
@@ -26847,9 +26791,7 @@
      "port_id": "baltimore",
      "port_name": "Baltimore",
      "kind": "embark",
-     "day_confidence": "exact",
-     "lat": 39.26497,
-     "lon": -76.59868
+     "day_confidence": "exact"
     },
     {
      "day_offset": 1,
@@ -26873,19 +26815,15 @@
      "port_id": "half-moon-cay",
      "port_name": "Half Moon Cay",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 24.58,
-     "lon": -75.95
+     "day_confidence": "exact"
     },
     {
      "day_offset": 4,
      "date": "2026-12-10",
      "port_id": "nassau",
-     "port_name": "Nassau, Bahamas",
+     "port_name": "Nassau",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 25.07895,
-     "lon": -77.341
+     "day_confidence": "exact"
     },
     {
      "day_offset": 5,
@@ -26893,9 +26831,7 @@
      "port_id": "celebration-key",
      "port_name": "Celebration Key",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 26.6,
-     "lon": -78.7
+     "day_confidence": "exact"
     },
     {
      "day_offset": 6,
@@ -26911,9 +26847,7 @@
      "port_id": "baltimore",
      "port_name": "Baltimore",
      "kind": "disembark",
-     "day_confidence": "exact",
-     "lat": 39.26497,
-     "lon": -76.59868
+     "day_confidence": "exact"
     }
    ]
   },
@@ -26930,9 +26864,7 @@
      "port_id": "baltimore",
      "port_name": "Baltimore",
      "kind": "embark",
-     "day_confidence": "exact",
-     "lat": 39.26497,
-     "lon": -76.59868
+     "day_confidence": "exact"
     },
     {
      "day_offset": 1,
@@ -26954,11 +26886,9 @@
      "day_offset": 3,
      "date": "2026-12-16",
      "port_id": "nassau",
-     "port_name": "Nassau, Bahamas",
+     "port_name": "Nassau",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 25.07895,
-     "lon": -77.341
+     "day_confidence": "exact"
     },
     {
      "day_offset": 4,
@@ -26966,9 +26896,7 @@
      "port_id": "half-moon-cay",
      "port_name": "Half Moon Cay",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 24.58,
-     "lon": -75.95
+     "day_confidence": "exact"
     },
     {
      "day_offset": 5,
@@ -26976,9 +26904,7 @@
      "port_id": "celebration-key",
      "port_name": "Celebration Key",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 26.6,
-     "lon": -78.7
+     "day_confidence": "exact"
     },
     {
      "day_offset": 6,
@@ -26994,9 +26920,7 @@
      "port_id": "baltimore",
      "port_name": "Baltimore",
      "kind": "disembark",
-     "day_confidence": "exact",
-     "lat": 39.26497,
-     "lon": -76.59868
+     "day_confidence": "exact"
     }
    ]
   },
@@ -27013,9 +26937,7 @@
      "port_id": "baltimore",
      "port_name": "Baltimore",
      "kind": "embark",
-     "day_confidence": "exact",
-     "lat": 39.26497,
-     "lon": -76.59868
+     "day_confidence": "exact"
     },
     {
      "day_offset": 1,
@@ -27039,19 +26961,15 @@
      "port_id": "half-moon-cay",
      "port_name": "Half Moon Cay",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 24.58,
-     "lon": -75.95
+     "day_confidence": "exact"
     },
     {
      "day_offset": 4,
      "date": "2026-12-24",
      "port_id": "nassau",
-     "port_name": "Nassau, Bahamas",
+     "port_name": "Nassau",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 25.07895,
-     "lon": -77.341
+     "day_confidence": "exact"
     },
     {
      "day_offset": 5,
@@ -27059,9 +26977,7 @@
      "port_id": "celebration-key",
      "port_name": "Celebration Key",
      "kind": "call",
-     "day_confidence": "exact",
-     "lat": 26.6,
-     "lon": -78.7
+     "day_confidence": "exact"
     },
     {
      "day_offset": 6,
@@ -27077,9 +26993,1412 @@
      "port_id": "baltimore",
      "port_name": "Baltimore",
      "kind": "disembark",
-     "day_confidence": "exact",
-     "lat": 39.26497,
-     "lon": -76.59868
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Radiance",
+   "departure_date": "2026-10-29",
+   "nights": 5,
+   "embark_port": "Long Beach (Los Angeles)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-29",
+     "port_id": "long-beach",
+     "port_name": "Long Beach (Los Angeles)",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-10-30",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-10-31",
+     "port_id": "cabo-san-lucas",
+     "port_name": "Cabo San Lucas",
+     "lat": 22.89406,
+     "lon": -109.92628,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-01",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-02",
+     "port_id": "ensenada",
+     "port_name": "Ensenada",
+     "lat": 31.86427,
+     "lon": -116.6145,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-03",
+     "port_id": "long-beach",
+     "port_name": "Long Beach (Los Angeles)",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Radiance",
+   "departure_date": "2026-11-03",
+   "nights": 5,
+   "embark_port": "Long Beach (Los Angeles)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-03",
+     "port_id": "long-beach",
+     "port_name": "Long Beach (Los Angeles)",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-04",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-05",
+     "port_id": "cabo-san-lucas",
+     "port_name": "Cabo San Lucas",
+     "lat": 22.89406,
+     "lon": -109.92628,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-06",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-07",
+     "port_id": "ensenada",
+     "port_name": "Ensenada",
+     "lat": 31.86427,
+     "lon": -116.6145,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-08",
+     "port_id": "long-beach",
+     "port_name": "Long Beach (Los Angeles)",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Radiance",
+   "departure_date": "2026-11-08",
+   "nights": 14,
+   "embark_port": "Long Beach (Los Angeles)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-08",
+     "port_id": "long-beach",
+     "port_name": "Long Beach (Los Angeles)",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-09",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-10",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-11",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-12",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-13",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-14",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-15",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-16",
+     "port_id": "hilo",
+     "port_name": "Hilo",
+     "lat": 19.71924,
+     "lon": -155.08185,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-11-17",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-11-18",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2026-11-19",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2026-11-20",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 13,
+     "date": "2026-11-21",
+     "port_id": "ensenada",
+     "port_name": "Ensenada",
+     "lat": 31.86427,
+     "lon": -116.6145,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 14,
+     "date": "2026-11-22",
+     "port_id": "long-beach",
+     "port_name": "Long Beach (Los Angeles)",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Radiance",
+   "departure_date": "2026-11-22",
+   "nights": 6,
+   "embark_port": "Long Beach (Los Angeles)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-22",
+     "port_id": "long-beach",
+     "port_name": "Long Beach (Los Angeles)",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-23",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-24",
+     "port_id": "cabo-san-lucas",
+     "port_name": "Cabo San Lucas",
+     "lat": 22.89406,
+     "lon": -109.92628,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-25",
+     "port_id": "cabo-san-lucas",
+     "port_name": "Cabo San Lucas",
+     "lat": 22.89406,
+     "lon": -109.92628,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-26",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-27",
+     "port_id": "ensenada",
+     "port_name": "Ensenada",
+     "lat": 31.86427,
+     "lon": -116.6145,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-28",
+     "port_id": "long-beach",
+     "port_name": "Long Beach (Los Angeles)",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Radiance",
+   "departure_date": "2026-11-28",
+   "nights": 14,
+   "embark_port": "Long Beach (Los Angeles)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-28",
+     "port_id": "long-beach",
+     "port_name": "Long Beach (Los Angeles)",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-29",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-30",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-01",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-02",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-03",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-04",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-05",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-06",
+     "port_id": "hilo",
+     "port_name": "Hilo",
+     "lat": 19.71924,
+     "lon": -155.08185,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-12-07",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-12-08",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2026-12-09",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2026-12-10",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 13,
+     "date": "2026-12-11",
+     "port_id": "ensenada",
+     "port_name": "Ensenada",
+     "lat": 31.86427,
+     "lon": -116.6145,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 14,
+     "date": "2026-12-12",
+     "port_id": "long-beach",
+     "port_name": "Long Beach (Los Angeles)",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Radiance",
+   "departure_date": "2026-12-12",
+   "nights": 5,
+   "embark_port": "Long Beach (Los Angeles)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-12",
+     "port_id": "long-beach",
+     "port_name": "Long Beach (Los Angeles)",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-13",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-14",
+     "port_id": "cabo-san-lucas",
+     "port_name": "Cabo San Lucas",
+     "lat": 22.89406,
+     "lon": -109.92628,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-15",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-16",
+     "port_id": "ensenada",
+     "port_name": "Ensenada",
+     "lat": 31.86427,
+     "lon": -116.6145,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-17",
+     "port_id": "long-beach",
+     "port_name": "Long Beach (Los Angeles)",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Radiance",
+   "departure_date": "2026-12-20",
+   "nights": 6,
+   "embark_port": "Long Beach (Los Angeles)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-20",
+     "port_id": "long-beach",
+     "port_name": "Long Beach (Los Angeles)",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-21",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-22",
+     "port_id": "cabo-san-lucas",
+     "port_name": "Cabo San Lucas",
+     "lat": 22.89406,
+     "lon": -109.92628,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-23",
+     "port_id": "cabo-san-lucas",
+     "port_name": "Cabo San Lucas",
+     "lat": 22.89406,
+     "lon": -109.92628,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-24",
+     "port_id": null,
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-25",
+     "port_id": "ensenada",
+     "port_name": "Ensenada",
+     "lat": 31.86427,
+     "lon": -116.6145,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-26",
+     "port_id": "long-beach",
+     "port_name": "Long Beach (Los Angeles)",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Spirit",
+   "departure_date": "2026-10-24",
+   "nights": 7,
+   "embark_port": "Mobile",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-24",
+     "port_id": "mobile",
+     "port_name": "Mobile",
+     "lat": 30.68658,
+     "lon": -88.03799,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-10-25",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-10-26",
+     "port_id": "key-west",
+     "port_name": "Key West",
+     "lat": 24.55536,
+     "lon": -81.7879,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-10-27",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-10-28",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-10-29",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-10-30",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-10-31",
+     "port_id": "mobile",
+     "port_name": "Mobile",
+     "lat": 30.68658,
+     "lon": -88.03799,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Spirit",
+   "departure_date": "2026-10-31",
+   "nights": 8,
+   "embark_port": "Mobile",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-31",
+     "port_id": "mobile",
+     "port_name": "Mobile",
+     "lat": 30.68658,
+     "lon": -88.03799,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-01",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-02",
+     "port_id": "key-west",
+     "port_name": "Key West",
+     "lat": 24.55536,
+     "lon": -81.7879,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-03",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-04",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-05",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-06",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-08",
+     "port_id": "mobile",
+     "port_name": "Mobile",
+     "lat": 30.68658,
+     "lon": -88.03799,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Spirit",
+   "departure_date": "2026-11-08",
+   "nights": 6,
+   "embark_port": "Mobile",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-08",
+     "port_id": "mobile",
+     "port_name": "Mobile",
+     "lat": 30.68658,
+     "lon": -88.03799,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-09",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-10",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-11",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-12",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-13",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-14",
+     "port_id": "mobile",
+     "port_name": "Mobile",
+     "lat": 30.68658,
+     "lon": -88.03799,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Spirit",
+   "departure_date": "2026-11-14",
+   "nights": 8,
+   "embark_port": "Mobile",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-14",
+     "port_id": "mobile",
+     "port_name": "Mobile",
+     "lat": 30.68658,
+     "lon": -88.03799,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-15",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-16",
+     "port_id": "key-west",
+     "port_name": "Key West",
+     "lat": 24.55536,
+     "lon": -81.7879,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-17",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-18",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-19",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-21",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-22",
+     "port_id": "mobile",
+     "port_name": "Mobile",
+     "lat": 30.68658,
+     "lon": -88.03799,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Spirit",
+   "departure_date": "2026-11-22",
+   "nights": 6,
+   "embark_port": "Mobile",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-22",
+     "port_id": "mobile",
+     "port_name": "Mobile",
+     "lat": 30.68658,
+     "lon": -88.03799,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-23",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-24",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-25",
+     "port_id": "bimini-bahamas",
+     "port_name": "Bimini",
+     "lat": 25.74901,
+     "lon": -79.28118,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-26",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-27",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-28",
+     "port_id": "mobile",
+     "port_name": "Mobile",
+     "lat": 30.68658,
+     "lon": -88.03799,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Spirit",
+   "departure_date": "2026-11-28",
+   "nights": 8,
+   "embark_port": "Mobile",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-28",
+     "port_id": "mobile",
+     "port_name": "Mobile",
+     "lat": 30.68658,
+     "lon": -88.03799,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-29",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-30",
+     "port_id": "key-west",
+     "port_name": "Key West",
+     "lat": 24.55536,
+     "lon": -81.7879,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-01",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-02",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-03",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-04",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-05",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-06",
+     "port_id": "mobile",
+     "port_name": "Mobile",
+     "lat": 30.68658,
+     "lon": -88.03799,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Spirit",
+   "departure_date": "2026-12-06",
+   "nights": 6,
+   "embark_port": "Mobile",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-06",
+     "port_id": "mobile",
+     "port_name": "Mobile",
+     "lat": 30.68658,
+     "lon": -88.03799,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-08",
+     "port_id": "bimini-bahamas",
+     "port_name": "Bimini",
+     "lat": 25.74901,
+     "lon": -79.28118,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-09",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-10",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-11",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-12",
+     "port_id": "mobile",
+     "port_name": "Mobile",
+     "lat": 30.68658,
+     "lon": -88.03799,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Spirit",
+   "departure_date": "2026-12-12",
+   "nights": 8,
+   "embark_port": "Mobile",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-12",
+     "port_id": "mobile",
+     "port_name": "Mobile",
+     "lat": 30.68658,
+     "lon": -88.03799,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-13",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-14",
+     "port_id": "key-west",
+     "port_name": "Key West",
+     "lat": 24.55536,
+     "lon": -81.7879,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-15",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-16",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-17",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-18",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-19",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-20",
+     "port_id": "mobile",
+     "port_name": "Mobile",
+     "lat": 30.68658,
+     "lon": -88.03799,
+     "kind": "disembark",
+     "day_confidence": "exact"
     }
    ]
   }
