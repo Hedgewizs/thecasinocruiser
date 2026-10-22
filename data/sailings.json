@@ -22918,7 +22918,7 @@
      "day_offset": 10,
      "date": "2026-12-10",
      "port_id": "cairns",
-     "port_name": "Cairns",
+     "port_name": "Cairns, Queensland",
      "lat": -16.9206657,
      "lon": 145.7721854,
      "kind": "call",
@@ -23066,7 +23066,7 @@
      "day_offset": 3,
      "date": "2026-12-21",
      "port_id": "mystery-island",
-     "port_name": "Mystery Island",
+     "port_name": "Mystery Island, Vanuatu",
      "lat": -20.2491889,
      "lon": 169.7711722,
      "kind": "call",
@@ -23194,7 +23194,7 @@
      "day_offset": 3,
      "date": "2027-01-01",
      "port_id": "cairns",
-     "port_name": "Cairns",
+     "port_name": "Cairns, Queensland",
      "lat": -16.9206657,
      "lon": 145.7721854,
      "kind": "call",
@@ -23263,7 +23263,7 @@
      "day_offset": 2,
      "date": "2027-01-06",
      "port_id": "noumea",
-     "port_name": "Noumea",
+     "port_name": "Noum\u00e9a, New Caledonia",
      "lat": -22.21113,
      "lon": 166.46625,
      "kind": "call",
@@ -23283,7 +23283,7 @@
      "day_offset": 4,
      "date": "2027-01-08",
      "port_id": "mystery-island",
-     "port_name": "Mystery Island",
+     "port_name": "Mystery Island, Vanuatu",
      "lat": -20.2491889,
      "lon": 169.7711722,
      "kind": "call",
@@ -23859,7 +23859,7 @@
      "day_offset": 5,
      "date": "2026-11-05",
      "port_id": "st-thomas",
-     "port_name": "St. Thomas (Charlotte Amalie)",
+     "port_name": "St. Thomas",
      "lat": 18.34899,
      "lon": -64.93042,
      "kind": "call",
@@ -24215,7 +24215,7 @@
      "day_offset": 5,
      "date": "2026-12-03",
      "port_id": "st-thomas",
-     "port_name": "St. Thomas (Charlotte Amalie)",
+     "port_name": "St. Thomas",
      "lat": 18.34899,
      "lon": -64.93042,
      "kind": "call",
@@ -25120,6 +25120,1966 @@
      "lon": -94.79952,
      "kind": "disembark",
      "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Panorama",
+   "departure_date": "2026-10-24",
+   "nights": 8,
+   "embark_port": "Long Beach",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-24",
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-10-25",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-10-26",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-10-27",
+     "port_id": "puerto-vallarta",
+     "port_name": "Puerto Vallarta",
+     "lat": 20.60841,
+     "lon": -105.23524,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-10-28",
+     "port_id": "mazatlan",
+     "port_name": "Mazatlan",
+     "lat": 23.2,
+     "lon": -106.42175,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-10-29",
+     "port_id": "la-paz",
+     "port_name": "La Paz",
+     "lat": 24.16185,
+     "lon": -110.31322,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-10-30",
+     "port_id": "cabo-san-lucas",
+     "port_name": "Cabo San Lucas",
+     "lat": 22.89406,
+     "lon": -109.92628,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-10-31",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-01",
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Panorama",
+   "departure_date": "2026-11-01",
+   "nights": 6,
+   "embark_port": "Long Beach",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-01",
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-02",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-03",
+     "port_id": "cabo-san-lucas",
+     "port_name": "Cabo San Lucas",
+     "lat": 22.89406,
+     "lon": -109.92628,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-04",
+     "port_id": "cabo-san-lucas",
+     "port_name": "Cabo San Lucas",
+     "lat": 22.89406,
+     "lon": -109.92628,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-05",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-06",
+     "port_id": "ensenada",
+     "port_name": "Ensenada",
+     "lat": 31.86427,
+     "lon": -116.6145,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-07",
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Panorama",
+   "departure_date": "2026-11-07",
+   "nights": 8,
+   "embark_port": "Long Beach",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-07",
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-08",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-09",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-10",
+     "port_id": "puerto-vallarta",
+     "port_name": "Puerto Vallarta",
+     "lat": 20.60841,
+     "lon": -105.23524,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-11",
+     "port_id": "mazatlan",
+     "port_name": "Mazatlan",
+     "lat": 23.2,
+     "lon": -106.42175,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-12",
+     "port_id": "la-paz",
+     "port_name": "La Paz",
+     "lat": 24.16185,
+     "lon": -110.31322,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-13",
+     "port_id": "cabo-san-lucas",
+     "port_name": "Cabo San Lucas",
+     "lat": 22.89406,
+     "lon": -109.92628,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-14",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-15",
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Panorama",
+   "departure_date": "2026-11-15",
+   "nights": 6,
+   "embark_port": "Long Beach",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-15",
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-16",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-17",
+     "port_id": "cabo-san-lucas",
+     "port_name": "Cabo San Lucas",
+     "lat": 22.89406,
+     "lon": -109.92628,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-18",
+     "port_id": "cabo-san-lucas",
+     "port_name": "Cabo San Lucas",
+     "lat": 22.89406,
+     "lon": -109.92628,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-19",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-20",
+     "port_id": "ensenada",
+     "port_name": "Ensenada",
+     "lat": 31.86427,
+     "lon": -116.6145,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-21",
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Panorama",
+   "departure_date": "2026-11-21",
+   "nights": 8,
+   "embark_port": "Long Beach",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-21",
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-22",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-23",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-24",
+     "port_id": "puerto-vallarta",
+     "port_name": "Puerto Vallarta",
+     "lat": 20.60841,
+     "lon": -105.23524,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-25",
+     "port_id": "mazatlan",
+     "port_name": "Mazatlan",
+     "lat": 23.2,
+     "lon": -106.42175,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-26",
+     "port_id": "la-paz",
+     "port_name": "La Paz",
+     "lat": 24.16185,
+     "lon": -110.31322,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-27",
+     "port_id": "cabo-san-lucas",
+     "port_name": "Cabo San Lucas",
+     "lat": 22.89406,
+     "lon": -109.92628,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-28",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-29",
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Panorama",
+   "departure_date": "2026-11-29",
+   "nights": 6,
+   "embark_port": "Long Beach",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-29",
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-30",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-01",
+     "port_id": "cabo-san-lucas",
+     "port_name": "Cabo San Lucas",
+     "lat": 22.89406,
+     "lon": -109.92628,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-02",
+     "port_id": "cabo-san-lucas",
+     "port_name": "Cabo San Lucas",
+     "lat": 22.89406,
+     "lon": -109.92628,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-03",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-04",
+     "port_id": "ensenada",
+     "port_name": "Ensenada",
+     "lat": 31.86427,
+     "lon": -116.6145,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-05",
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Panorama",
+   "departure_date": "2026-12-05",
+   "nights": 8,
+   "embark_port": "Long Beach",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-05",
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-06",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-08",
+     "port_id": "puerto-vallarta",
+     "port_name": "Puerto Vallarta",
+     "lat": 20.60841,
+     "lon": -105.23524,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-09",
+     "port_id": "mazatlan",
+     "port_name": "Mazatlan",
+     "lat": 23.2,
+     "lon": -106.42175,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-10",
+     "port_id": "la-paz",
+     "port_name": "La Paz",
+     "lat": 24.16185,
+     "lon": -110.31322,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-11",
+     "port_id": "cabo-san-lucas",
+     "port_name": "Cabo San Lucas",
+     "lat": 22.89406,
+     "lon": -109.92628,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-12",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-13",
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Panorama",
+   "departure_date": "2026-12-13",
+   "nights": 6,
+   "embark_port": "Long Beach",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-13",
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-14",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-15",
+     "port_id": "cabo-san-lucas",
+     "port_name": "Cabo San Lucas",
+     "lat": 22.89406,
+     "lon": -109.92628,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-16",
+     "port_id": "cabo-san-lucas",
+     "port_name": "Cabo San Lucas",
+     "lat": 22.89406,
+     "lon": -109.92628,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-17",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-18",
+     "port_id": "ensenada",
+     "port_name": "Ensenada",
+     "lat": 31.86427,
+     "lon": -116.6145,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-19",
+     "port_id": "long-beach",
+     "port_name": "Long Beach, California",
+     "lat": 33.75074,
+     "lon": -118.1891,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Paradise",
+   "departure_date": "2026-10-22",
+   "nights": 4,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-22",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-10-23",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-10-24",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-10-25",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-10-26",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Paradise",
+   "departure_date": "2026-10-26",
+   "nights": 6,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-26",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-10-27",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-10-28",
+     "port_id": "belize-city",
+     "port_name": "Belize City",
+     "lat": 17.49953,
+     "lon": -88.22171,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-10-29",
+     "port_id": "mahogany-bay",
+     "port_name": "Mahogany Bay",
+     "lat": 16.32633,
+     "lon": -86.49642,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-10-30",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-10-31",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-01",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Paradise",
+   "departure_date": "2026-11-01",
+   "nights": 4,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-01",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-02",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-03",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-04",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-05",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Paradise",
+   "departure_date": "2026-11-05",
+   "nights": 4,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-05",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-06",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-07",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-08",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-09",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Paradise",
+   "departure_date": "2026-11-09",
+   "nights": 6,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-09",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-10",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-11",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-12",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-13",
+     "port_id": "nassau",
+     "port_name": "Nassau, Bahamas",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-14",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-15",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Paradise",
+   "departure_date": "2026-11-15",
+   "nights": 4,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-15",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-16",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-17",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-18",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-19",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Paradise",
+   "departure_date": "2026-11-19",
+   "nights": 4,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-19",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-21",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-22",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-23",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Paradise",
+   "departure_date": "2026-11-23",
+   "nights": 5,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-23",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-24",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-25",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-26",
+     "port_id": "nassau",
+     "port_name": "Nassau, Bahamas",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-27",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-28",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Pride",
+   "departure_date": "2026-10-25",
+   "nights": 7,
+   "embark_port": "Baltimore",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-25",
+     "port_id": "baltimore",
+     "port_name": "Baltimore",
+     "kind": "embark",
+     "day_confidence": "exact",
+     "lat": 39.26497,
+     "lon": -76.59868
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-10-26",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-10-27",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-10-28",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 24.58,
+     "lon": -75.95
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-10-29",
+     "port_id": "nassau",
+     "port_name": "Nassau, Bahamas",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 25.07895,
+     "lon": -77.341
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-10-30",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 26.6,
+     "lon": -78.7
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-10-31",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-01",
+     "port_id": "baltimore",
+     "port_name": "Baltimore",
+     "kind": "disembark",
+     "day_confidence": "exact",
+     "lat": 39.26497,
+     "lon": -76.59868
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Pride",
+   "departure_date": "2026-11-01",
+   "nights": 14,
+   "embark_port": "Baltimore",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-01",
+     "port_id": "baltimore",
+     "port_name": "Baltimore",
+     "kind": "embark",
+     "day_confidence": "exact",
+     "lat": 39.26497,
+     "lon": -76.59868
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-02",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-03",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-04",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-05",
+     "port_id": "st-thomas",
+     "port_name": "St. Thomas",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 18.34899,
+     "lon": -64.93042
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-06",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 18.01411,
+     "lon": -63.04425
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-07",
+     "port_id": "st-kitts",
+     "port_name": "St. Kitts",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 17.29652,
+     "lon": -62.72389
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-08",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-09",
+     "port_id": "oranjestad",
+     "port_name": "Oranjestad",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 12.52367,
+     "lon": -70.03487
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-11-10",
+     "port_id": "willemstad",
+     "port_name": "Willemstad",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 12.10363,
+     "lon": -68.9327
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-11-11",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2026-11-12",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 19.83,
+     "lon": -70.66
+    },
+    {
+     "day_offset": 12,
+     "date": "2026-11-13",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 13,
+     "date": "2026-11-14",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 14,
+     "date": "2026-11-15",
+     "port_id": "baltimore",
+     "port_name": "Baltimore",
+     "kind": "disembark",
+     "day_confidence": "exact",
+     "lat": 39.26497,
+     "lon": -76.59868
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Pride",
+   "departure_date": "2026-11-15",
+   "nights": 7,
+   "embark_port": "Baltimore",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-15",
+     "port_id": "baltimore",
+     "port_name": "Baltimore",
+     "kind": "embark",
+     "day_confidence": "exact",
+     "lat": 39.26497,
+     "lon": -76.59868
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-16",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-17",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-18",
+     "port_id": "nassau",
+     "port_name": "Nassau, Bahamas",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 25.07895,
+     "lon": -77.341
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-19",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 24.58,
+     "lon": -75.95
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-20",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 26.6,
+     "lon": -78.7
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-21",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-22",
+     "port_id": "baltimore",
+     "port_name": "Baltimore",
+     "kind": "disembark",
+     "day_confidence": "exact",
+     "lat": 39.26497,
+     "lon": -76.59868
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Pride",
+   "departure_date": "2026-11-22",
+   "nights": 7,
+   "embark_port": "Baltimore",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-22",
+     "port_id": "baltimore",
+     "port_name": "Baltimore",
+     "kind": "embark",
+     "day_confidence": "exact",
+     "lat": 39.26497,
+     "lon": -76.59868
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-23",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-24",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-25",
+     "port_id": "nassau",
+     "port_name": "Nassau, Bahamas",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 25.07895,
+     "lon": -77.341
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-26",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 24.58,
+     "lon": -75.95
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-27",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 26.6,
+     "lon": -78.7
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-28",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-29",
+     "port_id": "baltimore",
+     "port_name": "Baltimore",
+     "kind": "disembark",
+     "day_confidence": "exact",
+     "lat": 39.26497,
+     "lon": -76.59868
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Pride",
+   "departure_date": "2026-11-29",
+   "nights": 7,
+   "embark_port": "Baltimore",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-29",
+     "port_id": "baltimore",
+     "port_name": "Baltimore",
+     "kind": "embark",
+     "day_confidence": "exact",
+     "lat": 39.26497,
+     "lon": -76.59868
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-30",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-01",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-02",
+     "port_id": "nassau",
+     "port_name": "Nassau, Bahamas",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 25.07895,
+     "lon": -77.341
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-03",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 24.58,
+     "lon": -75.95
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-04",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 26.6,
+     "lon": -78.7
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-05",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-06",
+     "port_id": "baltimore",
+     "port_name": "Baltimore",
+     "kind": "disembark",
+     "day_confidence": "exact",
+     "lat": 39.26497,
+     "lon": -76.59868
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Pride",
+   "departure_date": "2026-12-06",
+   "nights": 7,
+   "embark_port": "Baltimore",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-06",
+     "port_id": "baltimore",
+     "port_name": "Baltimore",
+     "kind": "embark",
+     "day_confidence": "exact",
+     "lat": 39.26497,
+     "lon": -76.59868
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-07",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-08",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-09",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 24.58,
+     "lon": -75.95
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-10",
+     "port_id": "nassau",
+     "port_name": "Nassau, Bahamas",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 25.07895,
+     "lon": -77.341
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-11",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 26.6,
+     "lon": -78.7
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-12",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-13",
+     "port_id": "baltimore",
+     "port_name": "Baltimore",
+     "kind": "disembark",
+     "day_confidence": "exact",
+     "lat": 39.26497,
+     "lon": -76.59868
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Pride",
+   "departure_date": "2026-12-13",
+   "nights": 7,
+   "embark_port": "Baltimore",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-13",
+     "port_id": "baltimore",
+     "port_name": "Baltimore",
+     "kind": "embark",
+     "day_confidence": "exact",
+     "lat": 39.26497,
+     "lon": -76.59868
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-14",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-15",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-16",
+     "port_id": "nassau",
+     "port_name": "Nassau, Bahamas",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 25.07895,
+     "lon": -77.341
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-17",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 24.58,
+     "lon": -75.95
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-18",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 26.6,
+     "lon": -78.7
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-19",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-20",
+     "port_id": "baltimore",
+     "port_name": "Baltimore",
+     "kind": "disembark",
+     "day_confidence": "exact",
+     "lat": 39.26497,
+     "lon": -76.59868
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Pride",
+   "departure_date": "2026-12-20",
+   "nights": 7,
+   "embark_port": "Baltimore",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-20",
+     "port_id": "baltimore",
+     "port_name": "Baltimore",
+     "kind": "embark",
+     "day_confidence": "exact",
+     "lat": 39.26497,
+     "lon": -76.59868
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-21",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-22",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-23",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 24.58,
+     "lon": -75.95
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-24",
+     "port_id": "nassau",
+     "port_name": "Nassau, Bahamas",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 25.07895,
+     "lon": -77.341
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-25",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "kind": "call",
+     "day_confidence": "exact",
+     "lat": 26.6,
+     "lon": -78.7
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-26",
+     "port_id": null,
+     "port_name": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-27",
+     "port_id": "baltimore",
+     "port_name": "Baltimore",
+     "kind": "disembark",
+     "day_confidence": "exact",
+     "lat": 39.26497,
+     "lon": -76.59868
     }
    ]
   }
