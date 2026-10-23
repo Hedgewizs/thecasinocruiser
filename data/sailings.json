@@ -28401,6 +28401,1852 @@
      "day_confidence": "exact"
     }
    ]
+  },
+  {
+   "departure_date": "2026-10-22",
+   "embark_port": "Sydney",
+   "itinerary": [
+    {
+     "date": "2026-10-22",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    },
+    {
+     "date": "2026-10-23",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-10-24",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-10-25",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "disembark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    }
+   ],
+   "nights": 3,
+   "sailing_id": null,
+   "ship_name": "Carnival Splendor"
+  },
+  {
+   "departure_date": "2026-10-25",
+   "embark_port": "Sydney",
+   "itinerary": [
+    {
+     "date": "2026-10-25",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    },
+    {
+     "date": "2026-10-26",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-10-27",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-10-28",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": -21.04516,
+     "lon": 167.28461,
+     "port_id": "lifou",
+     "port_name": "Lifou"
+    },
+    {
+     "date": "2026-10-29",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": -22.21113,
+     "lon": 166.46625,
+     "port_id": "noumea",
+     "port_name": "Noumea"
+    },
+    {
+     "date": "2026-10-30",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-10-31",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-01",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "disembark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    }
+   ],
+   "nights": 7,
+   "sailing_id": null,
+   "ship_name": "Carnival Splendor"
+  },
+  {
+   "departure_date": "2026-11-01",
+   "embark_port": "Sydney",
+   "itinerary": [
+    {
+     "date": "2026-11-01",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    },
+    {
+     "date": "2026-11-02",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-03",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": -37.84065,
+     "lon": 144.92712,
+     "port_id": "melbourne",
+     "port_name": "Melbourne"
+    },
+    {
+     "date": "2026-11-04",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": -37.84065,
+     "lon": 144.92712,
+     "port_id": "melbourne",
+     "port_name": "Melbourne"
+    },
+    {
+     "date": "2026-11-05",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": -37.84065,
+     "lon": 144.92712,
+     "port_id": "melbourne",
+     "port_name": "Melbourne"
+    },
+    {
+     "date": "2026-11-06",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-07",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "disembark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    }
+   ],
+   "nights": 6,
+   "sailing_id": null,
+   "ship_name": "Carnival Splendor"
+  },
+  {
+   "departure_date": "2026-11-07",
+   "embark_port": "Sydney",
+   "itinerary": [
+    {
+     "date": "2026-11-07",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    },
+    {
+     "date": "2026-11-08",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-09",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-10",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-11",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": -41.29525,
+     "lon": 174.78907,
+     "port_id": "wellington",
+     "port_name": "Wellington"
+    },
+    {
+     "date": "2026-11-12",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "call",
+     "lat": -43.60009,
+     "lon": 172.72169,
+     "port_id": "lyttelton",
+     "port_name": "Lyttelton"
+    },
+    {
+     "date": "2026-11-13",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "call",
+     "lat": -45.81516,
+     "lon": 170.6228,
+     "port_id": "port-chalmers",
+     "port_name": "Port Chalmers (Dunedin)"
+    },
+    {
+     "date": "2026-11-14",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "scenic",
+     "lat": null,
+     "lon": null,
+     "port_id": "fiordland-national-park",
+     "port_name": "Fiordland National Park"
+    },
+    {
+     "date": "2026-11-15",
+     "day_confidence": "exact",
+     "day_offset": 8,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-16",
+     "day_confidence": "exact",
+     "day_offset": 9,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-17",
+     "day_confidence": "exact",
+     "day_offset": 10,
+     "kind": "disembark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    }
+   ],
+   "nights": 10,
+   "sailing_id": null,
+   "ship_name": "Carnival Splendor"
+  },
+  {
+   "departure_date": "2026-11-17",
+   "embark_port": "Sydney",
+   "itinerary": [
+    {
+     "date": "2026-11-17",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    },
+    {
+     "date": "2026-11-18",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-19",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": -27.16353,
+     "lon": 153.37765,
+     "port_id": "moreton-island",
+     "port_name": "Moreton Island"
+    },
+    {
+     "date": "2026-11-20",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-21",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "disembark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    }
+   ],
+   "nights": 4,
+   "sailing_id": null,
+   "ship_name": "Carnival Splendor"
+  },
+  {
+   "departure_date": "2026-11-21",
+   "embark_port": "Sydney",
+   "itinerary": [
+    {
+     "date": "2026-11-21",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    },
+    {
+     "date": "2026-11-22",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-23",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-24",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "disembark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    }
+   ],
+   "nights": 3,
+   "sailing_id": null,
+   "ship_name": "Carnival Splendor"
+  },
+  {
+   "departure_date": "2026-11-24",
+   "embark_port": "Sydney",
+   "itinerary": [
+    {
+     "date": "2026-11-24",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    },
+    {
+     "date": "2026-11-25",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-26",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": -27.16353,
+     "lon": 153.37765,
+     "port_id": "moreton-island",
+     "port_name": "Moreton Island"
+    },
+    {
+     "date": "2026-11-27",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-28",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "disembark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    }
+   ],
+   "nights": 4,
+   "sailing_id": null,
+   "ship_name": "Carnival Splendor"
+  },
+  {
+   "departure_date": "2026-11-28",
+   "embark_port": "Sydney",
+   "itinerary": [
+    {
+     "date": "2026-11-28",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    },
+    {
+     "date": "2026-11-29",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-30",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-12-01",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-12-02",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": -41.29525,
+     "lon": 174.78907,
+     "port_id": "wellington",
+     "port_name": "Wellington"
+    },
+    {
+     "date": "2026-12-03",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "call",
+     "lat": -43.60009,
+     "lon": 172.72169,
+     "port_id": "lyttelton",
+     "port_name": "Lyttelton"
+    },
+    {
+     "date": "2026-12-04",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "call",
+     "lat": -45.81516,
+     "lon": 170.6228,
+     "port_id": "port-chalmers",
+     "port_name": "Port Chalmers (Dunedin)"
+    },
+    {
+     "date": "2026-12-05",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "scenic",
+     "lat": null,
+     "lon": null,
+     "port_id": "fiordland-national-park",
+     "port_name": "Fiordland National Park"
+    },
+    {
+     "date": "2026-12-06",
+     "day_confidence": "exact",
+     "day_offset": 8,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-12-07",
+     "day_confidence": "exact",
+     "day_offset": 9,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-12-08",
+     "day_confidence": "exact",
+     "day_offset": 10,
+     "kind": "disembark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    }
+   ],
+   "nights": 10,
+   "sailing_id": null,
+   "ship_name": "Carnival Splendor"
+  },
+  {
+   "departure_date": "2026-10-22",
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "date": "2026-10-22",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "port_id": "miami",
+     "port_name": "Miami"
+    },
+    {
+     "date": "2026-10-23",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-10-24",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 24.58,
+     "lon": -75.95,
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay"
+    },
+    {
+     "date": "2026-10-25",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": 26.6,
+     "lon": -78.7,
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key"
+    },
+    {
+     "date": "2026-10-26",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "disembark",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "port_id": "miami",
+     "port_name": "Miami"
+    }
+   ],
+   "nights": 4,
+   "sailing_id": null,
+   "ship_name": "Carnival Sunrise"
+  },
+  {
+   "departure_date": "2026-10-26",
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "date": "2026-10-26",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "port_id": "miami",
+     "port_name": "Miami"
+    },
+    {
+     "date": "2026-10-27",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "call",
+     "lat": 26.6,
+     "lon": -78.7,
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key"
+    },
+    {
+     "date": "2026-10-28",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-10-29",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": 24.58,
+     "lon": -75.95,
+     "port_id": "half-moon-cay",
+     "port_name": "Princess Cays"
+    },
+    {
+     "date": "2026-10-30",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "port_id": "nassau",
+     "port_name": "Nassau"
+    },
+    {
+     "date": "2026-10-31",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "disembark",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "port_id": "miami",
+     "port_name": "Miami"
+    }
+   ],
+   "nights": 5,
+   "sailing_id": null,
+   "ship_name": "Carnival Sunrise"
+  },
+  {
+   "departure_date": "2026-10-31",
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "date": "2026-10-31",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "port_id": "miami",
+     "port_name": "Miami"
+    },
+    {
+     "date": "2026-11-01",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-02",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 24.58,
+     "lon": -75.95,
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay"
+    },
+    {
+     "date": "2026-11-03",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "port_id": "nassau",
+     "port_name": "Nassau"
+    },
+    {
+     "date": "2026-11-04",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": 26.6,
+     "lon": -78.7,
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key"
+    },
+    {
+     "date": "2026-11-05",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "disembark",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "port_id": "miami",
+     "port_name": "Miami"
+    }
+   ],
+   "nights": 5,
+   "sailing_id": null,
+   "ship_name": "Carnival Sunrise"
+  },
+  {
+   "departure_date": "2026-11-05",
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "date": "2026-11-05",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "port_id": "miami",
+     "port_name": "Miami"
+    },
+    {
+     "date": "2026-11-06",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "call",
+     "lat": 26.6,
+     "lon": -78.7,
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key"
+    },
+    {
+     "date": "2026-11-07",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 24.58,
+     "lon": -75.95,
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay"
+    },
+    {
+     "date": "2026-11-08",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-09",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "disembark",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "port_id": "miami",
+     "port_name": "Miami"
+    }
+   ],
+   "nights": 4,
+   "sailing_id": null,
+   "ship_name": "Carnival Sunrise"
+  },
+  {
+   "departure_date": "2026-11-09",
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "date": "2026-11-09",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "port_id": "miami",
+     "port_name": "Miami"
+    },
+    {
+     "date": "2026-11-10",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "call",
+     "lat": 26.6,
+     "lon": -78.7,
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key"
+    },
+    {
+     "date": "2026-11-11",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 24.58,
+     "lon": -75.95,
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay"
+    },
+    {
+     "date": "2026-11-12",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "port_id": "nassau",
+     "port_name": "Nassau"
+    },
+    {
+     "date": "2026-11-13",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-14",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "disembark",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "port_id": "miami",
+     "port_name": "Miami"
+    }
+   ],
+   "nights": 5,
+   "sailing_id": null,
+   "ship_name": "Carnival Sunrise"
+  },
+  {
+   "departure_date": "2026-11-14",
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "date": "2026-11-14",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "port_id": "miami",
+     "port_name": "Miami"
+    },
+    {
+     "date": "2026-11-15",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "call",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "port_id": "nassau",
+     "port_name": "Nassau"
+    },
+    {
+     "date": "2026-11-16",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 24.58,
+     "lon": -75.95,
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay"
+    },
+    {
+     "date": "2026-11-17",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-18",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": 26.6,
+     "lon": -78.7,
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key"
+    },
+    {
+     "date": "2026-11-19",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "disembark",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "port_id": "miami",
+     "port_name": "Miami"
+    }
+   ],
+   "nights": 5,
+   "sailing_id": null,
+   "ship_name": "Carnival Sunrise"
+  },
+  {
+   "departure_date": "2026-11-19",
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "date": "2026-11-19",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "port_id": "miami",
+     "port_name": "Miami"
+    },
+    {
+     "date": "2026-11-20",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-21",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 24.58,
+     "lon": -75.95,
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay"
+    },
+    {
+     "date": "2026-11-22",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": 26.6,
+     "lon": -78.7,
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key"
+    },
+    {
+     "date": "2026-11-23",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "disembark",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "port_id": "miami",
+     "port_name": "Miami"
+    }
+   ],
+   "nights": 4,
+   "sailing_id": null,
+   "ship_name": "Carnival Sunrise"
+  },
+  {
+   "departure_date": "2026-11-23",
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "date": "2026-11-23",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "port_id": "miami",
+     "port_name": "Miami"
+    },
+    {
+     "date": "2026-11-24",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-25",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 19.29657,
+     "lon": -81.38175,
+     "port_id": "george-town",
+     "port_name": "George Town"
+    },
+    {
+     "date": "2026-11-26",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": 18.41232,
+     "lon": -77.09725,
+     "port_id": "ocho-rios",
+     "port_name": "Ocho Rios"
+    },
+    {
+     "date": "2026-11-27",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": "At Sea"
+    },
+    {
+     "date": "2026-11-28",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "call",
+     "lat": 26.6,
+     "lon": -78.7,
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key"
+    },
+    {
+     "date": "2026-11-29",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "disembark",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "port_id": "miami",
+     "port_name": "Miami"
+    }
+   ],
+   "nights": 6,
+   "sailing_id": null,
+   "ship_name": "Carnival Sunrise"
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Sunshine",
+   "departure_date": "2026-10-25",
+   "nights": 6,
+   "embark_port": "Norfolk",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-25",
+     "port_id": "norfolk",
+     "port_name": "Norfolk",
+     "lat": 36.84509,
+     "lon": -76.29264,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-10-26",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-10-27",
+     "port_id": "bimini",
+     "port_name": "Bimini",
+     "lat": 25.74901,
+     "lon": -79.28118,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-10-28",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-10-29",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-10-30",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-10-31",
+     "port_id": "norfolk",
+     "port_name": "Norfolk",
+     "lat": 36.84509,
+     "lon": -76.29264,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Sunshine",
+   "departure_date": "2026-10-31",
+   "nights": 8,
+   "embark_port": "Norfolk",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-31",
+     "port_id": "norfolk",
+     "port_name": "Norfolk",
+     "lat": 36.84509,
+     "lon": -76.29264,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-01",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-02",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-03",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-04",
+     "port_id": "grand-turk",
+     "port_name": "Grand Turk",
+     "lat": 21.46914,
+     "lon": -71.14584,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-05",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "lat": 19.83,
+     "lon": -70.66,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-06",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-07",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-08",
+     "port_id": "norfolk",
+     "port_name": "Norfolk",
+     "lat": 36.84509,
+     "lon": -76.29264,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Sunshine",
+   "departure_date": "2026-11-08",
+   "nights": 6,
+   "embark_port": "Norfolk",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-08",
+     "port_id": "norfolk",
+     "port_name": "Norfolk",
+     "lat": 36.84509,
+     "lon": -76.29264,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-09",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-10",
+     "port_id": "bimini",
+     "port_name": "Bimini",
+     "lat": 25.74901,
+     "lon": -79.28118,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-11",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-12",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-13",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-14",
+     "port_id": "norfolk",
+     "port_name": "Norfolk",
+     "lat": 36.84509,
+     "lon": -76.29264,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Sunshine",
+   "departure_date": "2026-11-14",
+   "nights": 8,
+   "embark_port": "Norfolk",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-14",
+     "port_id": "norfolk",
+     "port_name": "Norfolk",
+     "lat": 36.84509,
+     "lon": -76.29264,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-15",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-16",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-17",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-18",
+     "port_id": "grand-turk",
+     "port_name": "Grand Turk",
+     "lat": 21.46914,
+     "lon": -71.14584,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-19",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "lat": 19.83,
+     "lon": -70.66,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-20",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-21",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-22",
+     "port_id": "norfolk",
+     "port_name": "Norfolk",
+     "lat": 36.84509,
+     "lon": -76.29264,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Sunshine",
+   "departure_date": "2026-11-22",
+   "nights": 6,
+   "embark_port": "Norfolk",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-22",
+     "port_id": "norfolk",
+     "port_name": "Norfolk",
+     "lat": 36.84509,
+     "lon": -76.29264,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-23",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-24",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-25",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-26",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-27",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-28",
+     "port_id": "norfolk",
+     "port_name": "Norfolk",
+     "lat": 36.84509,
+     "lon": -76.29264,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Sunshine",
+   "departure_date": "2026-11-28",
+   "nights": 8,
+   "embark_port": "Norfolk",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-28",
+     "port_id": "norfolk",
+     "port_name": "Norfolk",
+     "lat": 36.84509,
+     "lon": -76.29264,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-29",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-30",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-01",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-02",
+     "port_id": "grand-turk",
+     "port_name": "Grand Turk",
+     "lat": 21.46914,
+     "lon": -71.14584,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-03",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "lat": 19.83,
+     "lon": -70.66,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-04",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-05",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-06",
+     "port_id": "norfolk",
+     "port_name": "Norfolk",
+     "lat": 36.84509,
+     "lon": -76.29264,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Sunshine",
+   "departure_date": "2026-12-06",
+   "nights": 6,
+   "embark_port": "Norfolk",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-06",
+     "port_id": "norfolk",
+     "port_name": "Norfolk",
+     "lat": 36.84509,
+     "lon": -76.29264,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-07",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-08",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-09",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-10",
+     "port_id": "bimini",
+     "port_name": "Bimini",
+     "lat": 25.74901,
+     "lon": -79.28118,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-11",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-12",
+     "port_id": "norfolk",
+     "port_name": "Norfolk",
+     "lat": 36.84509,
+     "lon": -76.29264,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Sunshine",
+   "departure_date": "2026-12-12",
+   "nights": 6,
+   "embark_port": "Norfolk",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-12",
+     "port_id": "norfolk",
+     "port_name": "Norfolk",
+     "lat": 36.84509,
+     "lon": -76.29264,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-13",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-14",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-15",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-16",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-17",
+     "port_id": null,
+     "port_name": "At sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-18",
+     "port_id": "norfolk",
+     "port_name": "Norfolk",
+     "lat": 36.84509,
+     "lon": -76.29264,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
   }
  ],
  "royal-caribbean": [],
