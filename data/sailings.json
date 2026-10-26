@@ -14817,55 +14817,6 @@
   {
    "sailing_id": null,
    "ship_name": "Carnival Conquest",
-   "departure_date": "2026-10-26",
-   "nights": 3,
-   "embark_port": "Miami",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-10-26",
-     "port_id": "miami",
-     "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-10-27",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-10-28",
-     "port_id": "celebration-key",
-     "port_name": "Celebration Key",
-     "lat": 26.57,
-     "lon": -78.49,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-10-29",
-     "port_id": "miami",
-     "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Carnival Conquest",
    "departure_date": "2026-10-29",
    "nights": 4,
    "embark_port": "Miami",
@@ -15910,75 +15861,6 @@
    "nights": 14,
    "sailing_id": null,
    "ship_name": "Carnival Dream"
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Carnival Elation",
-   "departure_date": "2026-10-26",
-   "nights": 5,
-   "embark_port": "Jacksonville, Florida",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-10-26",
-     "port_id": "jacksonville",
-     "port_name": "Jacksonville, Florida",
-     "lat": 30.4069,
-     "lon": -81.57842,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-10-27",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-10-28",
-     "port_id": "half-moon-cay",
-     "port_name": "Half Moon Cay, Bahamas",
-     "lat": 24.58,
-     "lon": -75.95,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-10-29",
-     "port_id": "celebration-key",
-     "port_name": "Celebration Key, Bahamas",
-     "lat": 26.6,
-     "lon": -78.7,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-10-30",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 5,
-     "date": "2026-10-31",
-     "port_id": "jacksonville",
-     "port_name": "Jacksonville, Florida",
-     "lat": 30.4069,
-     "lon": -81.57842,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
   },
   {
    "sailing_id": null,
@@ -17820,65 +17702,6 @@
    "nights": 5,
    "sailing_id": null,
    "ship_name": "Carnival Freedom"
-  },
-  {
-   "departure_date": "2026-10-26",
-   "embark_port": "Port Canaveral, Florida",
-   "itinerary": [
-    {
-     "date": "2026-10-26",
-     "day_confidence": "exact",
-     "day_offset": 0,
-     "kind": "embark",
-     "lat": 28.413,
-     "lon": -80.62961,
-     "port_id": "port-canaveral",
-     "port_name": "Port Canaveral, Florida"
-    },
-    {
-     "date": "2026-10-27",
-     "day_confidence": "exact",
-     "day_offset": 1,
-     "kind": "call",
-     "lat": 26.6,
-     "lon": -78.7,
-     "port_id": "celebration-key",
-     "port_name": "Celebration Key, Bahamas"
-    },
-    {
-     "date": "2026-10-28",
-     "day_confidence": "exact",
-     "day_offset": 2,
-     "kind": "call",
-     "lat": 25.07895,
-     "lon": -77.341,
-     "port_id": "nassau",
-     "port_name": "Nassau, Bahamas"
-    },
-    {
-     "date": "2026-10-29",
-     "day_confidence": "exact",
-     "day_offset": 3,
-     "kind": "sea",
-     "lat": null,
-     "lon": null,
-     "port_id": null,
-     "port_name": null
-    },
-    {
-     "date": "2026-10-30",
-     "day_confidence": "exact",
-     "day_offset": 4,
-     "kind": "disembark",
-     "lat": 28.413,
-     "lon": -80.62961,
-     "port_id": "port-canaveral",
-     "port_name": "Port Canaveral, Florida"
-    }
-   ],
-   "nights": 4,
-   "sailing_id": null,
-   "ship_name": "Carnival Glory"
   },
   {
    "departure_date": "2026-11-09",
@@ -22363,125 +22186,6 @@
   {
    "sailing_id": null,
    "ship_name": "Carnival Miracle",
-   "departure_date": "2026-10-26",
-   "nights": 10,
-   "embark_port": "Galveston",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-10-26",
-     "port_id": "galveston",
-     "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-10-27",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-10-28",
-     "port_id": "cozumel",
-     "port_name": "Cozumel",
-     "lat": 20.47897,
-     "lon": -86.9735,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-10-29",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-10-30",
-     "port_id": "puerto-limon",
-     "port_name": "Puerto Limon",
-     "lat": 9.99095,
-     "lon": -83.02908,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 5,
-     "date": "2026-10-31",
-     "port_id": "colon",
-     "port_name": "Colon",
-     "lat": 9.3617,
-     "lon": -79.89965,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 6,
-     "date": "2026-11-01",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 7,
-     "date": "2026-11-02",
-     "port_id": "roatan",
-     "port_name": "Roatan",
-     "lat": 16.33154,
-     "lon": -86.53855,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 8,
-     "date": "2026-11-03",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 9,
-     "date": "2026-11-04",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 10,
-     "date": "2026-11-05",
-     "port_id": "galveston",
-     "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Carnival Miracle",
    "departure_date": "2026-11-05",
    "nights": 4,
    "embark_port": "Galveston",
@@ -23621,85 +23325,6 @@
      "port_name": "Long Beach",
      "lat": 33.75074,
      "lon": -118.1891,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Carnival Paradise",
-   "departure_date": "2026-10-26",
-   "nights": 6,
-   "embark_port": "Tampa, Florida",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-10-26",
-     "port_id": "tampa",
-     "port_name": "Tampa, Florida",
-     "lat": 27.95007,
-     "lon": -82.44523,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-10-27",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-10-28",
-     "port_id": "belize-city",
-     "port_name": "Belize City",
-     "lat": 17.49953,
-     "lon": -88.22171,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-10-29",
-     "port_id": "mahogany-bay",
-     "port_name": "Mahogany Bay",
-     "lat": 16.32633,
-     "lon": -86.49642,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-10-30",
-     "port_id": "cozumel",
-     "port_name": "Cozumel, Mexico",
-     "lat": 20.47897,
-     "lon": -86.9735,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 5,
-     "date": "2026-10-31",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 6,
-     "date": "2026-11-01",
-     "port_id": "tampa",
-     "port_name": "Tampa, Florida",
-     "lat": 27.95007,
-     "lon": -82.44523,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -26533,75 +26158,6 @@
    "ship_name": "Carnival Splendor"
   },
   {
-   "departure_date": "2026-10-26",
-   "embark_port": "Miami",
-   "itinerary": [
-    {
-     "date": "2026-10-26",
-     "day_confidence": "exact",
-     "day_offset": 0,
-     "kind": "embark",
-     "lat": 25.77188,
-     "lon": -80.15908,
-     "port_id": "miami",
-     "port_name": "Miami"
-    },
-    {
-     "date": "2026-10-27",
-     "day_confidence": "exact",
-     "day_offset": 1,
-     "kind": "call",
-     "lat": 26.6,
-     "lon": -78.7,
-     "port_id": "celebration-key",
-     "port_name": "Celebration Key"
-    },
-    {
-     "date": "2026-10-28",
-     "day_confidence": "exact",
-     "day_offset": 2,
-     "kind": "sea",
-     "lat": null,
-     "lon": null,
-     "port_id": null,
-     "port_name": "At Sea"
-    },
-    {
-     "date": "2026-10-29",
-     "day_confidence": "exact",
-     "day_offset": 3,
-     "kind": "call",
-     "lat": 24.58,
-     "lon": -75.95,
-     "port_id": "half-moon-cay",
-     "port_name": "Princess Cays"
-    },
-    {
-     "date": "2026-10-30",
-     "day_confidence": "exact",
-     "day_offset": 4,
-     "kind": "call",
-     "lat": 25.07895,
-     "lon": -77.341,
-     "port_id": "nassau",
-     "port_name": "Nassau"
-    },
-    {
-     "date": "2026-10-31",
-     "day_confidence": "exact",
-     "day_offset": 5,
-     "kind": "disembark",
-     "lat": 25.77188,
-     "lon": -80.15908,
-     "port_id": "miami",
-     "port_name": "Miami"
-    }
-   ],
-   "nights": 5,
-   "sailing_id": null,
-   "ship_name": "Carnival Sunrise"
-  },
-  {
    "departure_date": "2026-10-31",
    "embark_port": "Miami",
    "itinerary": [
@@ -27617,75 +27173,6 @@
      "day_confidence": "exact"
     }
    ]
-  },
-  {
-   "departure_date": "2026-10-26",
-   "embark_port": "New Orleans",
-   "itinerary": [
-    {
-     "date": "2026-10-26",
-     "day_confidence": "exact",
-     "day_offset": 0,
-     "kind": "embark",
-     "lat": 29.93735,
-     "lon": -90.06154,
-     "port_id": "new-orleans",
-     "port_name": "New Orleans"
-    },
-    {
-     "date": "2026-10-27",
-     "day_confidence": "exact",
-     "day_offset": 1,
-     "kind": "sea",
-     "lat": null,
-     "lon": null,
-     "port_id": null,
-     "port_name": "At sea"
-    },
-    {
-     "date": "2026-10-28",
-     "day_confidence": "exact",
-     "day_offset": 2,
-     "kind": "call",
-     "lat": 20.47897,
-     "lon": -86.9735,
-     "port_id": "cozumel",
-     "port_name": "Cozumel"
-    },
-    {
-     "date": "2026-10-29",
-     "day_confidence": "exact",
-     "day_offset": 3,
-     "kind": "call",
-     "lat": 21.28269,
-     "lon": -89.66341,
-     "port_id": "progreso",
-     "port_name": "Progreso"
-    },
-    {
-     "date": "2026-10-30",
-     "day_confidence": "exact",
-     "day_offset": 4,
-     "kind": "sea",
-     "lat": null,
-     "lon": null,
-     "port_id": null,
-     "port_name": "At sea"
-    },
-    {
-     "date": "2026-10-31",
-     "day_confidence": "exact",
-     "day_offset": 5,
-     "kind": "disembark",
-     "lat": 29.93735,
-     "lon": -90.06154,
-     "port_id": "new-orleans",
-     "port_name": "New Orleans"
-    }
-   ],
-   "nights": 5,
-   "sailing_id": null,
-   "ship_name": "Carnival Valor"
   },
   {
    "departure_date": "2026-10-31",
@@ -28931,6 +28418,1430 @@
    "nights": 7,
    "sailing_id": null,
    "ship_name": "Carnival Venezia"
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Vista",
+   "departure_date": "2026-10-31",
+   "nights": 8,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-31",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-01",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-02",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-03",
+     "port_id": "willemstad",
+     "port_name": "Willemstad",
+     "lat": 12.10363,
+     "lon": -68.9327,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-04",
+     "port_id": "oranjestad",
+     "port_name": "Oranjestad",
+     "lat": 12.52367,
+     "lon": -70.03487,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-05",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-06",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-07",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-08",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Vista",
+   "departure_date": "2026-11-08",
+   "nights": 6,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-08",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-09",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-10",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "lat": 19.83,
+     "lon": -70.66,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-11",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-12",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-13",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-14",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Vista",
+   "departure_date": "2026-11-14",
+   "nights": 8,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-14",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-15",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-16",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-17",
+     "port_id": "st-thomas",
+     "port_name": "St. Thomas",
+     "lat": 18.34899,
+     "lon": -64.93042,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-18",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-19",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "lat": 19.83,
+     "lon": -70.66,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-21",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-22",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Vista",
+   "departure_date": "2026-11-22",
+   "nights": 6,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-22",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-23",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-24",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "lat": 19.83,
+     "lon": -70.66,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-25",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-26",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-27",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-28",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Vista",
+   "departure_date": "2026-11-28",
+   "nights": 8,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-28",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-29",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-30",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-01",
+     "port_id": "willemstad",
+     "port_name": "Willemstad",
+     "lat": 12.10363,
+     "lon": -68.9327,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-02",
+     "port_id": "oranjestad",
+     "port_name": "Oranjestad",
+     "lat": 12.52367,
+     "lon": -70.03487,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-03",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-04",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-05",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-06",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Vista",
+   "departure_date": "2026-12-06",
+   "nights": 6,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-06",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-08",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "lat": 19.83,
+     "lon": -70.66,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-09",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-10",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-11",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-12",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Vista",
+   "departure_date": "2026-12-12",
+   "nights": 6,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-12",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-13",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-14",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "lat": 19.83,
+     "lon": -70.66,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-15",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-16",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-17",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-18",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Carnival Vista",
+   "departure_date": "2026-12-18",
+   "nights": 8,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-18",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-19",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-21",
+     "port_id": "st-thomas",
+     "port_name": "St. Thomas",
+     "lat": 18.34899,
+     "lon": -64.93042,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-22",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-23",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-24",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-25",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-26",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Mardi Gras",
+   "departure_date": "2026-10-31",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-31",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-01",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-02",
+     "port_id": "grand-turk",
+     "port_name": "Grand Turk",
+     "lat": 21.46914,
+     "lon": -71.14584,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-03",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "lat": 19.83,
+     "lon": -70.66,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-04",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-05",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-06",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-07",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Mardi Gras",
+   "departure_date": "2026-11-07",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-07",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-08",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-09",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-10",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-11",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "lat": 19.83,
+     "lon": -70.66,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-12",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-13",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-14",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Mardi Gras",
+   "departure_date": "2026-11-14",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-14",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-15",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-16",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-17",
+     "port_id": "mahogany-bay",
+     "port_name": "Mahogany Bay",
+     "lat": 16.32633,
+     "lon": -86.49642,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-18",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-19",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-20",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-21",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Mardi Gras",
+   "departure_date": "2026-11-21",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-21",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-22",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-23",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-24",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-25",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "lat": 19.83,
+     "lon": -70.66,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-26",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-27",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-28",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Mardi Gras",
+   "departure_date": "2026-11-28",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-28",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-29",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-30",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-01",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-02",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "lat": 19.83,
+     "lon": -70.66,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-03",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-04",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-05",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Mardi Gras",
+   "departure_date": "2026-12-05",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-05",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-06",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-07",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-08",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-09",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "lat": 19.83,
+     "lon": -70.66,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-10",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-11",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-12",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Mardi Gras",
+   "departure_date": "2026-12-12",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-12",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-13",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-14",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-15",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-16",
+     "port_id": "mahogany-bay",
+     "port_name": "Mahogany Bay",
+     "lat": 16.32633,
+     "lon": -86.49642,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-17",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-18",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-19",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Mardi Gras",
+   "departure_date": "2026-12-19",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-19",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-20",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-21",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-22",
+     "port_id": "amber-cove",
+     "port_name": "Amber Cove",
+     "lat": 19.83,
+     "lon": -70.66,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-23",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-24",
+     "port_id": "half-moon-cay",
+     "port_name": "Half Moon Cay",
+     "lat": 24.58,
+     "lon": -75.95,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-25",
+     "port_id": "celebration-key",
+     "port_name": "Celebration Key",
+     "lat": 26.6,
+     "lon": -78.7,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-26",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
   }
  ],
  "royal-caribbean": [],
