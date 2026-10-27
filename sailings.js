@@ -173,6 +173,38 @@ function dayRow(day){
     '<div class="day-body">' + place + wxSlot + todoHtml + "</div></div>";
 }
 
+/* Consecutive sea days collapse into one short row, so a long crossing
+   doesn't stretch the itinerary (e.g. 5 sea days -> "Fri, Oct 16, 2026 –
+   Tue, Oct 20, 2026 · At sea × 5"). Single sea days render as before. */
+function seaStretchRow(days){
+  var first = days[0], last = days[days.length - 1];
+  return '<div class="day-row sea-stretch">' +
+    '<div class="day-date">' + fmtDate(first.date) + " – " + fmtDate(last.date) + "<br>" +
+    '<span class="day-badge kind-sea">' + T.seaDay + " × " + days.length + "</span></div>" +
+    '<div class="day-body"></div></div>';
+}
+
+function itinHtml(s){
+  var dep = new Date(s.departure_date + "T00:00:00");
+  var days = s.itinerary.map(function(d){
+    var ds = d.date || (function(){
+      var dt = new Date(dep); dt.setDate(dt.getDate() + (d.day_offset || 0));
+      return dt.toISOString().slice(0,10);
+    })();
+    var c = {}; for (var k in d) c[k] = d[k]; c.date = ds; return c;
+  });
+  var out = [], i = 0;
+  while (i < days.length){
+    if (days[i].kind === "sea"){
+      var j = i;
+      while (j < days.length && days[j].kind === "sea") j++;
+      out.push(j - i > 1 ? seaStretchRow(days.slice(i, j)) : dayRow(days[i]));
+      i = j;
+    } else { out.push(dayRow(days[i])); i++; }
+  }
+  return out.join("");
+}
+
 /* Live sailing tracker — inspired by allashore.app countdown.
    For sailings underway today, shows "Day X of Y" + today's status. */
 function liveStatus(s){
@@ -221,7 +253,7 @@ function sailingCard(s, idx){
     '<span class="sail-go">' + T.viewItin + " →</span>" +
     '</div>' +
     '<div class="itin" id="itin-' + idx + '" style="display:none">' +
-      s.itinerary.map(dayRow).join("") +
+      itinHtml(s) +
       '<p class="wx-note"><a href="' + T.plannerUrl + '">' + T.planPort + " →</a></p>" +
     "</div></div>";
   return html;
