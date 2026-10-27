@@ -29844,7 +29844,1432 @@
    ]
   }
  ],
- "royal-caribbean": [],
+ "royal-caribbean": [
+  {
+   "sailing_id": null,
+   "ship_name": "Adventure of the Seas",
+   "departure_date": "2026-10-30",
+   "nights": 6,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-10-30",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-10-31",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-01",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-02",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-03",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-04",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-05",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Adventure of the Seas",
+   "departure_date": "2026-11-07",
+   "nights": 8,
+   "embark_port": "Fort Lauderdale",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-07",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-08",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-09",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-10",
+     "port_id": "basseterre",
+     "port_name": "Basseterre, St Kitts & Nevis",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-11",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg, St Maarten",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-12",
+     "port_id": "san-juan",
+     "port_name": "San Juan, Puerto Rico",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-13",
+     "port_id": "grand-turk",
+     "port_name": "Grand Turk",
+     "lat": 21.46914,
+     "lon": -71.14584,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-14",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-15",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Adventure of the Seas",
+   "departure_date": "2026-11-15",
+   "nights": 6,
+   "embark_port": "Fort Lauderdale",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-15",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-16",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-17",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-18",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-19",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-20",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-21",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Adventure of the Seas",
+   "departure_date": "2026-11-21",
+   "nights": 8,
+   "embark_port": "Fort Lauderdale",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-21",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-22",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-23",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-24",
+     "port_id": "cabo-rojo",
+     "port_name": "Cabo Rojo, Dominican Republic",
+     "lat": 17.90523,
+     "lon": -71.67258,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-25",
+     "port_id": "oranjestad",
+     "port_name": "Oranjestad, Aruba",
+     "lat": 12.52367,
+     "lon": -70.03487,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-26",
+     "port_id": "willemstad",
+     "port_name": "Willemstad, Curacao",
+     "lat": 12.10363,
+     "lon": -68.9327,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-27",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-28",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-29",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Adventure of the Seas",
+   "departure_date": "2026-11-29",
+   "nights": 6,
+   "embark_port": "Fort Lauderdale",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-29",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-30",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-01",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-02",
+     "port_id": "samana",
+     "port_name": "Saman\u00e1, Dominican Republic",
+     "lat": 19.20421,
+     "lon": -69.33203,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-03",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata, Dominican Republic",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-04",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-05",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Adventure of the Seas",
+   "departure_date": "2026-12-05",
+   "nights": 8,
+   "embark_port": "Fort Lauderdale",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-05",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-06",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-08",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-09",
+     "port_id": "oranjestad",
+     "port_name": "Oranjestad, Aruba",
+     "lat": 12.52367,
+     "lon": -70.03487,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-10",
+     "port_id": "willemstad",
+     "port_name": "Willemstad, Curacao",
+     "lat": 12.10363,
+     "lon": -68.9327,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-11",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-12",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-13",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Adventure of the Seas",
+   "departure_date": "2026-12-13",
+   "nights": 6,
+   "embark_port": "Fort Lauderdale",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-13",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-14",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-15",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-16",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-17",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-18",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-19",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Adventure of the Seas",
+   "departure_date": "2026-12-19",
+   "nights": 8,
+   "embark_port": "Fort Lauderdale",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-19",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-20",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-21",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-22",
+     "port_id": "cabo-rojo",
+     "port_name": "Cabo Rojo, Dominican Republic",
+     "lat": 17.90523,
+     "lon": -71.67258,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-23",
+     "port_id": "willemstad",
+     "port_name": "Willemstad, Curacao",
+     "lat": 12.10363,
+     "lon": -68.9327,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-24",
+     "port_id": "oranjestad",
+     "port_name": "Oranjestad, Aruba",
+     "lat": 12.52367,
+     "lon": -70.03487,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-25",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-26",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-27",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Allure of the Seas",
+   "departure_date": "2026-11-01",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-01",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-02",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-03",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-04",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-05",
+     "port_id": "basseterre",
+     "port_name": "Basseterre, St Kitts",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-06",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-08",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Allure of the Seas",
+   "departure_date": "2026-11-08",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-08",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-09",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-10",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-11",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-12",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie, St Thomas",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-13",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-14",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-15",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Allure of the Seas",
+   "departure_date": "2026-11-15",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-15",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-16",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-17",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-18",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-19",
+     "port_id": "falmouth",
+     "port_name": "Falmouth, Jamaica",
+     "lat": 18.49221,
+     "lon": -77.65374,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-21",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-22",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Allure of the Seas",
+   "departure_date": "2026-11-22",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-22",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-23",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-24",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-25",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg, St Maarten",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-26",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie, St Thomas",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-27",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-28",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-29",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Allure of the Seas",
+   "departure_date": "2026-11-29",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-29",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-30",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-01",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-02",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-03",
+     "port_id": "falmouth",
+     "port_name": "Falmouth, Jamaica",
+     "lat": 18.49221,
+     "lon": -77.65374,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-04",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-05",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-06",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Allure of the Seas",
+   "departure_date": "2026-12-06",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-06",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-08",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-09",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg, St Maarten",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-10",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie, St Thomas",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-11",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-12",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-13",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Allure of the Seas",
+   "departure_date": "2026-12-13",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-13",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-14",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-15",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-16",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-17",
+     "port_id": "falmouth",
+     "port_name": "Falmouth, Jamaica",
+     "lat": 18.49221,
+     "lon": -77.65374,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-18",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-19",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-20",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Allure of the Seas",
+   "departure_date": "2026-12-20",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-20",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-21",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-22",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-23",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-24",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie, St Thomas",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-25",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-26",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-27",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  }
+ ],
  "celebrity-cruises": [],
  "norwegian-cruise-line": [],
  "virgin-voyages": [],
