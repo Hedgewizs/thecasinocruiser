@@ -31268,6 +31268,2012 @@
      "day_confidence": "exact"
     }
    ]
+  },
+  {
+   "departure_date": "2026-10-30",
+   "embark_port": "Sydney",
+   "itinerary": [
+    {
+     "date": "2026-10-30",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    },
+    {
+     "date": "2026-10-31",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-01",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-02",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "disembark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    }
+   ],
+   "nights": 3,
+   "sailing_id": null,
+   "ship_name": "Anthem of the Seas"
+  },
+  {
+   "departure_date": "2026-11-02",
+   "embark_port": "Sydney",
+   "itinerary": [
+    {
+     "date": "2026-11-02",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    },
+    {
+     "date": "2026-11-03",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-04",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-05",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": -22.21113,
+     "lon": 166.46625,
+     "port_id": "noumea",
+     "port_name": "Noumea"
+    },
+    {
+     "date": "2026-11-06",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": -20.2491889,
+     "lon": 169.7711722,
+     "port_id": "mystery-island",
+     "port_name": "Mystery Island"
+    },
+    {
+     "date": "2026-11-07",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "call",
+     "lat": -17.75676,
+     "lon": 168.2984,
+     "port_id": "port-vila",
+     "port_name": "Port Vila"
+    },
+    {
+     "date": "2026-11-08",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-09",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-10",
+     "day_confidence": "exact",
+     "day_offset": 8,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-11",
+     "day_confidence": "exact",
+     "day_offset": 9,
+     "kind": "disembark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    }
+   ],
+   "nights": 9,
+   "sailing_id": null,
+   "ship_name": "Anthem of the Seas"
+  },
+  {
+   "departure_date": "2026-11-11",
+   "embark_port": "Sydney",
+   "itinerary": [
+    {
+     "date": "2026-11-11",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    },
+    {
+     "date": "2026-11-12",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-13",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-14",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": -41.28885,
+     "lon": 174.00544,
+     "port_id": "picton",
+     "port_name": "Picton"
+    },
+    {
+     "date": "2026-11-15",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": -43.60009,
+     "lon": 172.72169,
+     "port_id": "lyttelton-christchurch",
+     "port_name": "Lyttelton (Christchurch)"
+    },
+    {
+     "date": "2026-11-16",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "call",
+     "lat": -45.81516,
+     "lon": 170.6228,
+     "port_id": "dunedin",
+     "port_name": "Dunedin"
+    },
+    {
+     "date": "2026-11-17",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "scenic",
+     "lat": null,
+     "lon": null,
+     "port_id": "fiordland-national-park",
+     "port_name": "Fiordland National Park"
+    },
+    {
+     "date": "2026-11-18",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-19",
+     "day_confidence": "exact",
+     "day_offset": 8,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-20",
+     "day_confidence": "exact",
+     "day_offset": 9,
+     "kind": "disembark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    }
+   ],
+   "nights": 9,
+   "sailing_id": null,
+   "ship_name": "Anthem of the Seas"
+  },
+  {
+   "departure_date": "2026-11-20",
+   "embark_port": "Sydney",
+   "itinerary": [
+    {
+     "date": "2026-11-20",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    },
+    {
+     "date": "2026-11-21",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-22",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": -37.06296,
+     "lon": 149.90423,
+     "port_id": "eden",
+     "port_name": "Eden"
+    },
+    {
+     "date": "2026-11-23",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "disembark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    }
+   ],
+   "nights": 3,
+   "sailing_id": null,
+   "ship_name": "Anthem of the Seas"
+  },
+  {
+   "departure_date": "2026-11-23",
+   "embark_port": "Sydney",
+   "itinerary": [
+    {
+     "date": "2026-11-23",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    },
+    {
+     "date": "2026-11-24",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-25",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-26",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": -22.21113,
+     "lon": 166.46625,
+     "port_id": "noumea",
+     "port_name": "Noumea"
+    },
+    {
+     "date": "2026-11-27",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": -20.2491889,
+     "lon": 169.7711722,
+     "port_id": "mystery-island",
+     "port_name": "Mystery Island"
+    },
+    {
+     "date": "2026-11-28",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "call",
+     "lat": -17.75676,
+     "lon": 168.2984,
+     "port_id": "port-vila",
+     "port_name": "Port Vila"
+    },
+    {
+     "date": "2026-11-29",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-30",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-01",
+     "day_confidence": "exact",
+     "day_offset": 8,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-02",
+     "day_confidence": "exact",
+     "day_offset": 9,
+     "kind": "disembark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    }
+   ],
+   "nights": 9,
+   "sailing_id": null,
+   "ship_name": "Anthem of the Seas"
+  },
+  {
+   "departure_date": "2026-12-02",
+   "embark_port": "Sydney",
+   "itinerary": [
+    {
+     "date": "2026-12-02",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    },
+    {
+     "date": "2026-12-03",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-04",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-05",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": -35.2749422,
+     "lon": 174.0595372,
+     "port_id": "bay-of-islands",
+     "port_name": "Bay of Islands"
+    },
+    {
+     "date": "2026-12-06",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": -37.68692,
+     "lon": 176.16555,
+     "port_id": "tauranga",
+     "port_name": "Tauranga"
+    },
+    {
+     "date": "2026-12-07",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "call",
+     "lat": -39.49025,
+     "lon": 176.91528,
+     "port_id": "napier",
+     "port_name": "Napier"
+    },
+    {
+     "date": "2026-12-08",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "call",
+     "lat": -41.28885,
+     "lon": 174.00544,
+     "port_id": "picton",
+     "port_name": "Picton"
+    },
+    {
+     "date": "2026-12-09",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-10",
+     "day_confidence": "exact",
+     "day_offset": 8,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-11",
+     "day_confidence": "exact",
+     "day_offset": 9,
+     "kind": "disembark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    }
+   ],
+   "nights": 9,
+   "sailing_id": null,
+   "ship_name": "Anthem of the Seas"
+  },
+  {
+   "departure_date": "2026-12-11",
+   "embark_port": "Sydney",
+   "itinerary": [
+    {
+     "date": "2026-12-11",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    },
+    {
+     "date": "2026-12-12",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-13",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-14",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": -22.21113,
+     "lon": 166.46625,
+     "port_id": "noumea",
+     "port_name": "Noumea"
+    },
+    {
+     "date": "2026-12-15",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": -17.75676,
+     "lon": 168.2984,
+     "port_id": "port-vila",
+     "port_name": "Port Vila"
+    },
+    {
+     "date": "2026-12-16",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "call",
+     "lat": -20.2491889,
+     "lon": 169.7711722,
+     "port_id": "mystery-island",
+     "port_name": "Mystery Island"
+    },
+    {
+     "date": "2026-12-17",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-18",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-19",
+     "day_confidence": "exact",
+     "day_offset": 8,
+     "kind": "disembark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    }
+   ],
+   "nights": 8,
+   "sailing_id": null,
+   "ship_name": "Anthem of the Seas"
+  },
+  {
+   "departure_date": "2026-12-19",
+   "embark_port": "Sydney",
+   "itinerary": [
+    {
+     "date": "2026-12-19",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    },
+    {
+     "date": "2026-12-20",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-21",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-22",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": -35.2749422,
+     "lon": 174.0595372,
+     "port_id": "bay-of-islands",
+     "port_name": "Bay of Islands"
+    },
+    {
+     "date": "2026-12-23",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": -36.86108,
+     "lon": 174.75898,
+     "port_id": "auckland",
+     "port_name": "Auckland"
+    },
+    {
+     "date": "2026-12-24",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "call",
+     "lat": -37.68692,
+     "lon": 176.16555,
+     "port_id": "tauranga",
+     "port_name": "Tauranga"
+    },
+    {
+     "date": "2026-12-25",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-26",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-27",
+     "day_confidence": "exact",
+     "day_offset": 8,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-28",
+     "day_confidence": "exact",
+     "day_offset": 9,
+     "kind": "disembark",
+     "lat": -33.85929,
+     "lon": 151.20904,
+     "port_id": "sydney",
+     "port_name": "Sydney"
+    }
+   ],
+   "nights": 9,
+   "sailing_id": null,
+   "ship_name": "Anthem of the Seas"
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Brilliance of the Seas",
+   "departure_date": "2026-11-02",
+   "nights": 14,
+   "embark_port": "Barcelona",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-02",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-03",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-04",
+     "port_id": "cartagena",
+     "port_name": "Cartagena",
+     "lat": 10.42513,
+     "lon": -75.5383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-05",
+     "port_id": "malaga",
+     "port_name": "Malaga",
+     "lat": 36.71935,
+     "lon": -4.36273,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-06",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-08",
+     "port_id": "ponta-delgada",
+     "port_name": "Ponta Delgada",
+     "lat": 37.89752,
+     "lon": -25.75101,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-09",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-10",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-11-11",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-11-12",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 11,
+     "date": "2026-11-13",
+     "port_id": "kings-wharf",
+     "port_name": "King's Wharf",
+     "lat": 32.32,
+     "lon": -64.83,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2026-11-14",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 13,
+     "date": "2026-11-15",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 14,
+     "date": "2026-11-16",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Brilliance of the Seas",
+   "departure_date": "2026-11-16",
+   "nights": 4,
+   "embark_port": "Fort Lauderdale",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-16",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-17",
+     "port_id": "bimini",
+     "port_name": "Bimini",
+     "lat": 25.74901,
+     "lon": -79.28118,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-18",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-19",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-20",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Brilliance of the Seas",
+   "departure_date": "2026-11-20",
+   "nights": 3,
+   "embark_port": "Fort Lauderdale",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-20",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-21",
+     "port_id": "freeport",
+     "port_name": "Freeport",
+     "lat": 26.52015,
+     "lon": -78.77198,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-22",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-23",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Brilliance of the Seas",
+   "departure_date": "2026-11-23",
+   "nights": 4,
+   "embark_port": "Fort Lauderdale",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-23",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-24",
+     "port_id": "freeport",
+     "port_name": "Freeport",
+     "lat": 26.52015,
+     "lon": -78.77198,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-25",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-26",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-27",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Brilliance of the Seas",
+   "departure_date": "2026-11-27",
+   "nights": 3,
+   "embark_port": "Fort Lauderdale",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-27",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-28",
+     "port_id": "freeport",
+     "port_name": "Freeport",
+     "lat": 26.52015,
+     "lon": -78.77198,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-29",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-30",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Brilliance of the Seas",
+   "departure_date": "2026-11-30",
+   "nights": 4,
+   "embark_port": "Fort Lauderdale",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-30",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-01",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-02",
+     "port_id": "freeport",
+     "port_name": "Freeport",
+     "lat": 26.52015,
+     "lon": -78.77198,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-03",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-04",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Brilliance of the Seas",
+   "departure_date": "2026-12-04",
+   "nights": 3,
+   "embark_port": "Fort Lauderdale",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-04",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-05",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-06",
+     "port_id": "freeport",
+     "port_name": "Freeport",
+     "lat": 26.52015,
+     "lon": -78.77198,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-07",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Brilliance of the Seas",
+   "departure_date": "2026-12-07",
+   "nights": 4,
+   "embark_port": "Fort Lauderdale",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-07",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-08",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-09",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-10",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-11",
+     "port_id": "fort-lauderdale",
+     "port_name": "Fort Lauderdale",
+     "lat": 26.09,
+     "lon": -80.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "departure_date": "2026-10-31",
+   "embark_port": "Tampa",
+   "itinerary": [
+    {
+     "date": "2026-10-31",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "port_id": "tampa",
+     "port_name": "Tampa"
+    },
+    {
+     "date": "2026-11-01",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-02",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "port_id": "nassau",
+     "port_name": "Nassau"
+    },
+    {
+     "date": "2026-11-03",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": 25.74901,
+     "lon": -79.28118,
+     "port_id": "bimini",
+     "port_name": "Bimini"
+    },
+    {
+     "date": "2026-11-04",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": 25.817,
+     "lon": -77.933,
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay"
+    },
+    {
+     "date": "2026-11-05",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-06",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "call",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "port_id": "cozumel",
+     "port_name": "Cozumel"
+    },
+    {
+     "date": "2026-11-07",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-08",
+     "day_confidence": "exact",
+     "day_offset": 8,
+     "kind": "disembark",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "port_id": "tampa",
+     "port_name": "Tampa"
+    }
+   ],
+   "nights": 8,
+   "sailing_id": null,
+   "ship_name": "Enchantment of the Seas"
+  },
+  {
+   "departure_date": "2026-11-08",
+   "embark_port": "Tampa",
+   "itinerary": [
+    {
+     "date": "2026-11-08",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "port_id": "tampa",
+     "port_name": "Tampa"
+    },
+    {
+     "date": "2026-11-09",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-10",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya"
+    },
+    {
+     "date": "2026-11-11",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "port_id": "cozumel",
+     "port_name": "Cozumel"
+    },
+    {
+     "date": "2026-11-12",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-13",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "call",
+     "lat": 25.817,
+     "lon": -77.933,
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay"
+    },
+    {
+     "date": "2026-11-14",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-15",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "disembark",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "port_id": "tampa",
+     "port_name": "Tampa"
+    }
+   ],
+   "nights": 7,
+   "sailing_id": null,
+   "ship_name": "Enchantment of the Seas"
+  },
+  {
+   "departure_date": "2026-11-15",
+   "embark_port": "Tampa",
+   "itinerary": [
+    {
+     "date": "2026-11-15",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "port_id": "tampa",
+     "port_name": "Tampa"
+    },
+    {
+     "date": "2026-11-16",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-17",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 17.49953,
+     "lon": -88.22171,
+     "port_id": "belize-city",
+     "port_name": "Belize City"
+    },
+    {
+     "date": "2026-11-18",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-19",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "port_id": "cozumel",
+     "port_name": "Cozumel"
+    },
+    {
+     "date": "2026-11-20",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "call",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya"
+    },
+    {
+     "date": "2026-11-21",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-22",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "disembark",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "port_id": "tampa",
+     "port_name": "Tampa"
+    }
+   ],
+   "nights": 7,
+   "sailing_id": null,
+   "ship_name": "Enchantment of the Seas"
+  },
+  {
+   "departure_date": "2026-11-22",
+   "embark_port": "Tampa",
+   "itinerary": [
+    {
+     "date": "2026-11-22",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "port_id": "tampa",
+     "port_name": "Tampa"
+    },
+    {
+     "date": "2026-11-23",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-24",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya"
+    },
+    {
+     "date": "2026-11-25",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "port_id": "roatan",
+     "port_name": "Roatan"
+    },
+    {
+     "date": "2026-11-26",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": 17.49953,
+     "lon": -88.22171,
+     "port_id": "belize-city",
+     "port_name": "Belize City"
+    },
+    {
+     "date": "2026-11-27",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "call",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "port_id": "cozumel",
+     "port_name": "Cozumel"
+    },
+    {
+     "date": "2026-11-28",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-11-29",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "disembark",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "port_id": "tampa",
+     "port_name": "Tampa"
+    }
+   ],
+   "nights": 7,
+   "sailing_id": null,
+   "ship_name": "Enchantment of the Seas"
+  },
+  {
+   "departure_date": "2026-11-29",
+   "embark_port": "Tampa",
+   "itinerary": [
+    {
+     "date": "2026-11-29",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "port_id": "tampa",
+     "port_name": "Tampa"
+    },
+    {
+     "date": "2026-11-30",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-01",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya"
+    },
+    {
+     "date": "2026-12-02",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "port_id": "roatan",
+     "port_name": "Roatan"
+    },
+    {
+     "date": "2026-12-03",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": 17.49953,
+     "lon": -88.22171,
+     "port_id": "belize-city",
+     "port_name": "Belize City"
+    },
+    {
+     "date": "2026-12-04",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "call",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "port_id": "cozumel",
+     "port_name": "Cozumel"
+    },
+    {
+     "date": "2026-12-05",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-06",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "disembark",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "port_id": "tampa",
+     "port_name": "Tampa"
+    }
+   ],
+   "nights": 7,
+   "sailing_id": null,
+   "ship_name": "Enchantment of the Seas"
+  },
+  {
+   "departure_date": "2026-12-06",
+   "embark_port": "Tampa",
+   "itinerary": [
+    {
+     "date": "2026-12-06",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "port_id": "tampa",
+     "port_name": "Tampa"
+    },
+    {
+     "date": "2026-12-07",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-08",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "port_id": "cozumel",
+     "port_name": "Cozumel"
+    },
+    {
+     "date": "2026-12-09",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "port_id": "roatan",
+     "port_name": "Roatan"
+    },
+    {
+     "date": "2026-12-10",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": 17.49953,
+     "lon": -88.22171,
+     "port_id": "belize-city",
+     "port_name": "Belize City"
+    },
+    {
+     "date": "2026-12-11",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "call",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya"
+    },
+    {
+     "date": "2026-12-12",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-13",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "disembark",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "port_id": "tampa",
+     "port_name": "Tampa"
+    }
+   ],
+   "nights": 7,
+   "sailing_id": null,
+   "ship_name": "Enchantment of the Seas"
+  },
+  {
+   "departure_date": "2026-12-13",
+   "embark_port": "Tampa",
+   "itinerary": [
+    {
+     "date": "2026-12-13",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "port_id": "tampa",
+     "port_name": "Tampa"
+    },
+    {
+     "date": "2026-12-14",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-15",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "port_id": "cozumel",
+     "port_name": "Cozumel"
+    },
+    {
+     "date": "2026-12-16",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": 17.49953,
+     "lon": -88.22171,
+     "port_id": "belize-city",
+     "port_name": "Belize City"
+    },
+    {
+     "date": "2026-12-17",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "port_id": "roatan",
+     "port_name": "Roatan"
+    },
+    {
+     "date": "2026-12-18",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "call",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya"
+    },
+    {
+     "date": "2026-12-19",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-20",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "disembark",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "port_id": "tampa",
+     "port_name": "Tampa"
+    }
+   ],
+   "nights": 7,
+   "sailing_id": null,
+   "ship_name": "Enchantment of the Seas"
+  },
+  {
+   "departure_date": "2026-12-20",
+   "embark_port": "Tampa",
+   "itinerary": [
+    {
+     "date": "2026-12-20",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "port_id": "tampa",
+     "port_name": "Tampa"
+    },
+    {
+     "date": "2026-12-21",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-22",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "port_id": "cozumel",
+     "port_name": "Cozumel"
+    },
+    {
+     "date": "2026-12-23",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "port_id": "roatan",
+     "port_name": "Roatan"
+    },
+    {
+     "date": "2026-12-24",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": 17.49953,
+     "lon": -88.22171,
+     "port_id": "belize-city",
+     "port_name": "Belize City"
+    },
+    {
+     "date": "2026-12-25",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "call",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya"
+    },
+    {
+     "date": "2026-12-26",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "sea",
+     "lat": null,
+     "lon": null,
+     "port_id": null,
+     "port_name": null
+    },
+    {
+     "date": "2026-12-27",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "disembark",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "port_id": "tampa",
+     "port_name": "Tampa"
+    }
+   ],
+   "nights": 7,
+   "sailing_id": null,
+   "ship_name": "Enchantment of the Seas"
   }
  ],
  "celebrity-cruises": [],
