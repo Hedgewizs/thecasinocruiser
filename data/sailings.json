@@ -43402,6 +43402,4239 @@
      "day_confidence": "exact"
     }
    ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Spectrum of the Seas",
+   "departure_date": "2026-11-01",
+   "nights": 5,
+   "embark_port": "Shanghai",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-01",
+     "port_id": "shanghai",
+     "port_name": "Shanghai",
+     "lat": 31.25516,
+     "lon": 121.4747,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-02",
+     "port_id": "jeju",
+     "port_name": "Jeju",
+     "lat": 33.50452,
+     "lon": 126.54024,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-03",
+     "port_id": "busan",
+     "port_name": "Busan",
+     "lat": 35.17793,
+     "lon": 129.07848,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-04",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-05",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-06",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Spectrum of the Seas",
+   "departure_date": "2026-11-06",
+   "nights": 5,
+   "embark_port": "Hong Kong",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-06",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-08",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-09",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-10",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-11",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Spectrum of the Seas",
+   "departure_date": "2026-11-11",
+   "nights": 5,
+   "embark_port": "Hong Kong",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-11",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-13",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-14",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-16",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Spectrum of the Seas",
+   "departure_date": "2026-11-16",
+   "nights": 4,
+   "embark_port": "Hong Kong",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-16",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-18",
+     "port_id": "chan-may",
+     "port_name": "Chan May",
+     "lat": 16.30681,
+     "lon": 108.01257,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-20",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Spectrum of the Seas",
+   "departure_date": "2026-11-20",
+   "nights": 2,
+   "embark_port": "Hong Kong",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-20",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-22",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Spectrum of the Seas",
+   "departure_date": "2026-11-22",
+   "nights": 9,
+   "embark_port": "Hong Kong",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-22",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-23",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-25",
+     "port_id": "kagoshima",
+     "port_name": "Kagoshima",
+     "lat": 31.6067328,
+     "lon": 130.7089814,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-26",
+     "port_id": "nagasaki",
+     "port_name": "Nagasaki",
+     "lat": 32.8039567,
+     "lon": 129.8385483,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-27",
+     "port_id": "fukuoka",
+     "port_name": "Fukuoka",
+     "lat": 33.59139,
+     "lon": 130.41472,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-28",
+     "port_id": "busan",
+     "port_name": "Busan",
+     "lat": 35.17793,
+     "lon": 129.07848,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-12-01",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Spectrum of the Seas",
+   "departure_date": "2026-12-01",
+   "nights": 5,
+   "embark_port": "Hong Kong",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-01",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-02",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-03",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-04",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-05",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-06",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Spectrum of the Seas",
+   "departure_date": "2026-12-06",
+   "nights": 5,
+   "embark_port": "Hong Kong",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-06",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-08",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-09",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-10",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-11",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Spectrum of the Seas",
+   "departure_date": "2026-12-11",
+   "nights": 2,
+   "embark_port": "Hong Kong",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-11",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-13",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Spectrum of the Seas",
+   "departure_date": "2026-12-13",
+   "nights": 5,
+   "embark_port": "Hong Kong",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-13",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-14",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-15",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-16",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-18",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Spectrum of the Seas",
+   "departure_date": "2026-12-18",
+   "nights": 2,
+   "embark_port": "Hong Kong",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-18",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-20",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Spectrum of the Seas",
+   "departure_date": "2026-12-20",
+   "nights": 9,
+   "embark_port": "Hong Kong",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-20",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-23",
+     "port_id": "fukuoka",
+     "port_name": "Fukuoka",
+     "lat": 33.59139,
+     "lon": 130.41472,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-24",
+     "port_id": "nagasaki",
+     "port_name": "Nagasaki",
+     "lat": 32.8039567,
+     "lon": 129.8385483,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-25",
+     "port_id": "kagoshima",
+     "port_name": "Kagoshima",
+     "lat": 31.6067328,
+     "lon": 130.7089814,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-26",
+     "port_id": "kumamoto",
+     "port_name": "Kumamoto",
+     "lat": 32.8011342,
+     "lon": 130.7324014,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-12-29",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Spectrum of the Seas",
+   "departure_date": "2026-12-29",
+   "nights": 5,
+   "embark_port": "Hong Kong",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-29",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-31",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-01",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-02",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-03",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Star of the Seas",
+   "departure_date": "2026-11-01",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-01",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-02",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-04",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-05",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-06",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-08",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Star of the Seas",
+   "departure_date": "2026-11-08",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-08",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-09",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-10",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-11",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-12",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-13",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-14",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-15",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Star of the Seas",
+   "departure_date": "2026-11-15",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-15",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-16",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-18",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-19",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-20",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-22",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Star of the Seas",
+   "departure_date": "2026-11-22",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-22",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-23",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-24",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-25",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-26",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-28",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-29",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Star of the Seas",
+   "departure_date": "2026-11-29",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-29",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-30",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-01",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-02",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-03",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-04",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-05",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-06",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Star of the Seas",
+   "departure_date": "2026-12-06",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-06",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-08",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-09",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-10",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-11",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-12",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-13",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Star of the Seas",
+   "departure_date": "2026-12-13",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-13",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-14",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-16",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-17",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-18",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-20",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Star of the Seas",
+   "departure_date": "2026-12-20",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-20",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-22",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-23",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-24",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-26",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-27",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Star of the Seas",
+   "departure_date": "2026-12-27",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-27",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-28",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-30",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-31",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-01",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-02",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-03",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Symphony of the Seas",
+   "departure_date": "2026-11-01",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-01",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-02",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-04",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-05",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-06",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-08",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Symphony of the Seas",
+   "departure_date": "2026-11-08",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-08",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-09",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-10",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-11",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-12",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-13",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-14",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-15",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Symphony of the Seas",
+   "departure_date": "2026-11-15",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-15",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-16",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-18",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-19",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-20",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-22",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Symphony of the Seas",
+   "departure_date": "2026-11-22",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-22",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-23",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-25",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-26",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-27",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-29",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Symphony of the Seas",
+   "departure_date": "2026-11-29",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-29",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-01",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-02",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-03",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-04",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-05",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-06",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Symphony of the Seas",
+   "departure_date": "2026-12-06",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-06",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-08",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-09",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-10",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-11",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-13",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Symphony of the Seas",
+   "departure_date": "2026-12-13",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-13",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-14",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-16",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-17",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-18",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-20",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Symphony of the Seas",
+   "departure_date": "2026-12-20",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-20",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-23",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-24",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-25",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-26",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-27",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Symphony of the Seas",
+   "departure_date": "2026-12-27",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-27",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-30",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-31",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-01",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-02",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-03",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Utopia of the Seas",
+   "departure_date": "2026-11-02",
+   "nights": 4,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-02",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-03",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-04",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-05",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-06",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Utopia of the Seas",
+   "departure_date": "2026-11-06",
+   "nights": 3,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-06",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-07",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-08",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-09",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Utopia of the Seas",
+   "departure_date": "2026-11-09",
+   "nights": 4,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-09",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-10",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-11",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-13",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Utopia of the Seas",
+   "departure_date": "2026-11-13",
+   "nights": 3,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-13",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-14",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-15",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-16",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Utopia of the Seas",
+   "departure_date": "2026-11-16",
+   "nights": 4,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-16",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-17",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-18",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-20",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Utopia of the Seas",
+   "departure_date": "2026-11-20",
+   "nights": 3,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-20",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-21",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-22",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-23",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Utopia of the Seas",
+   "departure_date": "2026-11-23",
+   "nights": 4,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-23",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-24",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-25",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-26",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-27",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Utopia of the Seas",
+   "departure_date": "2026-11-27",
+   "nights": 3,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-27",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-28",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-29",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-30",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Utopia of the Seas",
+   "departure_date": "2026-11-30",
+   "nights": 4,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-30",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-01",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-02",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-04",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Utopia of the Seas",
+   "departure_date": "2026-12-04",
+   "nights": 3,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-04",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-05",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-06",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-07",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Utopia of the Seas",
+   "departure_date": "2026-12-07",
+   "nights": 4,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-07",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-08",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-09",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-10",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-11",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Utopia of the Seas",
+   "departure_date": "2026-12-11",
+   "nights": 3,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-11",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-12",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-13",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-14",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Utopia of the Seas",
+   "departure_date": "2026-12-14",
+   "nights": 4,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-14",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-15",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-16",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-18",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Utopia of the Seas",
+   "departure_date": "2026-12-18",
+   "nights": 3,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-18",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-19",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-20",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-21",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Utopia of the Seas",
+   "departure_date": "2026-12-21",
+   "nights": 3,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-21",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-22",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-23",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-24",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Utopia of the Seas",
+   "departure_date": "2026-12-24",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-24",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-25",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-26",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-27",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie, St Thomas",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-28",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg, St Maarten",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-31",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Utopia of the Seas",
+   "departure_date": "2026-12-31",
+   "nights": 4,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-31",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-01",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-02",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-03",
+     "port_id": "perfect-day-at-cococay",
+     "port_name": "Perfect Day at CocoCay",
+     "lat": 25.817,
+     "lon": -77.933,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-04",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Vision of the Seas",
+   "departure_date": "2026-11-01",
+   "nights": 7,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-01",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-02",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie, St Thomas",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-03",
+     "port_id": "st-johns",
+     "port_name": "St. John's (Antigua)",
+     "lat": 17.11632,
+     "lon": -61.84158,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-04",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-05",
+     "port_id": "st-croix",
+     "port_name": "St. Croix",
+     "lat": 17.71457,
+     "lon": -64.88293,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-06",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-08",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Vision of the Seas",
+   "departure_date": "2026-11-08",
+   "nights": 7,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-08",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-09",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie, St Thomas",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-10",
+     "port_id": "st-croix",
+     "port_name": "St. Croix",
+     "lat": 17.71457,
+     "lon": -64.88293,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-11",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-12",
+     "port_id": "st-johns",
+     "port_name": "St. John's (Antigua)",
+     "lat": 17.11632,
+     "lon": -61.84158,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-13",
+     "port_id": "roseau",
+     "port_name": "Roseau (Dominica)",
+     "lat": 15.3,
+     "lon": -61.39,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-14",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-15",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Vision of the Seas",
+   "departure_date": "2026-11-15",
+   "nights": 7,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-15",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-16",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie, St Thomas",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-17",
+     "port_id": "st-johns",
+     "port_name": "St. John's (Antigua)",
+     "lat": 17.11632,
+     "lon": -61.84158,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-18",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-19",
+     "port_id": "st-croix",
+     "port_name": "St. Croix",
+     "lat": 17.71457,
+     "lon": -64.88293,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-20",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-22",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Vision of the Seas",
+   "departure_date": "2026-11-22",
+   "nights": 7,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-22",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-23",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-24",
+     "port_id": "st-johns",
+     "port_name": "St. John's (Antigua)",
+     "lat": 17.11632,
+     "lon": -61.84158,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-25",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-26",
+     "port_id": "st-croix",
+     "port_name": "St. Croix",
+     "lat": 17.71457,
+     "lon": -64.88293,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-27",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-29",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Vision of the Seas",
+   "departure_date": "2026-11-29",
+   "nights": 7,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-29",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-30",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie, St Thomas",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-01",
+     "port_id": "st-croix",
+     "port_name": "St. Croix",
+     "lat": 17.71457,
+     "lon": -64.88293,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-02",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-03",
+     "port_id": "st-johns",
+     "port_name": "St. John's (Antigua)",
+     "lat": 17.11632,
+     "lon": -61.84158,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-04",
+     "port_id": "roseau",
+     "port_name": "Roseau (Dominica)",
+     "lat": 15.3,
+     "lon": -61.39,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-05",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-06",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Vision of the Seas",
+   "departure_date": "2026-12-06",
+   "nights": 7,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-06",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-07",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-08",
+     "port_id": "st-johns",
+     "port_name": "St. John's (Antigua)",
+     "lat": 17.11632,
+     "lon": -61.84158,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-09",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-10",
+     "port_id": "st-croix",
+     "port_name": "St. Croix",
+     "lat": 17.71457,
+     "lon": -64.88293,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-11",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-13",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Vision of the Seas",
+   "departure_date": "2026-12-13",
+   "nights": 7,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-13",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-14",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie, St Thomas",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-15",
+     "port_id": "st-croix",
+     "port_name": "St. Croix",
+     "lat": 17.71457,
+     "lon": -64.88293,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-16",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-17",
+     "port_id": "st-johns",
+     "port_name": "St. John's (Antigua)",
+     "lat": 17.11632,
+     "lon": -61.84158,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-18",
+     "port_id": "roseau",
+     "port_name": "Roseau (Dominica)",
+     "lat": 15.3,
+     "lon": -61.39,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-20",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Vision of the Seas",
+   "departure_date": "2026-12-20",
+   "nights": 7,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-20",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-21",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-22",
+     "port_id": "st-johns",
+     "port_name": "St. John's (Antigua)",
+     "lat": 17.11632,
+     "lon": -61.84158,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-23",
+     "port_id": "roseau",
+     "port_name": "Roseau (Dominica)",
+     "lat": 15.3,
+     "lon": -61.39,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-24",
+     "port_id": "st-croix",
+     "port_name": "St. Croix",
+     "lat": 17.71457,
+     "lon": -64.88293,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-25",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-26",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-27",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Vision of the Seas",
+   "departure_date": "2026-12-27",
+   "nights": 7,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-27",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-28",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie, St Thomas",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-29",
+     "port_id": "st-croix",
+     "port_name": "St. Croix",
+     "lat": 17.71457,
+     "lon": -64.88293,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-30",
+     "port_id": "st-johns",
+     "port_name": "St. John's (Antigua)",
+     "lat": 17.11632,
+     "lon": -61.84158,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-31",
+     "port_id": "roseau",
+     "port_name": "Roseau (Dominica)",
+     "lat": 15.3,
+     "lon": -61.39,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-01",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-02",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-03",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
   }
  ],
  "celebrity-cruises": [],
