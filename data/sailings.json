@@ -12242,75 +12242,6 @@
   {
    "sailing_id": null,
    "ship_name": "Carnival Breeze",
-   "departure_date": "2026-11-02",
-   "nights": 5,
-   "embark_port": "Galveston",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-02",
-     "port_id": "galveston",
-     "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-03",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-04",
-     "port_id": "cozumel",
-     "port_name": "Cozumel",
-     "lat": 20.47897,
-     "lon": -86.9735,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-05",
-     "port_id": "progreso",
-     "port_name": "Progreso",
-     "lat": 21.28269,
-     "lon": -89.66341,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-06",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 5,
-     "date": "2026-11-07",
-     "port_id": "galveston",
-     "port_name": "Galveston",
-     "lat": 29.30693,
-     "lon": -94.79952,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Carnival Breeze",
    "departure_date": "2026-11-07",
    "nights": 5,
    "embark_port": "Galveston",
@@ -15218,75 +15149,6 @@
    "nights": 4,
    "sailing_id": null,
    "ship_name": "Carnival Firenze"
-  },
-  {
-   "departure_date": "2026-11-02",
-   "embark_port": "Port Canaveral, Florida",
-   "itinerary": [
-    {
-     "date": "2026-11-02",
-     "day_confidence": "exact",
-     "day_offset": 0,
-     "kind": "embark",
-     "lat": 28.413,
-     "lon": -80.62961,
-     "port_id": "port-canaveral",
-     "port_name": "Port Canaveral, Florida"
-    },
-    {
-     "date": "2026-11-03",
-     "day_confidence": "exact",
-     "day_offset": 1,
-     "kind": "call",
-     "lat": 26.6,
-     "lon": -78.7,
-     "port_id": "celebration-key",
-     "port_name": "Celebration Key, Bahamas"
-    },
-    {
-     "date": "2026-11-04",
-     "day_confidence": "exact",
-     "day_offset": 2,
-     "kind": "call",
-     "lat": 25.07895,
-     "lon": -77.341,
-     "port_id": "nassau",
-     "port_name": "Nassau, Bahamas"
-    },
-    {
-     "date": "2026-11-05",
-     "day_confidence": "exact",
-     "day_offset": 3,
-     "kind": "call",
-     "lat": 24.58,
-     "lon": -75.95,
-     "port_id": "half-moon-cay",
-     "port_name": "Half Moon Cay, Bahamas"
-    },
-    {
-     "date": "2026-11-06",
-     "day_confidence": "exact",
-     "day_offset": 4,
-     "kind": "sea",
-     "lat": null,
-     "lon": null,
-     "port_id": null,
-     "port_name": null
-    },
-    {
-     "date": "2026-11-07",
-     "day_confidence": "exact",
-     "day_offset": 5,
-     "kind": "disembark",
-     "lat": 28.413,
-     "lon": -80.62961,
-     "port_id": "port-canaveral",
-     "port_name": "Port Canaveral, Florida"
-    }
-   ],
-   "nights": 5,
-   "sailing_id": null,
-   "ship_name": "Carnival Freedom"
   },
   {
    "departure_date": "2026-11-07",
@@ -27671,115 +27533,6 @@
    ]
   },
   {
-   "departure_date": "2026-11-02",
-   "embark_port": "Sydney",
-   "itinerary": [
-    {
-     "date": "2026-11-02",
-     "day_confidence": "exact",
-     "day_offset": 0,
-     "kind": "embark",
-     "lat": -33.85929,
-     "lon": 151.20904,
-     "port_id": "sydney",
-     "port_name": "Sydney"
-    },
-    {
-     "date": "2026-11-03",
-     "day_confidence": "exact",
-     "day_offset": 1,
-     "kind": "sea",
-     "lat": null,
-     "lon": null,
-     "port_id": null,
-     "port_name": null
-    },
-    {
-     "date": "2026-11-04",
-     "day_confidence": "exact",
-     "day_offset": 2,
-     "kind": "sea",
-     "lat": null,
-     "lon": null,
-     "port_id": null,
-     "port_name": null
-    },
-    {
-     "date": "2026-11-05",
-     "day_confidence": "exact",
-     "day_offset": 3,
-     "kind": "call",
-     "lat": -22.21113,
-     "lon": 166.46625,
-     "port_id": "noumea",
-     "port_name": "Noumea"
-    },
-    {
-     "date": "2026-11-06",
-     "day_confidence": "exact",
-     "day_offset": 4,
-     "kind": "call",
-     "lat": -20.2491889,
-     "lon": 169.7711722,
-     "port_id": "mystery-island",
-     "port_name": "Mystery Island"
-    },
-    {
-     "date": "2026-11-07",
-     "day_confidence": "exact",
-     "day_offset": 5,
-     "kind": "call",
-     "lat": -17.75676,
-     "lon": 168.2984,
-     "port_id": "port-vila",
-     "port_name": "Port Vila"
-    },
-    {
-     "date": "2026-11-08",
-     "day_confidence": "exact",
-     "day_offset": 6,
-     "kind": "sea",
-     "lat": null,
-     "lon": null,
-     "port_id": null,
-     "port_name": null
-    },
-    {
-     "date": "2026-11-09",
-     "day_confidence": "exact",
-     "day_offset": 7,
-     "kind": "sea",
-     "lat": null,
-     "lon": null,
-     "port_id": null,
-     "port_name": null
-    },
-    {
-     "date": "2026-11-10",
-     "day_confidence": "exact",
-     "day_offset": 8,
-     "kind": "sea",
-     "lat": null,
-     "lon": null,
-     "port_id": null,
-     "port_name": null
-    },
-    {
-     "date": "2026-11-11",
-     "day_confidence": "exact",
-     "day_offset": 9,
-     "kind": "disembark",
-     "lat": -33.85929,
-     "lon": 151.20904,
-     "port_id": "sydney",
-     "port_name": "Sydney"
-    }
-   ],
-   "nights": 9,
-   "sailing_id": null,
-   "ship_name": "Anthem of the Seas"
-  },
-  {
    "departure_date": "2026-11-11",
    "embark_port": "Sydney",
    "itinerary": [
@@ -28362,165 +28115,6 @@
    "nights": 9,
    "sailing_id": null,
    "ship_name": "Anthem of the Seas"
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Brilliance of the Seas",
-   "departure_date": "2026-11-02",
-   "nights": 14,
-   "embark_port": "Barcelona",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-02",
-     "port_id": "barcelona",
-     "port_name": "Barcelona",
-     "lat": 41.36533,
-     "lon": 2.17363,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-03",
-     "port_id": "valencia",
-     "port_name": "Valencia",
-     "lat": 39.46894,
-     "lon": -0.37687,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-04",
-     "port_id": "cartagena-spain",
-     "port_name": "Cartagena",
-     "lat": 37.60672,
-     "lon": -0.98752,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-05",
-     "port_id": "malaga",
-     "port_name": "Malaga",
-     "lat": 36.71935,
-     "lon": -4.36273,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-06",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 5,
-     "date": "2026-11-07",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "inferred"
-    },
-    {
-     "day_offset": 6,
-     "date": "2026-11-08",
-     "port_id": "ponta-delgada",
-     "port_name": "Ponta Delgada",
-     "lat": 37.89752,
-     "lon": -25.75101,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 7,
-     "date": "2026-11-09",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 8,
-     "date": "2026-11-10",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "inferred"
-    },
-    {
-     "day_offset": 9,
-     "date": "2026-11-11",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "inferred"
-    },
-    {
-     "day_offset": 10,
-     "date": "2026-11-12",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "inferred"
-    },
-    {
-     "day_offset": 11,
-     "date": "2026-11-13",
-     "port_id": "kings-wharf",
-     "port_name": "King's Wharf",
-     "lat": 32.32,
-     "lon": -64.83,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 12,
-     "date": "2026-11-14",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 13,
-     "date": "2026-11-15",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "inferred"
-    },
-    {
-     "day_offset": 14,
-     "date": "2026-11-16",
-     "port_id": "fort-lauderdale",
-     "port_name": "Fort Lauderdale",
-     "lat": 26.09,
-     "lon": -80.11,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
   },
   {
    "sailing_id": null,
@@ -32991,75 +32585,6 @@
   {
    "sailing_id": null,
    "ship_name": "Jewel of the Seas",
-   "departure_date": "2026-11-02",
-   "nights": 5,
-   "embark_port": "Tampa",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-02",
-     "port_id": "tampa",
-     "port_name": "Tampa",
-     "lat": 27.95007,
-     "lon": -82.44523,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-03",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-04",
-     "port_id": "cozumel",
-     "port_name": "Cozumel",
-     "lat": 20.47897,
-     "lon": -86.9735,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-05",
-     "port_id": "costa-maya",
-     "port_name": "Costa Maya",
-     "lat": 18.73283,
-     "lon": -87.70305,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-06",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 5,
-     "date": "2026-11-07",
-     "port_id": "tampa",
-     "port_name": "Tampa",
-     "lat": 27.95007,
-     "lon": -82.44523,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Jewel of the Seas",
    "departure_date": "2026-11-07",
    "nights": 5,
    "embark_port": "Tampa",
@@ -36867,65 +36392,6 @@
   {
    "sailing_id": null,
    "ship_name": "Ovation of the Seas",
-   "departure_date": "2026-11-02",
-   "nights": 4,
-   "embark_port": "Los Angeles",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-02",
-     "port_id": "los-angeles",
-     "port_name": "Los Angeles",
-     "lat": 33.74364,
-     "lon": -118.26079,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-03",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-04",
-     "port_id": "catalina-island",
-     "port_name": "Catalina Island, California",
-     "lat": 33.32412,
-     "lon": -118.34154,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-05",
-     "port_id": "ensenada",
-     "port_name": "Ensenada",
-     "lat": 31.86427,
-     "lon": -116.6145,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-06",
-     "port_id": "los-angeles",
-     "port_name": "Los Angeles",
-     "lat": 33.74364,
-     "lon": -118.26079,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Ovation of the Seas",
    "departure_date": "2026-11-06",
    "nights": 3,
    "embark_port": "Los Angeles",
@@ -37883,75 +37349,6 @@
      "port_name": "Brisbane",
      "lat": -27.4693645,
      "lon": 152.9687926,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Radiance of the Seas",
-   "departure_date": "2026-11-02",
-   "nights": 5,
-   "embark_port": "Tampa",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-02",
-     "port_id": "tampa",
-     "port_name": "Tampa",
-     "lat": 27.95007,
-     "lon": -82.44523,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-03",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-04",
-     "port_id": "costa-maya",
-     "port_name": "Costa Maya",
-     "lat": 18.73283,
-     "lon": -87.70305,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-05",
-     "port_id": "cozumel",
-     "port_name": "Cozumel",
-     "lat": 20.47897,
-     "lon": -86.9735,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-06",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 5,
-     "date": "2026-11-07",
-     "port_id": "tampa",
-     "port_name": "Tampa",
-     "lat": 27.95007,
-     "lon": -82.44523,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -41921,65 +41318,6 @@
   {
    "sailing_id": null,
    "ship_name": "Utopia of the Seas",
-   "departure_date": "2026-11-02",
-   "nights": 4,
-   "embark_port": "Port Canaveral",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-02",
-     "port_id": "port-canaveral",
-     "port_name": "Port Canaveral",
-     "lat": 28.405,
-     "lon": -80.61497,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-03",
-     "port_id": "nassau",
-     "port_name": "Nassau",
-     "lat": 25.07895,
-     "lon": -77.341,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-04",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-05",
-     "port_id": "perfect-day-at-cococay",
-     "port_name": "Perfect Day at CocoCay",
-     "lat": 25.817,
-     "lon": -77.933,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-06",
-     "port_id": "port-canaveral",
-     "port_name": "Port Canaveral",
-     "lat": 28.405,
-     "lon": -80.61497,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Utopia of the Seas",
    "departure_date": "2026-11-06",
    "nights": 3,
    "embark_port": "Port Canaveral",
@@ -44744,65 +44082,6 @@
      "port_name": "Los Angeles",
      "lat": 33.74364,
      "lon": -118.26079,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Wonder of the Seas",
-   "departure_date": "2026-11-02",
-   "nights": 4,
-   "embark_port": "Miami",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-02",
-     "port_id": "miami",
-     "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-03",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-04",
-     "port_id": "nassau",
-     "port_name": "Nassau",
-     "lat": 25.07895,
-     "lon": -77.341,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-05",
-     "port_id": "perfect-day-at-cococay",
-     "port_name": "Perfect Day at CocoCay",
-     "lat": 25.817,
-     "lon": -77.933,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-06",
-     "port_id": "miami",
-     "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -49033,175 +48312,6 @@
      "port_name": "Fort Lauderdale",
      "lat": 26.09,
      "lon": -80.11,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Celebrity Constellation",
-   "departure_date": "2026-11-02",
-   "nights": 15,
-   "embark_port": "Civitavecchia (Rome)",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-02",
-     "port_id": "civitavecchia-rome",
-     "port_name": "Civitavecchia (Rome)",
-     "lat": 42.09,
-     "lon": 11.79,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-03",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-04",
-     "port_id": "valencia",
-     "port_name": "Valencia",
-     "lat": 39.46894,
-     "lon": -0.37687,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-05",
-     "port_id": "cartagena-spain",
-     "port_name": "Cartagena",
-     "lat": 37.60672,
-     "lon": -0.98752,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-06",
-     "port_id": "malaga",
-     "port_name": "Malaga",
-     "lat": 36.71935,
-     "lon": -4.36273,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 5,
-     "date": "2026-11-07",
-     "port_id": "tangier",
-     "port_name": "Tangier",
-     "lat": 35.77979,
-     "lon": -5.80347,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 6,
-     "date": "2026-11-08",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 7,
-     "date": "2026-11-09",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 8,
-     "date": "2026-11-10",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 9,
-     "date": "2026-11-11",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 10,
-     "date": "2026-11-12",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 11,
-     "date": "2026-11-13",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 12,
-     "date": "2026-11-14",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 13,
-     "date": "2026-11-15",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 14,
-     "date": "2026-11-16",
-     "port_id": "philipsburg",
-     "port_name": "Philipsburg (St. Maarten)",
-     "lat": 18.01411,
-     "lon": -63.04425,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 15,
-     "date": "2026-11-17",
-     "port_id": "san-juan",
-     "port_name": "San Juan",
-     "lat": 18.47,
-     "lon": -66.11,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -55432,145 +54542,6 @@
   {
    "sailing_id": null,
    "ship_name": "Celebrity Infinity",
-   "departure_date": "2026-11-02",
-   "nights": 12,
-   "embark_port": "Piraeus (Athens)",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-02",
-     "port_id": "piraeus",
-     "port_name": "Piraeus (Athens)",
-     "lat": 37.94,
-     "lon": 23.64,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-03",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-04",
-     "port_id": "dubrovnik",
-     "port_name": "Dubrovnik",
-     "lat": 42.66299,
-     "lon": 18.09002,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-05",
-     "port_id": "split",
-     "port_name": "Split",
-     "lat": 43.49929,
-     "lon": 16.33461,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-06",
-     "port_id": "kotor",
-     "port_name": "Kotor",
-     "lat": 42.42561,
-     "lon": 18.76828,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 5,
-     "date": "2026-11-07",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 6,
-     "date": "2026-11-08",
-     "port_id": "messina",
-     "port_name": "Messina (Sicily)",
-     "lat": 38.17839,
-     "lon": 15.55309,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 7,
-     "date": "2026-11-09",
-     "port_id": "naples",
-     "port_name": "Naples",
-     "lat": 40.86538,
-     "lon": 14.28872,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 8,
-     "date": "2026-11-10",
-     "port_id": "civitavecchia-rome",
-     "port_name": "Civitavecchia (Rome)",
-     "lat": 42.09,
-     "lon": 11.79,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 9,
-     "date": "2026-11-11",
-     "port_id": "la-spezia",
-     "port_name": "La Spezia",
-     "lat": 44.10212,
-     "lon": 9.82005,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 10,
-     "date": "2026-11-12",
-     "port_id": "villefranche",
-     "port_name": "Villefranche",
-     "lat": 43.70368,
-     "lon": 7.3092,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 11,
-     "date": "2026-11-13",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 12,
-     "date": "2026-11-14",
-     "port_id": "barcelona",
-     "port_name": "Barcelona",
-     "lat": 41.36533,
-     "lon": 2.17363,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Celebrity Infinity",
    "departure_date": "2026-11-14",
    "nights": 12,
    "embark_port": "Barcelona",
@@ -57648,65 +56619,6 @@
      "port_name": "Singapore",
      "lat": 1.30834,
      "lon": 103.85193,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Celebrity Reflection",
-   "departure_date": "2026-11-02",
-   "nights": 4,
-   "embark_port": "Fort Lauderdale",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-02",
-     "port_id": "fort-lauderdale",
-     "port_name": "Fort Lauderdale",
-     "lat": 26.09,
-     "lon": -80.11,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-03",
-     "port_id": "key-west",
-     "port_name": "Key West",
-     "lat": 24.55536,
-     "lon": -81.7879,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-04",
-     "port_id": "perfect-day-at-cococay",
-     "port_name": "Perfect Day at CocoCay",
-     "lat": 25.817,
-     "lon": -77.933,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-05",
-     "port_id": "nassau",
-     "port_name": "Nassau",
-     "lat": 25.07895,
-     "lon": -77.341,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-06",
-     "port_id": "fort-lauderdale",
-     "port_name": "Fort Lauderdale",
-     "lat": 26.09,
-     "lon": -80.11,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -63308,7 +62220,1165 @@
    ]
   }
  ],
- "norwegian-cruise-line": [],
+ "norwegian-cruise-line": [
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Aqua",
+   "departure_date": "2026-11-08",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-08",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-09",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-10",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-11",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-12",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-13",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-14",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-15",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Aqua",
+   "departure_date": "2026-11-15",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-15",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-16",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-17",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-18",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-19",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-21",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-22",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Aqua",
+   "departure_date": "2026-11-22",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-22",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-23",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-24",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-25",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-26",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-27",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-28",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-29",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Aqua",
+   "departure_date": "2026-11-29",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-29",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-30",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-01",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-02",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-03",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-04",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-05",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-06",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Aqua",
+   "departure_date": "2026-12-06",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-06",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-08",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-09",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-10",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-11",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-12",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-13",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Aqua",
+   "departure_date": "2026-12-13",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-13",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-14",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-15",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-16",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-17",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-18",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-19",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-20",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Aqua",
+   "departure_date": "2026-12-20",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-20",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-21",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-22",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-23",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-24",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-25",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-26",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-27",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Aqua",
+   "departure_date": "2026-12-27",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-27",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-28",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-29",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-30",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-31",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-01",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-02",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-03",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Aqua",
+   "departure_date": "2027-01-03",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-03",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-04",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-05",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-06",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-07",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-08",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-09",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-10",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Aqua",
+   "departure_date": "2027-01-10",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-10",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-11",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-12",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-13",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-14",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-15",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-16",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-17",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Aqua",
+   "departure_date": "2027-01-17",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-17",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-18",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-19",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-20",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-21",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-22",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-23",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-24",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Aqua",
+   "departure_date": "2027-01-24",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-24",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-25",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-26",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-27",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-28",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-29",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-30",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-31",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Aqua",
+   "departure_date": "2027-01-31",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-31",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-01",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-02",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-03",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-04",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-05",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-06",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-07",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  }
+ ],
  "virgin-voyages": [],
  "msc-cruises": [],
  "holland-america-line": [],
