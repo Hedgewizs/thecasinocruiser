@@ -69824,6 +69824,3330 @@
      "day_confidence": "exact"
     }
    ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Gem",
+   "departure_date": "2026-11-16",
+   "nights": 5,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-16",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-17",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-18",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-19",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-21",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Gem",
+   "departure_date": "2026-11-21",
+   "nights": 7,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-21",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-22",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-23",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-24",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-25",
+     "port_id": "harvest-caye",
+     "port_name": "Harvest Caye",
+     "lat": 16.4735,
+     "lon": -88.4052,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-26",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-27",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-28",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Gem",
+   "departure_date": "2026-11-28",
+   "nights": 12,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-28",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-29",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-30",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-01",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-02",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-03",
+     "port_id": "st-kitts",
+     "port_name": "St. Kitts",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-04",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-05",
+     "port_id": "st-thomas",
+     "port_name": "St. Thomas",
+     "lat": 18.34899,
+     "lon": -64.93042,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-06",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-12-07",
+     "port_id": "falmouth",
+     "port_name": "Falmouth",
+     "lat": 18.49221,
+     "lon": -77.65374,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-12-08",
+     "port_id": "george-town",
+     "port_name": "George Town",
+     "lat": 19.29657,
+     "lon": -81.38175,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2026-12-09",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2026-12-10",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Gem",
+   "departure_date": "2026-12-10",
+   "nights": 11,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-10",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-11",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-12",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-13",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-14",
+     "port_id": "cabo-rojo",
+     "port_name": "Cabo Rojo, Dominican Republic",
+     "lat": 17.90523,
+     "lon": -71.67258,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-15",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-16",
+     "port_id": "willemstad",
+     "port_name": "Willemstad",
+     "lat": 12.10363,
+     "lon": -68.9327,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-17",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-18",
+     "port_id": "falmouth",
+     "port_name": "Falmouth",
+     "lat": 18.49221,
+     "lon": -77.65374,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-12-19",
+     "port_id": "george-town",
+     "port_name": "George Town",
+     "lat": 19.29657,
+     "lon": -81.38175,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-12-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2026-12-21",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Gem",
+   "departure_date": "2026-12-21",
+   "nights": 7,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-21",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-22",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-23",
+     "port_id": "harvest-caye",
+     "port_name": "Harvest Caye",
+     "lat": 16.4735,
+     "lon": -88.4052,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-24",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-25",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-26",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-27",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-28",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Gem",
+   "departure_date": "2026-12-28",
+   "nights": 7,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-28",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-29",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-30",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-31",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-01",
+     "port_id": "harvest-caye",
+     "port_name": "Harvest Caye",
+     "lat": 16.4735,
+     "lon": -88.4052,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-02",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-03",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-04",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Gem",
+   "departure_date": "2027-01-04",
+   "nights": 10,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-04",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-05",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-06",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-07",
+     "port_id": "cabo-rojo",
+     "port_name": "Cabo Rojo, Dominican Republic",
+     "lat": 17.90523,
+     "lon": -71.67258,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-08",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-09",
+     "port_id": "willemstad",
+     "port_name": "Willemstad",
+     "lat": 12.10363,
+     "lon": -68.9327,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-10",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-11",
+     "port_id": "falmouth",
+     "port_name": "Falmouth",
+     "lat": 18.49221,
+     "lon": -77.65374,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-01-12",
+     "port_id": "george-town",
+     "port_name": "George Town",
+     "lat": 19.29657,
+     "lon": -81.38175,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2027-01-13",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2027-01-14",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Gem",
+   "departure_date": "2027-01-14",
+   "nights": 4,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-14",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-15",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-16",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-17",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-18",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Gem",
+   "departure_date": "2027-01-18",
+   "nights": 10,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-18",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-19",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-21",
+     "port_id": "cabo-rojo",
+     "port_name": "Cabo Rojo, Dominican Republic",
+     "lat": 17.90523,
+     "lon": -71.67258,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-22",
+     "port_id": "willemstad",
+     "port_name": "Willemstad",
+     "lat": 12.10363,
+     "lon": -68.9327,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-23",
+     "port_id": "oranjestad",
+     "port_name": "Oranjestad (Aruba)",
+     "lat": 12.52367,
+     "lon": -70.03487,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-24",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-25",
+     "port_id": "falmouth",
+     "port_name": "Falmouth",
+     "lat": 18.49221,
+     "lon": -77.65374,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-01-26",
+     "port_id": "george-town",
+     "port_name": "George Town",
+     "lat": 19.29657,
+     "lon": -81.38175,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2027-01-27",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2027-01-28",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Gem",
+   "departure_date": "2027-01-28",
+   "nights": 4,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-28",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-29",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-30",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-31",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-01",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Gem",
+   "departure_date": "2027-02-01",
+   "nights": 4,
+   "embark_port": "Tampa, Florida",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-01",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-02",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-03",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-04",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-05",
+     "port_id": "tampa",
+     "port_name": "Tampa, Florida",
+     "lat": 27.95007,
+     "lon": -82.44523,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Getaway",
+   "departure_date": "2026-11-06",
+   "nights": 5,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-06",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-08",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-09",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-10",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-11",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Getaway",
+   "departure_date": "2026-11-11",
+   "nights": 5,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-11",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-12",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-13",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-14",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-15",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-16",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Getaway",
+   "departure_date": "2026-11-16",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-16",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-17",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-18",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-19",
+     "port_id": "st-thomas",
+     "port_name": "St. Thomas",
+     "lat": 18.34899,
+     "lon": -64.93042,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-20",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-21",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-22",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-23",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Getaway",
+   "departure_date": "2026-11-23",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-23",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-24",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-25",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-26",
+     "port_id": "montego-bay",
+     "port_name": "Montego Bay",
+     "lat": 18.467,
+     "lon": -77.917,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-27",
+     "port_id": "george-town",
+     "port_name": "George Town",
+     "lat": 19.29657,
+     "lon": -81.38175,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-28",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-29",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-30",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Getaway",
+   "departure_date": "2026-11-30",
+   "nights": 4,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-30",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-01",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-02",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-03",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-04",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Getaway",
+   "departure_date": "2026-12-04",
+   "nights": 5,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-04",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-05",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-06",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-08",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-09",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Getaway",
+   "departure_date": "2026-12-09",
+   "nights": 5,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-09",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-10",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-11",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-12",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-13",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-14",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Getaway",
+   "departure_date": "2026-12-14",
+   "nights": 8,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-14",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-15",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-16",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-17",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-18",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-19",
+     "port_id": "st-thomas",
+     "port_name": "St. Thomas",
+     "lat": 18.34899,
+     "lon": -64.93042,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-21",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-22",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Getaway",
+   "departure_date": "2026-12-22",
+   "nights": 9,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-22",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-23",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-24",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-25",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-26",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-27",
+     "port_id": "st-thomas",
+     "port_name": "St. Thomas",
+     "lat": 18.34899,
+     "lon": -64.93042,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-28",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-29",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-30",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-12-31",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Getaway",
+   "departure_date": "2026-12-31",
+   "nights": 7,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-31",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-01",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-02",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-03",
+     "port_id": "st-thomas",
+     "port_name": "St. Thomas",
+     "lat": 18.34899,
+     "lon": -64.93042,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-04",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-05",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-06",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-07",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Getaway",
+   "departure_date": "2027-01-07",
+   "nights": 4,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-07",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-08",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-09",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-10",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-11",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Getaway",
+   "departure_date": "2027-01-11",
+   "nights": 4,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-11",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-12",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-13",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-14",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-15",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Getaway",
+   "departure_date": "2027-01-15",
+   "nights": 5,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-15",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-16",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-17",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-18",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-19",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-20",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Getaway",
+   "departure_date": "2027-01-20",
+   "nights": 5,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-20",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-21",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-22",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-23",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-24",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-25",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Getaway",
+   "departure_date": "2027-01-25",
+   "nights": 4,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-25",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-26",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-27",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-28",
+     "port_id": "nassau",
+     "port_name": "Nassau",
+     "lat": 25.07895,
+     "lon": -77.341,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-29",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Getaway",
+   "departure_date": "2027-01-29",
+   "nights": 5,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-29",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-30",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-31",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-01",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-02",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-03",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Getaway",
+   "departure_date": "2027-02-03",
+   "nights": 5,
+   "embark_port": "Port Canaveral",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-03",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-04",
+     "port_id": "great-stirrup-cay",
+     "port_name": "Great Stirrup Cay",
+     "lat": 25.82353,
+     "lon": -77.90086,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-05",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-06",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-08",
+     "port_id": "port-canaveral",
+     "port_name": "Port Canaveral",
+     "lat": 28.405,
+     "lon": -80.61497,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Jade",
+   "departure_date": "2026-11-12",
+   "nights": 9,
+   "embark_port": "Yokohama",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-12",
+     "port_id": "yokohama",
+     "port_name": "Yokohama (Tokyo)",
+     "lat": 35.450167,
+     "lon": 139.646243,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-13",
+     "port_id": "shimizu",
+     "port_name": "Shimizu",
+     "lat": 35.0024058,
+     "lon": 138.4830403,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-14",
+     "port_id": "nagoya",
+     "port_name": "Nagoya",
+     "lat": 35.0456,
+     "lon": 136.841,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-15",
+     "port_id": "kobe",
+     "port_name": "Kobe",
+     "lat": 34.68,
+     "lon": 135.2,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-16",
+     "port_id": "kochi",
+     "port_name": "Kochi",
+     "lat": 33.5716308,
+     "lon": 133.4821792,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-17",
+     "port_id": "hiroshima",
+     "port_name": "Hiroshima",
+     "lat": 34.3783836,
+     "lon": 132.4560594,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-18",
+     "port_id": "kagoshima",
+     "port_name": "Kagoshima",
+     "lat": 31.6067328,
+     "lon": 130.7089814,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-19",
+     "port_id": "nagasaki",
+     "port_name": "Nagasaki",
+     "lat": 32.8039567,
+     "lon": 129.8385483,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-20",
+     "port_id": "jeju",
+     "port_name": "Jeju",
+     "lat": 33.50452,
+     "lon": 126.54024,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-11-21",
+     "port_id": "incheon",
+     "port_name": "Incheon",
+     "lat": 37.46317,
+     "lon": 126.66085,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Jade",
+   "departure_date": "2026-11-21",
+   "nights": 9,
+   "embark_port": "Incheon",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-21",
+     "port_id": "incheon",
+     "port_name": "Incheon",
+     "lat": 37.46317,
+     "lon": 126.66085,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-22",
+     "port_id": "jeju",
+     "port_name": "Jeju",
+     "lat": 33.50452,
+     "lon": 126.54024,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-23",
+     "port_id": "nagasaki",
+     "port_name": "Nagasaki",
+     "lat": 32.8039567,
+     "lon": 129.8385483,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-24",
+     "port_id": "kagoshima",
+     "port_name": "Kagoshima",
+     "lat": 31.6067328,
+     "lon": 130.7089814,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-25",
+     "port_id": "hiroshima",
+     "port_name": "Hiroshima",
+     "lat": 34.3783836,
+     "lon": 132.4560594,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-26",
+     "port_id": "kochi",
+     "port_name": "Kochi",
+     "lat": 33.5716308,
+     "lon": 133.4821792,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-27",
+     "port_id": "osaka",
+     "port_name": "Osaka",
+     "lat": 34.66,
+     "lon": 135.43,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-28",
+     "port_id": "nagoya",
+     "port_name": "Nagoya",
+     "lat": 35.0456,
+     "lon": 136.841,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-29",
+     "port_id": "shimizu",
+     "port_name": "Shimizu",
+     "lat": 35.0024058,
+     "lon": 138.4830403,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-11-30",
+     "port_id": "yokohama",
+     "port_name": "Yokohama (Tokyo)",
+     "lat": 35.450167,
+     "lon": 139.646243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Jade",
+   "departure_date": "2026-11-30",
+   "nights": 9,
+   "embark_port": "Yokohama",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-30",
+     "port_id": "yokohama",
+     "port_name": "Yokohama (Tokyo)",
+     "lat": 35.450167,
+     "lon": 139.646243,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-01",
+     "port_id": "shimizu",
+     "port_name": "Shimizu",
+     "lat": 35.0024058,
+     "lon": 138.4830403,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-02",
+     "port_id": "osaka",
+     "port_name": "Osaka",
+     "lat": 34.66,
+     "lon": 135.43,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-03",
+     "port_id": "kochi",
+     "port_name": "Kochi",
+     "lat": 33.5716308,
+     "lon": 133.4821792,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-04",
+     "port_id": "hiroshima",
+     "port_name": "Hiroshima",
+     "lat": 34.3783836,
+     "lon": 132.4560594,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-05",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-06",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-07",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-08",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-12-09",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Jade",
+   "departure_date": "2026-12-09",
+   "nights": 14,
+   "embark_port": "Hong Kong",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-09",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-10",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-11",
+     "port_id": "coron",
+     "port_name": "Coron",
+     "lat": 11.99905,
+     "lon": 120.20509,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-12",
+     "port_id": "boracay",
+     "port_name": "Boracay",
+     "lat": 11.95067,
+     "lon": 121.93467,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-13",
+     "port_id": "puerto-princesa",
+     "port_name": "Puerto Princesa",
+     "lat": 9.7885,
+     "lon": 118.74877,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-14",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-15",
+     "port_id": "muara",
+     "port_name": "Muara",
+     "lat": 5.0242489,
+     "lon": 115.0704866,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-16",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-17",
+     "port_id": "phu-my",
+     "port_name": "Phu My",
+     "lat": 10.6097,
+     "lon": 107.012,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-12-18",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-12-19",
+     "port_id": "laem-chabang-bangkok",
+     "port_name": "Laem Chabang (Bangkok)",
+     "lat": 13.08958,
+     "lon": 100.88516,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2026-12-20",
+     "port_id": "laem-chabang-bangkok",
+     "port_name": "Laem Chabang (Bangkok)",
+     "lat": 13.08958,
+     "lon": 100.88516,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2026-12-21",
+     "port_id": "koh-samui",
+     "port_name": "Ko Samui",
+     "lat": 9.45982,
+     "lon": 99.98419,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 13,
+     "date": "2026-12-22",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 14,
+     "date": "2026-12-23",
+     "port_id": "singapore",
+     "port_name": "Singapore",
+     "lat": 1.30834,
+     "lon": 103.85193,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Jade",
+   "departure_date": "2026-12-23",
+   "nights": 11,
+   "embark_port": "Singapore",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-23",
+     "port_id": "singapore",
+     "port_name": "Singapore",
+     "lat": 1.30834,
+     "lon": 103.85193,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-24",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-25",
+     "port_id": "koh-samui",
+     "port_name": "Ko Samui",
+     "lat": 9.45982,
+     "lon": 99.98419,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-26",
+     "port_id": "laem-chabang-bangkok",
+     "port_name": "Laem Chabang (Bangkok)",
+     "lat": 13.08958,
+     "lon": 100.88516,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-27",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-28",
+     "port_id": "phu-my",
+     "port_name": "Phu My",
+     "lat": 10.6097,
+     "lon": 107.012,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-29",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-30",
+     "port_id": "chan-may",
+     "port_name": "Chan May",
+     "lat": 16.30681,
+     "lon": 108.01257,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-31",
+     "port_id": "hanoi-halong-bay",
+     "port_name": "Hanoi (Ha Long Bay)",
+     "lat": 20.95152,
+     "lon": 107.08311,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2027-01-01",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2027-01-02",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2027-01-03",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Jade",
+   "departure_date": "2027-01-03",
+   "nights": 14,
+   "embark_port": "Hong Kong",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-03",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-04",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-05",
+     "port_id": "coron",
+     "port_name": "Coron",
+     "lat": 11.99905,
+     "lon": 120.20509,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-06",
+     "port_id": "boracay",
+     "port_name": "Boracay",
+     "lat": 11.95067,
+     "lon": 121.93467,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-07",
+     "port_id": "puerto-princesa",
+     "port_name": "Puerto Princesa",
+     "lat": 9.7885,
+     "lon": 118.74877,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-08",
+     "port_id": "kota-kinabalu",
+     "port_name": "Kota Kinabalu",
+     "lat": 5.98139,
+     "lon": 116.07423,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-09",
+     "port_id": "muara",
+     "port_name": "Muara",
+     "lat": 5.0242489,
+     "lon": 115.0704866,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-10",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-01-11",
+     "port_id": "phu-my",
+     "port_name": "Phu My",
+     "lat": 10.6097,
+     "lon": 107.012,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2027-01-12",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2027-01-13",
+     "port_id": "laem-chabang-bangkok",
+     "port_name": "Laem Chabang (Bangkok)",
+     "lat": 13.08958,
+     "lon": 100.88516,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2027-01-14",
+     "port_id": "laem-chabang-bangkok",
+     "port_name": "Laem Chabang (Bangkok)",
+     "lat": 13.08958,
+     "lon": 100.88516,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2027-01-15",
+     "port_id": "koh-samui",
+     "port_name": "Ko Samui",
+     "lat": 9.45982,
+     "lon": 99.98419,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 13,
+     "date": "2027-01-16",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 14,
+     "date": "2027-01-17",
+     "port_id": "singapore",
+     "port_name": "Singapore",
+     "lat": 1.30834,
+     "lon": 103.85193,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Jade",
+   "departure_date": "2027-01-17",
+   "nights": 11,
+   "embark_port": "Singapore",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-17",
+     "port_id": "singapore",
+     "port_name": "Singapore",
+     "lat": 1.30834,
+     "lon": 103.85193,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-18",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-19",
+     "port_id": "laem-chabang-bangkok",
+     "port_name": "Laem Chabang (Bangkok)",
+     "lat": 13.08958,
+     "lon": 100.88516,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-20",
+     "port_id": "koh-samui",
+     "port_name": "Ko Samui",
+     "lat": 9.45982,
+     "lon": 99.98419,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-21",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-22",
+     "port_id": "phu-my",
+     "port_name": "Phu My",
+     "lat": 10.6097,
+     "lon": 107.012,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-23",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-24",
+     "port_id": "chan-may",
+     "port_name": "Chan May",
+     "lat": 16.30681,
+     "lon": 108.01257,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-01-25",
+     "port_id": "hanoi-halong-bay",
+     "port_name": "Hanoi (Ha Long Bay)",
+     "lat": 20.95152,
+     "lon": 107.08311,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2027-01-26",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2027-01-27",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2027-01-28",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Jade",
+   "departure_date": "2027-01-28",
+   "nights": 12,
+   "embark_port": "Hong Kong",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-28",
+     "port_id": "hong-kong",
+     "port_name": "Hong Kong",
+     "lat": 22.31468,
+     "lon": 113.93243,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-29",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-30",
+     "port_id": "coron",
+     "port_name": "Coron",
+     "lat": 11.99905,
+     "lon": 120.20509,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-31",
+     "port_id": "puerto-princesa",
+     "port_name": "Puerto Princesa",
+     "lat": 9.7885,
+     "lon": 118.74877,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-01",
+     "port_id": "kota-kinabalu",
+     "port_name": "Kota Kinabalu",
+     "lat": 5.98139,
+     "lon": 116.07423,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-02",
+     "port_id": "muara",
+     "port_name": "Muara",
+     "lat": 5.0242489,
+     "lon": 115.0704866,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-03",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-04",
+     "port_id": "phu-my",
+     "port_name": "Phu My",
+     "lat": 10.6097,
+     "lon": 107.012,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-02-05",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2027-02-06",
+     "port_id": "laem-chabang-bangkok",
+     "port_name": "Laem Chabang (Bangkok)",
+     "lat": 13.08958,
+     "lon": 100.88516,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2027-02-07",
+     "port_id": "koh-samui",
+     "port_name": "Ko Samui",
+     "lat": 9.45982,
+     "lon": 99.98419,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2027-02-08",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2027-02-09",
+     "port_id": "singapore",
+     "port_name": "Singapore",
+     "lat": 1.30834,
+     "lon": 103.85193,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
   }
  ],
  "virgin-voyages": [],
