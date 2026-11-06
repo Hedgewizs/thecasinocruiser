@@ -8929,185 +8929,6 @@
   {
    "sailing_id": null,
    "ship_name": "Sapphire Princess",
-   "departure_date": "2026-11-06",
-   "nights": 16,
-   "embark_port": "Fort Lauderdale",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-06",
-     "port_id": "fort-lauderdale",
-     "port_name": "Fort Lauderdale",
-     "lat": 26.09,
-     "lon": -80.11,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-07",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-08",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-09",
-     "port_id": "oranjestad",
-     "port_name": "Oranjestad (Aruba)",
-     "lat": 12.52367,
-     "lon": -70.03487,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-10",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 5,
-     "date": "2026-11-11",
-     "port_id": "panama-canal",
-     "port_name": "Panama Canal",
-     "lat": 9.08,
-     "lon": -79.68,
-     "kind": "scenic",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 6,
-     "date": "2026-11-12",
-     "port_id": "fuerte-amador",
-     "port_name": "Fuerte Amador (Panama City)",
-     "lat": 9.09833,
-     "lon": -79.89319,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 7,
-     "date": "2026-11-13",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 8,
-     "date": "2026-11-14",
-     "port_id": "puerto-caldera-puntarenas",
-     "port_name": "Puerto Caldera (Puntarenas)",
-     "lat": 9.93371,
-     "lon": -84.72271,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 9,
-     "date": "2026-11-15",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 10,
-     "date": "2026-11-16",
-     "port_id": "puerto-chiapas",
-     "port_name": "Puerto Chiapas",
-     "lat": 14.70798,
-     "lon": -92.39895,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 11,
-     "date": "2026-11-17",
-     "port_id": "huatulco",
-     "port_name": "Huatulco",
-     "lat": 15.75,
-     "lon": -96.13,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 12,
-     "date": "2026-11-18",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 13,
-     "date": "2026-11-19",
-     "port_id": "puerto-vallarta",
-     "port_name": "Puerto Vallarta",
-     "lat": 20.60841,
-     "lon": -105.23524,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 14,
-     "date": "2026-11-20",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 15,
-     "date": "2026-11-21",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 16,
-     "date": "2026-11-22",
-     "port_id": "los-angeles",
-     "port_name": "Los Angeles",
-     "lat": 33.74364,
-     "lon": -118.26079,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Sapphire Princess",
    "departure_date": "2026-11-22",
    "nights": 19,
    "embark_port": "Los Angeles",
@@ -34419,55 +34240,6 @@
   {
    "sailing_id": null,
    "ship_name": "Oasis of the Seas",
-   "departure_date": "2026-11-06",
-   "nights": 3,
-   "embark_port": "Fort Lauderdale",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-06",
-     "port_id": "fort-lauderdale",
-     "port_name": "Fort Lauderdale",
-     "lat": 26.09,
-     "lon": -80.11,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-07",
-     "port_id": "perfect-day-at-cococay",
-     "port_name": "Perfect Day at CocoCay",
-     "lat": 25.817,
-     "lon": -77.933,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-08",
-     "port_id": "nassau",
-     "port_name": "Nassau",
-     "lat": 25.07895,
-     "lon": -77.341,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-09",
-     "port_id": "fort-lauderdale",
-     "port_name": "Fort Lauderdale",
-     "lat": 26.09,
-     "lon": -80.11,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Oasis of the Seas",
    "departure_date": "2026-11-09",
    "nights": 4,
    "embark_port": "Fort Lauderdale",
@@ -35563,55 +35335,6 @@
   {
    "sailing_id": null,
    "ship_name": "Ovation of the Seas",
-   "departure_date": "2026-11-06",
-   "nights": 3,
-   "embark_port": "Los Angeles",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-06",
-     "port_id": "los-angeles",
-     "port_name": "Los Angeles",
-     "lat": 33.74364,
-     "lon": -118.26079,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-07",
-     "port_id": "ensenada",
-     "port_name": "Ensenada",
-     "lat": 31.86427,
-     "lon": -116.6145,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-08",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-09",
-     "port_id": "los-angeles",
-     "port_name": "Los Angeles",
-     "lat": 33.74364,
-     "lon": -118.26079,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Ovation of the Seas",
    "departure_date": "2026-11-09",
    "nights": 4,
    "embark_port": "Los Angeles",
@@ -35928,55 +35651,6 @@
      "port_name": "Los Angeles",
      "lat": 33.74364,
      "lon": -118.26079,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Quantum of the Seas",
-   "departure_date": "2026-11-06",
-   "nights": 3,
-   "embark_port": "Brisbane",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-06",
-     "port_id": "brisbane",
-     "port_name": "Brisbane",
-     "lat": -27.4693645,
-     "lon": 152.9687926,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-07",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-08",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-09",
-     "port_id": "brisbane",
-     "port_name": "Brisbane",
-     "lat": -27.4693645,
-     "lon": 152.9687926,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -38257,75 +37931,6 @@
   {
    "sailing_id": null,
    "ship_name": "Spectrum of the Seas",
-   "departure_date": "2026-11-06",
-   "nights": 5,
-   "embark_port": "Hong Kong",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-06",
-     "port_id": "hong-kong",
-     "port_name": "Hong Kong",
-     "lat": 22.31468,
-     "lon": 113.93243,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-07",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-08",
-     "port_id": "okinawa",
-     "port_name": "Okinawa",
-     "lat": 26.38043,
-     "lon": 127.7928831,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-09",
-     "port_id": "okinawa",
-     "port_name": "Okinawa",
-     "lat": 26.38043,
-     "lon": 127.7928831,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-10",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 5,
-     "date": "2026-11-11",
-     "port_id": "hong-kong",
-     "port_name": "Hong Kong",
-     "lat": 22.31468,
-     "lon": 113.93243,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Spectrum of the Seas",
    "departure_date": "2026-11-11",
    "nights": 5,
    "embark_port": "Hong Kong",
@@ -40481,55 +40086,6 @@
      "port_name": "Galveston",
      "lat": 29.30693,
      "lon": -94.79952,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Utopia of the Seas",
-   "departure_date": "2026-11-06",
-   "nights": 3,
-   "embark_port": "Port Canaveral",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-06",
-     "port_id": "port-canaveral",
-     "port_name": "Port Canaveral",
-     "lat": 28.405,
-     "lon": -80.61497,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-07",
-     "port_id": "perfect-day-at-cococay",
-     "port_name": "Perfect Day at CocoCay",
-     "lat": 25.817,
-     "lon": -77.933,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-08",
-     "port_id": "nassau",
-     "port_name": "Nassau",
-     "lat": 25.07895,
-     "lon": -77.341,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-09",
-     "port_id": "port-canaveral",
-     "port_name": "Port Canaveral",
-     "lat": 28.405,
-     "lon": -80.61497,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -43154,55 +42710,6 @@
      "port_name": "Los Angeles",
      "lat": 33.74364,
      "lon": -118.26079,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Wonder of the Seas",
-   "departure_date": "2026-11-06",
-   "nights": 3,
-   "embark_port": "Miami",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-06",
-     "port_id": "miami",
-     "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-07",
-     "port_id": "nassau",
-     "port_name": "Nassau",
-     "lat": 25.07895,
-     "lon": -77.341,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-08",
-     "port_id": "perfect-day-at-cococay",
-     "port_name": "Perfect Day at CocoCay",
-     "lat": 25.817,
-     "lon": -77.933,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-09",
-     "port_id": "miami",
-     "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -55810,55 +55317,6 @@
      "port_name": "Singapore",
      "lat": 1.30834,
      "lon": 103.85193,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Celebrity Reflection",
-   "departure_date": "2026-11-06",
-   "nights": 3,
-   "embark_port": "Fort Lauderdale",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-06",
-     "port_id": "fort-lauderdale",
-     "port_name": "Fort Lauderdale",
-     "lat": 26.09,
-     "lon": -80.11,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-07",
-     "port_id": "key-west",
-     "port_name": "Key West",
-     "lat": 24.55536,
-     "lon": -81.7879,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-08",
-     "port_id": "freeport",
-     "port_name": "Freeport",
-     "lat": 26.52015,
-     "lon": -78.77198,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-09",
-     "port_id": "fort-lauderdale",
-     "port_name": "Fort Lauderdale",
-     "lat": 26.09,
-     "lon": -80.11,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -70335,75 +69793,6 @@
   {
    "sailing_id": null,
    "ship_name": "Norwegian Getaway",
-   "departure_date": "2026-11-06",
-   "nights": 5,
-   "embark_port": "Port Canaveral",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-06",
-     "port_id": "port-canaveral",
-     "port_name": "Port Canaveral",
-     "lat": 28.405,
-     "lon": -80.61497,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-07",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-08",
-     "port_id": "puerto-plata",
-     "port_name": "Puerto Plata",
-     "lat": 19.78781,
-     "lon": -70.69455,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-09",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-10",
-     "port_id": "great-stirrup-cay",
-     "port_name": "Great Stirrup Cay",
-     "lat": 25.82353,
-     "lon": -77.90086,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 5,
-     "date": "2026-11-11",
-     "port_id": "port-canaveral",
-     "port_name": "Port Canaveral",
-     "lat": 28.405,
-     "lon": -80.61497,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Norwegian Getaway",
    "departure_date": "2026-11-11",
    "nights": 5,
    "embark_port": "Port Canaveral",
@@ -73803,75 +73192,6 @@
     {
      "day_offset": 5,
      "date": "2027-02-07",
-     "port_id": "miami",
-     "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Norwegian Joy",
-   "departure_date": "2026-11-06",
-   "nights": 5,
-   "embark_port": "Miami",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-06",
-     "port_id": "miami",
-     "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-07",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-08",
-     "port_id": "montego-bay",
-     "port_name": "Montego Bay",
-     "lat": 18.467,
-     "lon": -77.917,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-09",
-     "port_id": "george-town",
-     "port_name": "George Town",
-     "lat": 19.29657,
-     "lon": -81.38175,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-10",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 5,
-     "date": "2026-11-11",
      "port_id": "miami",
      "port_name": "Miami",
      "lat": 25.77188,
@@ -80687,155 +80007,6 @@
   {
    "sailing_id": null,
    "ship_name": "Norwegian Sun",
-   "departure_date": "2026-11-06",
-   "nights": 12,
-   "embark_port": "Miami",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-06",
-     "port_id": "miami",
-     "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-07",
-     "port_id": "great-stirrup-cay",
-     "port_name": "Great Stirrup Cay",
-     "lat": 25.82353,
-     "lon": -77.90086,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-08",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-09",
-     "port_id": "cabo-rojo",
-     "port_name": "Cabo Rojo, Dominican Republic",
-     "lat": 17.90523,
-     "lon": -71.67258,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-10",
-     "port_id": "willemstad",
-     "port_name": "Willemstad, Curacao",
-     "lat": 12.10363,
-     "lon": -68.9327,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 5,
-     "date": "2026-11-11",
-     "port_id": "oranjestad",
-     "port_name": "Oranjestad, Aruba",
-     "lat": 12.52367,
-     "lon": -70.03487,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 6,
-     "date": "2026-11-12",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 7,
-     "date": "2026-11-13",
-     "port_id": "gatun-lake",
-     "port_name": "Gatun Lake",
-     "lat": 9.2,
-     "lon": -79.9,
-     "kind": "scenic",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 7,
-     "date": "2026-11-13",
-     "port_id": "colon",
-     "port_name": "Colon",
-     "lat": 9.3617,
-     "lon": -79.89965,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 8,
-     "date": "2026-11-14",
-     "port_id": "puerto-limon",
-     "port_name": "Puerto Limon",
-     "lat": 9.99095,
-     "lon": -83.02909,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 9,
-     "date": "2026-11-15",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 10,
-     "date": "2026-11-16",
-     "port_id": "george-town",
-     "port_name": "George Town",
-     "lat": 19.29657,
-     "lon": -81.38175,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 11,
-     "date": "2026-11-17",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 12,
-     "date": "2026-11-18",
-     "port_id": "miami",
-     "port_name": "Miami",
-     "lat": 25.77188,
-     "lon": -80.15908,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Norwegian Sun",
    "departure_date": "2026-11-18",
    "nights": 11,
    "embark_port": "Miami",
@@ -85472,9 +84643,3795 @@
      "day_confidence": "exact"
     }
    ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Valiant Lady",
+   "departure_date": "2026-11-07",
+   "nights": 7,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-07",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-08",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-09",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-10",
+     "port_id": "bridgetown",
+     "port_name": "Bridgetown (Barbados)",
+     "lat": 13.112,
+     "lon": -59.61269,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-11",
+     "port_id": "castries",
+     "port_name": "Castries (St. Lucia)",
+     "lat": 14.01177,
+     "lon": -60.98963,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-12",
+     "port_id": "fort-de-france-martinique",
+     "port_name": "Fort-de-France (Martinique)",
+     "lat": 14.60623,
+     "lon": -61.06268,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-13",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-14",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Valiant Lady",
+   "departure_date": "2026-11-14",
+   "nights": 6,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-14",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-15",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-16",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-17",
+     "port_id": "st-johns",
+     "port_name": "St. John's (Antigua)",
+     "lat": 17.11632,
+     "lon": -61.84158,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-18",
+     "port_id": "castries",
+     "port_name": "Castries (St. Lucia)",
+     "lat": 14.01177,
+     "lon": -60.98963,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-19",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-20",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Valiant Lady",
+   "departure_date": "2026-11-20",
+   "nights": 8,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-20",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-21",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie, St Thomas",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-23",
+     "port_id": "willemstad",
+     "port_name": "Willemstad",
+     "lat": 12.10363,
+     "lon": -68.9327,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-24",
+     "port_id": "oranjestad",
+     "port_name": "Oranjestad (Aruba)",
+     "lat": 12.52367,
+     "lon": -70.03487,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-26",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-27",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-28",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Valiant Lady",
+   "departure_date": "2026-11-28",
+   "nights": 7,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-28",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-29",
+     "port_id": "charlotte-amalie",
+     "port_name": "Charlotte Amalie, St Thomas",
+     "lat": 18.33618,
+     "lon": -64.88941,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-01",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-02",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-03",
+     "port_id": "st-johns",
+     "port_name": "St. John's (Antigua)",
+     "lat": 17.11632,
+     "lon": -61.84158,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-04",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-05",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Valiant Lady",
+   "departure_date": "2026-12-05",
+   "nights": 7,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-05",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-06",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-07",
+     "port_id": "oranjestad",
+     "port_name": "Oranjestad (Aruba)",
+     "lat": 12.52367,
+     "lon": -70.03487,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-08",
+     "port_id": "willemstad",
+     "port_name": "Willemstad",
+     "lat": 12.10363,
+     "lon": -68.9327,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-09",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-10",
+     "port_id": "fort-de-france-martinique",
+     "port_name": "Fort-de-France (Martinique)",
+     "lat": 14.60623,
+     "lon": -61.06268,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-11",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-12",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Valiant Lady",
+   "departure_date": "2026-12-12",
+   "nights": 7,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-12",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-13",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-14",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-15",
+     "port_id": "bridgetown",
+     "port_name": "Bridgetown (Barbados)",
+     "lat": 13.112,
+     "lon": -59.61269,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-16",
+     "port_id": "castries",
+     "port_name": "Castries (St. Lucia)",
+     "lat": 14.01177,
+     "lon": -60.98963,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-17",
+     "port_id": "fort-de-france-martinique",
+     "port_name": "Fort-de-France (Martinique)",
+     "lat": 14.60623,
+     "lon": -61.06268,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-18",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-19",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Valiant Lady",
+   "departure_date": "2026-12-19",
+   "nights": 7,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-19",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-20",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-21",
+     "port_id": "fort-de-france-martinique",
+     "port_name": "Fort-de-France (Martinique)",
+     "lat": 14.60623,
+     "lon": -61.06268,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-23",
+     "port_id": "oranjestad",
+     "port_name": "Oranjestad (Aruba)",
+     "lat": 12.52367,
+     "lon": -70.03487,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-24",
+     "port_id": "willemstad",
+     "port_name": "Willemstad",
+     "lat": 12.10363,
+     "lon": -68.9327,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-26",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Valiant Lady",
+   "departure_date": "2026-12-26",
+   "nights": 7,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-26",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-27",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-28",
+     "port_id": "fort-de-france-martinique",
+     "port_name": "Fort-de-France (Martinique)",
+     "lat": 14.60623,
+     "lon": -61.06268,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-29",
+     "port_id": "bridgetown",
+     "port_name": "Bridgetown (Barbados)",
+     "lat": 13.112,
+     "lon": -59.61269,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-30",
+     "port_id": "castries",
+     "port_name": "Castries (St. Lucia)",
+     "lat": 14.01177,
+     "lon": -60.98963,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-31",
+     "port_id": "st-johns",
+     "port_name": "St. John's (Antigua)",
+     "lat": 17.11632,
+     "lon": -61.84158,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-01",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-02",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Valiant Lady",
+   "departure_date": "2027-01-02",
+   "nights": 7,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-02",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-03",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-04",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-05",
+     "port_id": "bridgetown",
+     "port_name": "Bridgetown (Barbados)",
+     "lat": 13.112,
+     "lon": -59.61269,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-06",
+     "port_id": "castries",
+     "port_name": "Castries (St. Lucia)",
+     "lat": 14.01177,
+     "lon": -60.98963,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-07",
+     "port_id": "st-johns",
+     "port_name": "St. John's (Antigua)",
+     "lat": 17.11632,
+     "lon": -61.84158,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-08",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-09",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Valiant Lady",
+   "departure_date": "2027-01-09",
+   "nights": 7,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-09",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-10",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-11",
+     "port_id": "oranjestad",
+     "port_name": "Oranjestad (Aruba)",
+     "lat": 12.52367,
+     "lon": -70.03487,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-12",
+     "port_id": "willemstad",
+     "port_name": "Willemstad",
+     "lat": 12.10363,
+     "lon": -68.9327,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-13",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-14",
+     "port_id": "fort-de-france-martinique",
+     "port_name": "Fort-de-France (Martinique)",
+     "lat": 14.60623,
+     "lon": -61.06268,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-15",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-16",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Valiant Lady",
+   "departure_date": "2027-01-16",
+   "nights": 7,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-16",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-17",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-18",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-19",
+     "port_id": "bridgetown",
+     "port_name": "Bridgetown (Barbados)",
+     "lat": 13.112,
+     "lon": -59.61269,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-20",
+     "port_id": "castries",
+     "port_name": "Castries (St. Lucia)",
+     "lat": 14.01177,
+     "lon": -60.98963,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-21",
+     "port_id": "fort-de-france-martinique",
+     "port_name": "Fort-de-France (Martinique)",
+     "lat": 14.60623,
+     "lon": -61.06268,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-22",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-23",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Valiant Lady",
+   "departure_date": "2027-01-23",
+   "nights": 6,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-23",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-24",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-25",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-26",
+     "port_id": "st-johns",
+     "port_name": "St. John's (Antigua)",
+     "lat": 17.11632,
+     "lon": -61.84158,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-27",
+     "port_id": "castries",
+     "port_name": "Castries (St. Lucia)",
+     "lat": 14.01177,
+     "lon": -60.98963,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-29",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Valiant Lady",
+   "departure_date": "2027-01-29",
+   "nights": 8,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-29",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-31",
+     "port_id": "oranjestad",
+     "port_name": "Oranjestad (Aruba)",
+     "lat": 12.52367,
+     "lon": -70.03487,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-01",
+     "port_id": "willemstad",
+     "port_name": "Willemstad",
+     "lat": 12.10363,
+     "lon": -68.9327,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-02",
+     "port_id": "kralendijk",
+     "port_name": "Kralendijk",
+     "lat": 12.14998,
+     "lon": -68.27618,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-04",
+     "port_id": "fort-de-france-martinique",
+     "port_name": "Fort-de-France (Martinique)",
+     "lat": 14.60623,
+     "lon": -61.06268,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-05",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-02-06",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Valiant Lady",
+   "departure_date": "2027-02-06",
+   "nights": 7,
+   "embark_port": "San Juan",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-06",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-08",
+     "port_id": "oranjestad",
+     "port_name": "Oranjestad (Aruba)",
+     "lat": 12.52367,
+     "lon": -70.03487,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-09",
+     "port_id": "willemstad",
+     "port_name": "Willemstad",
+     "lat": 12.10363,
+     "lon": -68.9327,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-10",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-11",
+     "port_id": "st-johns",
+     "port_name": "St. John's (Antigua)",
+     "lat": 17.11632,
+     "lon": -61.84158,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-12",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-13",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
   }
  ],
- "msc-cruises": [],
+ "msc-cruises": [
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Armonia",
+   "departure_date": "2026-11-27",
+   "nights": 3,
+   "embark_port": "Durban",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-27",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-28",
+     "port_id": "portuguese-island",
+     "port_name": "Portuguese Island, Mozambique",
+     "lat": -25.97528,
+     "lon": 32.91056,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-30",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Armonia",
+   "departure_date": "2026-11-30",
+   "nights": 4,
+   "embark_port": "Durban",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-30",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-01",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-02",
+     "port_id": "pomene",
+     "port_name": "Pomene, Mozambique",
+     "lat": -22.9099,
+     "lon": 35.5741,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-04",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Armonia",
+   "departure_date": "2026-12-07",
+   "nights": 4,
+   "embark_port": "Durban",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-07",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-08",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-09",
+     "port_id": "pomene",
+     "port_name": "Pomene, Mozambique",
+     "lat": -22.9099,
+     "lon": 35.5741,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-10",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-11",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Armonia",
+   "departure_date": "2026-12-11",
+   "nights": 3,
+   "embark_port": "Durban",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-11",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-12",
+     "port_id": "portuguese-island",
+     "port_name": "Portuguese Island, Mozambique",
+     "lat": -25.97528,
+     "lon": 32.91056,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-13",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-14",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Armonia",
+   "departure_date": "2026-12-14",
+   "nights": 4,
+   "embark_port": "Durban",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-14",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-16",
+     "port_id": "pomene",
+     "port_name": "Pomene, Mozambique",
+     "lat": -22.9099,
+     "lon": 35.5741,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-18",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Armonia",
+   "departure_date": "2026-12-18",
+   "nights": 3,
+   "embark_port": "Durban",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-18",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-19",
+     "port_id": "portuguese-island",
+     "port_name": "Portuguese Island, Mozambique",
+     "lat": -25.97528,
+     "lon": 32.91056,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-20",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-21",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Armonia",
+   "departure_date": "2026-12-21",
+   "nights": 5,
+   "embark_port": "Durban",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-21",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-23",
+     "port_id": "pomene",
+     "port_name": "Pomene, Mozambique",
+     "lat": -22.9099,
+     "lon": 35.5741,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-24",
+     "port_id": "portuguese-island",
+     "port_name": "Portuguese Island, Mozambique",
+     "lat": -25.97528,
+     "lon": 32.91056,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-26",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Armonia",
+   "departure_date": "2026-12-26",
+   "nights": 12,
+   "embark_port": "Durban",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-26",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-30",
+     "port_id": "port-louis",
+     "port_name": "Port Louis, Mauritius",
+     "lat": -20.16151,
+     "lon": 57.49845,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-31",
+     "port_id": "port-louis",
+     "port_name": "Port Louis, Mauritius",
+     "lat": -20.16151,
+     "lon": 57.49845,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-01",
+     "port_id": "port-louis",
+     "port_name": "Port Louis, Mauritius",
+     "lat": -20.16151,
+     "lon": 57.49845,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-02",
+     "port_id": "la-possession",
+     "port_name": "La Possession, R\u00e9union",
+     "lat": -20.9316,
+     "lon": 55.33542,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-01-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2027-01-04",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2027-01-05",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2027-01-06",
+     "port_id": "portuguese-island",
+     "port_name": "Portuguese Island, Mozambique",
+     "lat": -25.97528,
+     "lon": 32.91056,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2027-01-07",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Armonia",
+   "departure_date": "2027-01-11",
+   "nights": 4,
+   "embark_port": "Durban",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-11",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-13",
+     "port_id": "pomene",
+     "port_name": "Pomene, Mozambique",
+     "lat": -22.9099,
+     "lon": 35.5741,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-14",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-15",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Armonia",
+   "departure_date": "2027-01-15",
+   "nights": 3,
+   "embark_port": "Durban",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-15",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-16",
+     "port_id": "portuguese-island",
+     "port_name": "Portuguese Island, Mozambique",
+     "lat": -25.97528,
+     "lon": 32.91056,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-18",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Armonia",
+   "departure_date": "2027-01-18",
+   "nights": 4,
+   "embark_port": "Durban",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-18",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-20",
+     "port_id": "pomene",
+     "port_name": "Pomene, Mozambique",
+     "lat": -22.9099,
+     "lon": 35.5741,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-22",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Armonia",
+   "departure_date": "2027-01-22",
+   "nights": 3,
+   "embark_port": "Durban",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-22",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-23",
+     "port_id": "portuguese-island",
+     "port_name": "Portuguese Island, Mozambique",
+     "lat": -25.97528,
+     "lon": 32.91056,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-25",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Armonia",
+   "departure_date": "2027-01-25",
+   "nights": 4,
+   "embark_port": "Durban",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-25",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-26",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-27",
+     "port_id": "pomene",
+     "port_name": "Pomene, Mozambique",
+     "lat": -22.9099,
+     "lon": 35.5741,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-29",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Armonia",
+   "departure_date": "2027-02-01",
+   "nights": 4,
+   "embark_port": "Durban",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-01",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-02",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-03",
+     "port_id": "pomene",
+     "port_name": "Pomene, Mozambique",
+     "lat": -22.9099,
+     "lon": 35.5741,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-04",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-05",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Armonia",
+   "departure_date": "2027-02-05",
+   "nights": 3,
+   "embark_port": "Durban",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-05",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-06",
+     "port_id": "portuguese-island",
+     "port_name": "Portuguese Island, Mozambique",
+     "lat": -25.97528,
+     "lon": 32.91056,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-08",
+     "port_id": "durban",
+     "port_name": "Durban, South Africa",
+     "lat": -29.86529,
+     "lon": 31.03529,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-11-12",
+   "nights": 9,
+   "embark_port": "Yokohama (Tokyo)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-12",
+     "port_id": "yokohama",
+     "port_name": "Yokohama (Tokyo)",
+     "lat": 35.450167,
+     "lon": 139.646243,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-13",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-14",
+     "port_id": "kagoshima",
+     "port_name": "Kagoshima",
+     "lat": 31.6067328,
+     "lon": 130.7089814,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-15",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-16",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-18",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-19",
+     "port_id": "sasebo",
+     "port_name": "Sasebo",
+     "lat": 33.1562,
+     "lon": 129.7138,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-20",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-11-21",
+     "port_id": "yokohama",
+     "port_name": "Yokohama (Tokyo)",
+     "lat": 35.450167,
+     "lon": 139.646243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-11-21",
+   "nights": 4,
+   "embark_port": "Yokohama (Tokyo)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-21",
+     "port_id": "yokohama",
+     "port_name": "Yokohama (Tokyo)",
+     "lat": 35.450167,
+     "lon": 139.646243,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-23",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-24",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-25",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-11-25",
+   "nights": 4,
+   "embark_port": "Keelung (Taipei)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-25",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-26",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-27",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-28",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-29",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-11-27",
+   "nights": 5,
+   "embark_port": "Naha (Okinawa)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-27",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-28",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-29",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-01",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-02",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-11-29",
+   "nights": 5,
+   "embark_port": "Keelung (Taipei)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-29",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-01",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-02",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-03",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-04",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-12-02",
+   "nights": 4,
+   "embark_port": "Naha (Okinawa)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-02",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-03",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-04",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-05",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-06",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-12-04",
+   "nights": 4,
+   "embark_port": "Keelung (Taipei)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-04",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-05",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-06",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-07",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-08",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-12-06",
+   "nights": 4,
+   "embark_port": "Naha (Okinawa)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-06",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-07",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-08",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-09",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-10",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-12-08",
+   "nights": 4,
+   "embark_port": "Keelung (Taipei)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-08",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-09",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-10",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-11",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-12",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-12-10",
+   "nights": 4,
+   "embark_port": "Naha (Okinawa)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-10",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-11",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-12",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-13",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-14",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-12-12",
+   "nights": 4,
+   "embark_port": "Keelung (Taipei)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-12",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-13",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-14",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-15",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-16",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-12-14",
+   "nights": 4,
+   "embark_port": "Naha (Okinawa)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-14",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-15",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-16",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-17",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-18",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-12-16",
+   "nights": 4,
+   "embark_port": "Keelung (Taipei)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-16",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-17",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-18",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-19",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-20",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-12-18",
+   "nights": 4,
+   "embark_port": "Naha (Okinawa)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-18",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-19",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-20",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-21",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-22",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-12-20",
+   "nights": 4,
+   "embark_port": "Keelung (Taipei)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-20",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-21",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-22",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-23",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-24",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-12-22",
+   "nights": 4,
+   "embark_port": "Naha (Okinawa)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-22",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-23",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-24",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-25",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-26",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-12-24",
+   "nights": 4,
+   "embark_port": "Keelung (Taipei)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-24",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-25",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-26",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-27",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-28",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-12-26",
+   "nights": 4,
+   "embark_port": "Naha (Okinawa)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-26",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-27",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-28",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-29",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-30",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-12-28",
+   "nights": 4,
+   "embark_port": "Keelung (Taipei)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-28",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-29",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-30",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-31",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-01",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2026-12-30",
+   "nights": 4,
+   "embark_port": "Naha (Okinawa)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-30",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-31",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-01",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-02",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-03",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2027-01-01",
+   "nights": 4,
+   "embark_port": "Keelung (Taipei)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-01",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-02",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-03",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-04",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-05",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2027-01-03",
+   "nights": 4,
+   "embark_port": "Naha (Okinawa)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-03",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-04",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-05",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-06",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-07",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2027-01-05",
+   "nights": 4,
+   "embark_port": "Keelung (Taipei)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-05",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-06",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-07",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-08",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-09",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2027-01-07",
+   "nights": 4,
+   "embark_port": "Naha (Okinawa)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-07",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-08",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-09",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-10",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-11",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2027-01-09",
+   "nights": 4,
+   "embark_port": "Keelung (Taipei)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-09",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-10",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-11",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-12",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-13",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Bellissima",
+   "departure_date": "2027-01-11",
+   "nights": 6,
+   "embark_port": "Naha (Okinawa)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-11",
+     "port_id": "okinawa",
+     "port_name": "Okinawa",
+     "lat": 26.38043,
+     "lon": 127.7928831,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-12",
+     "port_id": "ishigaki-island",
+     "port_name": "Ishigaki Island",
+     "lat": 24.34,
+     "lon": 124.16,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-13",
+     "port_id": "keelung-taipei",
+     "port_name": "Keelung (Taipei)",
+     "lat": 25.13162,
+     "lon": 121.74479,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-14",
+     "port_id": "miyakojima",
+     "port_name": "Miyakojima",
+     "lat": 24.7961442,
+     "lon": 125.2750825,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-16",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-17",
+     "port_id": "yokohama",
+     "port_name": "Yokohama (Tokyo)",
+     "lat": 35.450167,
+     "lon": 139.646243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  }
+ ],
  "holland-america-line": [],
  "disney-cruise-line": []
 }
