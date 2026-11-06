@@ -47390,6 +47390,125 @@
    ]
   },
   {
+   "departure_date": "2028-11-11",
+   "embark_port": "Vilshofen",
+   "itinerary": [
+    {
+     "date": "2028-11-11",
+     "day_confidence": "exact",
+     "day_offset": 0,
+     "kind": "embark",
+     "lat": 48.63096,
+     "lon": 13.18961,
+     "port_id": "vilshofen",
+     "port_name": "Vilshofen"
+    },
+    {
+     "date": "2028-11-12",
+     "day_confidence": "exact",
+     "day_offset": 1,
+     "kind": "call",
+     "lat": 48.30422,
+     "lon": 14.28816,
+     "port_id": "linz",
+     "port_name": "Linz"
+    },
+    {
+     "date": "2028-11-13",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 48.22765,
+     "lon": 14.85468,
+     "port_id": "grein",
+     "port_name": "Grein"
+    },
+    {
+     "date": "2028-11-13",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "scenic",
+     "lat": null,
+     "lon": null,
+     "port_id": "wachau-valley",
+     "port_name": "Wachau Valley"
+    },
+    {
+     "date": "2028-11-13",
+     "day_confidence": "exact",
+     "day_offset": 2,
+     "kind": "call",
+     "lat": 48.39396,
+     "lon": 15.52392,
+     "port_id": "durnstein",
+     "port_name": "D\u00fcrnstein"
+    },
+    {
+     "date": "2028-11-14",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": 48.33073,
+     "lon": 16.05002,
+     "port_id": "tulln",
+     "port_name": "Tulln"
+    },
+    {
+     "date": "2028-11-14",
+     "day_confidence": "exact",
+     "day_offset": 3,
+     "kind": "call",
+     "lat": 48.24356,
+     "lon": 16.38416,
+     "port_id": "vienna",
+     "port_name": "Vienna"
+    },
+    {
+     "date": "2028-11-15",
+     "day_confidence": "exact",
+     "day_offset": 4,
+     "kind": "call",
+     "lat": 48.24356,
+     "lon": 16.38416,
+     "port_id": "vienna",
+     "port_name": "Vienna"
+    },
+    {
+     "date": "2028-11-16",
+     "day_confidence": "exact",
+     "day_offset": 5,
+     "kind": "call",
+     "lat": 47.73282,
+     "lon": 17.83004,
+     "port_id": "gonyu",
+     "port_name": "G\u00f6ny\u0171"
+    },
+    {
+     "date": "2028-11-17",
+     "day_confidence": "exact",
+     "day_offset": 6,
+     "kind": "call",
+     "lat": 47.49972,
+     "lon": 19.05508,
+     "port_id": "budapest",
+     "port_name": "Budapest"
+    },
+    {
+     "date": "2028-11-18",
+     "day_confidence": "exact",
+     "day_offset": 7,
+     "kind": "disembark",
+     "lat": 47.49972,
+     "lon": 19.05508,
+     "port_id": "budapest",
+     "port_name": "Budapest"
+    }
+   ],
+   "nights": 7,
+   "sailing_id": null,
+   "ship_name": "Celebrity Boundless"
+  },
+  {
    "sailing_id": null,
    "ship_name": "Celebrity Constellation",
    "departure_date": "2026-11-17",
