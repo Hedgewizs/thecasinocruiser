@@ -81145,6 +81145,2638 @@
      "day_confidence": "exact"
     }
    ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Viva",
+   "departure_date": "2026-11-07",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-07",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-08",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-09",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-10",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-11",
+     "port_id": "harvest-caye",
+     "port_name": "Harvest Caye",
+     "lat": 16.4735,
+     "lon": -88.4052,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-12",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-13",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-14",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Viva",
+   "departure_date": "2026-11-14",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-14",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-16",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-17",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-18",
+     "port_id": "harvest-caye",
+     "port_name": "Harvest Caye",
+     "lat": 16.4735,
+     "lon": -88.4052,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-19",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-20",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-21",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Viva",
+   "departure_date": "2026-11-21",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-21",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-23",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-24",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-25",
+     "port_id": "harvest-caye",
+     "port_name": "Harvest Caye",
+     "lat": 16.4735,
+     "lon": -88.4052,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-26",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-28",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Viva",
+   "departure_date": "2026-11-28",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-28",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-30",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-01",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-02",
+     "port_id": "harvest-caye",
+     "port_name": "Harvest Caye",
+     "lat": 16.4735,
+     "lon": -88.4052,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-03",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-04",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-05",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Viva",
+   "departure_date": "2026-12-05",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-05",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-06",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-07",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-08",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-09",
+     "port_id": "harvest-caye",
+     "port_name": "Harvest Caye",
+     "lat": 16.4735,
+     "lon": -88.4052,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-10",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-11",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-12",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Viva",
+   "departure_date": "2026-12-12",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-12",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-13",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-14",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-15",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-16",
+     "port_id": "harvest-caye",
+     "port_name": "Harvest Caye",
+     "lat": 16.4735,
+     "lon": -88.4052,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-17",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-18",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-19",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Viva",
+   "departure_date": "2026-12-19",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-19",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-20",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-21",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-22",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-23",
+     "port_id": "harvest-caye",
+     "port_name": "Harvest Caye",
+     "lat": 16.4735,
+     "lon": -88.4052,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-24",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-26",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Viva",
+   "departure_date": "2026-12-26",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-26",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-28",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-29",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-30",
+     "port_id": "harvest-caye",
+     "port_name": "Harvest Caye",
+     "lat": 16.4735,
+     "lon": -88.4052,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-31",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-01",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-02",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Viva",
+   "departure_date": "2027-01-02",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-02",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-04",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-05",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-06",
+     "port_id": "harvest-caye",
+     "port_name": "Harvest Caye",
+     "lat": 16.4735,
+     "lon": -88.4052,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-07",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-08",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-09",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Viva",
+   "departure_date": "2027-01-09",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-09",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-10",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-11",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-12",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-13",
+     "port_id": "harvest-caye",
+     "port_name": "Harvest Caye",
+     "lat": 16.4735,
+     "lon": -88.4052,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-14",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-16",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Viva",
+   "departure_date": "2027-01-16",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-16",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-18",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-19",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-20",
+     "port_id": "harvest-caye",
+     "port_name": "Harvest Caye",
+     "lat": 16.4735,
+     "lon": -88.4052,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-21",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-23",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Viva",
+   "departure_date": "2027-01-23",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-23",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-25",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-26",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-27",
+     "port_id": "harvest-caye",
+     "port_name": "Harvest Caye",
+     "lat": 16.4735,
+     "lon": -88.4052,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-28",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-30",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Viva",
+   "departure_date": "2027-01-30",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-30",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-31",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-01",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-02",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-03",
+     "port_id": "harvest-caye",
+     "port_name": "Harvest Caye",
+     "lat": 16.4735,
+     "lon": -88.4052,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-04",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-05",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-06",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Norwegian Viva",
+   "departure_date": "2027-02-06",
+   "nights": 7,
+   "embark_port": "Galveston",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-06",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-08",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-09",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-10",
+     "port_id": "harvest-caye",
+     "port_name": "Harvest Caye",
+     "lat": 16.4735,
+     "lon": -88.4052,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-11",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-13",
+     "port_id": "galveston",
+     "port_name": "Galveston",
+     "lat": 29.30693,
+     "lon": -94.79952,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Pride of America",
+   "departure_date": "2026-11-07",
+   "nights": 7,
+   "embark_port": "Honolulu",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-07",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-08",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-09",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-10",
+     "port_id": "hilo",
+     "port_name": "Hilo",
+     "lat": 19.71924,
+     "lon": -155.08185,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-11",
+     "port_id": "kailua-kona",
+     "port_name": "Kailua-Kona, Hawai'i",
+     "lat": 19.64014,
+     "lon": -155.99657,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-12",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-13",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-13",
+     "port_id": "napali-coast",
+     "port_name": "Napali Coast",
+     "lat": 22.14758,
+     "lon": -159.63206,
+     "kind": "scenic",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-14",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Pride of America",
+   "departure_date": "2026-11-14",
+   "nights": 7,
+   "embark_port": "Honolulu",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-14",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-15",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-16",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-17",
+     "port_id": "hilo",
+     "port_name": "Hilo",
+     "lat": 19.71924,
+     "lon": -155.08185,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-18",
+     "port_id": "kailua-kona",
+     "port_name": "Kailua-Kona, Hawai'i",
+     "lat": 19.64014,
+     "lon": -155.99657,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-19",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-20",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-20",
+     "port_id": "napali-coast",
+     "port_name": "Napali Coast",
+     "lat": 22.14758,
+     "lon": -159.63206,
+     "kind": "scenic",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-21",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Pride of America",
+   "departure_date": "2026-11-21",
+   "nights": 7,
+   "embark_port": "Honolulu",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-21",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-22",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-23",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-24",
+     "port_id": "hilo",
+     "port_name": "Hilo",
+     "lat": 19.71924,
+     "lon": -155.08185,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-25",
+     "port_id": "kailua-kona",
+     "port_name": "Kailua-Kona, Hawai'i",
+     "lat": 19.64014,
+     "lon": -155.99657,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-26",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-27",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-27",
+     "port_id": "napali-coast",
+     "port_name": "Napali Coast",
+     "lat": 22.14758,
+     "lon": -159.63206,
+     "kind": "scenic",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-28",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Pride of America",
+   "departure_date": "2026-11-28",
+   "nights": 7,
+   "embark_port": "Honolulu",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-28",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-29",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-30",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-01",
+     "port_id": "hilo",
+     "port_name": "Hilo",
+     "lat": 19.71924,
+     "lon": -155.08185,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-02",
+     "port_id": "kailua-kona",
+     "port_name": "Kailua-Kona, Hawai'i",
+     "lat": 19.64014,
+     "lon": -155.99657,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-03",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-04",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-04",
+     "port_id": "napali-coast",
+     "port_name": "Napali Coast",
+     "lat": 22.14758,
+     "lon": -159.63206,
+     "kind": "scenic",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-05",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Pride of America",
+   "departure_date": "2026-12-05",
+   "nights": 7,
+   "embark_port": "Honolulu",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-05",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-06",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-07",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-08",
+     "port_id": "hilo",
+     "port_name": "Hilo",
+     "lat": 19.71924,
+     "lon": -155.08185,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-09",
+     "port_id": "kailua-kona",
+     "port_name": "Kailua-Kona, Hawai'i",
+     "lat": 19.64014,
+     "lon": -155.99657,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-10",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-11",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-11",
+     "port_id": "napali-coast",
+     "port_name": "Napali Coast",
+     "lat": 22.14758,
+     "lon": -159.63206,
+     "kind": "scenic",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-12",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Pride of America",
+   "departure_date": "2026-12-12",
+   "nights": 7,
+   "embark_port": "Honolulu",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-12",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-13",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-14",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-15",
+     "port_id": "hilo",
+     "port_name": "Hilo",
+     "lat": 19.71924,
+     "lon": -155.08185,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-16",
+     "port_id": "kailua-kona",
+     "port_name": "Kailua-Kona, Hawai'i",
+     "lat": 19.64014,
+     "lon": -155.99657,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-17",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-18",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-18",
+     "port_id": "napali-coast",
+     "port_name": "Napali Coast",
+     "lat": 22.14758,
+     "lon": -159.63206,
+     "kind": "scenic",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-19",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Pride of America",
+   "departure_date": "2026-12-19",
+   "nights": 7,
+   "embark_port": "Honolulu",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-19",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-20",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-21",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-22",
+     "port_id": "hilo",
+     "port_name": "Hilo",
+     "lat": 19.71924,
+     "lon": -155.08185,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-23",
+     "port_id": "kailua-kona",
+     "port_name": "Kailua-Kona, Hawai'i",
+     "lat": 19.64014,
+     "lon": -155.99657,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-24",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-25",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-25",
+     "port_id": "napali-coast",
+     "port_name": "Napali Coast",
+     "lat": 22.14758,
+     "lon": -159.63206,
+     "kind": "scenic",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-26",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Pride of America",
+   "departure_date": "2026-12-26",
+   "nights": 7,
+   "embark_port": "Honolulu",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-26",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-27",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-28",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-29",
+     "port_id": "hilo",
+     "port_name": "Hilo",
+     "lat": 19.71924,
+     "lon": -155.08185,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-30",
+     "port_id": "kailua-kona",
+     "port_name": "Kailua-Kona, Hawai'i",
+     "lat": 19.64014,
+     "lon": -155.99657,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-31",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-01",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-01",
+     "port_id": "napali-coast",
+     "port_name": "Napali Coast",
+     "lat": 22.14758,
+     "lon": -159.63206,
+     "kind": "scenic",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-02",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Pride of America",
+   "departure_date": "2027-01-02",
+   "nights": 7,
+   "embark_port": "Honolulu",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-02",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-03",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-04",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-05",
+     "port_id": "hilo",
+     "port_name": "Hilo",
+     "lat": 19.71924,
+     "lon": -155.08185,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-06",
+     "port_id": "kailua-kona",
+     "port_name": "Kailua-Kona, Hawai'i",
+     "lat": 19.64014,
+     "lon": -155.99657,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-07",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-08",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-08",
+     "port_id": "napali-coast",
+     "port_name": "Napali Coast",
+     "lat": 22.14758,
+     "lon": -159.63206,
+     "kind": "scenic",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-09",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Pride of America",
+   "departure_date": "2027-01-09",
+   "nights": 7,
+   "embark_port": "Honolulu",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-09",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-10",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-11",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-12",
+     "port_id": "hilo",
+     "port_name": "Hilo",
+     "lat": 19.71924,
+     "lon": -155.08185,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-13",
+     "port_id": "kailua-kona",
+     "port_name": "Kailua-Kona, Hawai'i",
+     "lat": 19.64014,
+     "lon": -155.99657,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-14",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-15",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-15",
+     "port_id": "napali-coast",
+     "port_name": "Napali Coast",
+     "lat": 22.14758,
+     "lon": -159.63206,
+     "kind": "scenic",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-16",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Pride of America",
+   "departure_date": "2027-01-16",
+   "nights": 7,
+   "embark_port": "Honolulu",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-16",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-17",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-18",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-19",
+     "port_id": "hilo",
+     "port_name": "Hilo",
+     "lat": 19.71924,
+     "lon": -155.08185,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-20",
+     "port_id": "kailua-kona",
+     "port_name": "Kailua-Kona, Hawai'i",
+     "lat": 19.64014,
+     "lon": -155.99657,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-21",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-22",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-22",
+     "port_id": "napali-coast",
+     "port_name": "Napali Coast",
+     "lat": 22.14758,
+     "lon": -159.63206,
+     "kind": "scenic",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-23",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Pride of America",
+   "departure_date": "2027-01-23",
+   "nights": 7,
+   "embark_port": "Honolulu",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-23",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-24",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-25",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-26",
+     "port_id": "hilo",
+     "port_name": "Hilo",
+     "lat": 19.71924,
+     "lon": -155.08185,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-27",
+     "port_id": "kailua-kona",
+     "port_name": "Kailua-Kona, Hawai'i",
+     "lat": 19.64014,
+     "lon": -155.99657,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-28",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-29",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-29",
+     "port_id": "napali-coast",
+     "port_name": "Napali Coast",
+     "lat": 22.14758,
+     "lon": -159.63206,
+     "kind": "scenic",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-30",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Pride of America",
+   "departure_date": "2027-01-30",
+   "nights": 7,
+   "embark_port": "Honolulu",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-30",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-31",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-01",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-02",
+     "port_id": "hilo",
+     "port_name": "Hilo",
+     "lat": 19.71924,
+     "lon": -155.08185,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-03",
+     "port_id": "kailua-kona",
+     "port_name": "Kailua-Kona, Hawai'i",
+     "lat": 19.64014,
+     "lon": -155.99657,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-04",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-05",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-05",
+     "port_id": "napali-coast",
+     "port_name": "Napali Coast",
+     "lat": 22.14758,
+     "lon": -159.63206,
+     "kind": "scenic",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-06",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "Pride of America",
+   "departure_date": "2027-02-06",
+   "nights": 7,
+   "embark_port": "Honolulu",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-06",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-07",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-08",
+     "port_id": "kahului",
+     "port_name": "Kahului",
+     "lat": 20.89096,
+     "lon": -156.46724,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-09",
+     "port_id": "hilo",
+     "port_name": "Hilo",
+     "lat": 19.71924,
+     "lon": -155.08185,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-10",
+     "port_id": "kailua-kona",
+     "port_name": "Kailua-Kona, Hawai'i",
+     "lat": 19.64014,
+     "lon": -155.99657,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-11",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-12",
+     "port_id": "nawiliwili",
+     "port_name": "Nawiliwili",
+     "lat": 21.96561,
+     "lon": -159.35633,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-12",
+     "port_id": "napali-coast",
+     "port_name": "Napali Coast",
+     "lat": 22.14758,
+     "lon": -159.63206,
+     "kind": "scenic",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-13",
+     "port_id": "honolulu",
+     "port_name": "Honolulu",
+     "lat": 21.30554,
+     "lon": -157.86404,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
   }
  ],
  "virgin-voyages": [
@@ -88426,6 +91058,703 @@
      "port_name": "Yokohama (Tokyo)",
      "lat": 35.450167,
      "lon": 139.646243,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Divina",
+   "departure_date": "2026-11-12",
+   "nights": 4,
+   "embark_port": "Salvador de Bahia",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-12",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-13",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-14",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-15",
+     "port_id": "rio-de-janeiro-brazil",
+     "port_name": "Rio de Janeiro, Brazil",
+     "lat": -22.87921,
+     "lon": -43.2541,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-16",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Divina",
+   "departure_date": "2026-11-29",
+   "nights": 4,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-29",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-30",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-01",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-02",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-03",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Divina",
+   "departure_date": "2026-12-15",
+   "nights": 3,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-15",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-16",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-17",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-18",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Divina",
+   "departure_date": "2026-12-18",
+   "nights": 3,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-18",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-19",
+     "port_id": "angra-dos-reis",
+     "port_name": "Angra dos Reis",
+     "lat": -23.00554,
+     "lon": -44.3118,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-20",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-21",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Divina",
+   "departure_date": "2026-12-21",
+   "nights": 5,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-21",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-22",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-23",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-25",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-26",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Divina",
+   "departure_date": "2026-12-26",
+   "nights": 3,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-26",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-28",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-29",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Divina",
+   "departure_date": "2027-01-02",
+   "nights": 3,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-02",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-04",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-05",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Divina",
+   "departure_date": "2027-01-23",
+   "nights": 3,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-23",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-25",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-26",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Divina",
+   "departure_date": "2027-01-26",
+   "nights": 3,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-26",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-28",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-29",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Divina",
+   "departure_date": "2027-01-29",
+   "nights": 3,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-29",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-30",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-31",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-01",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Divina",
+   "departure_date": "2027-02-01",
+   "nights": 4,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-01",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-02",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-03",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-04",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-05",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Divina",
+   "departure_date": "2027-02-05",
+   "nights": 4,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-05",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-06",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-08",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-09",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Divina",
+   "departure_date": "2027-02-09",
+   "nights": 3,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-09",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-10",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-11",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-12",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
      "kind": "disembark",
      "day_confidence": "exact"
     }
