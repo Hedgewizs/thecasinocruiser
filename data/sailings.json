@@ -98023,6 +98023,5342 @@
      "day_confidence": "exact"
     }
    ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2026-11-16",
+   "nights": 4,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-16",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-18",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-19",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-20",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2026-11-20",
+   "nights": 3,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-20",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-22",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-23",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2026-11-23",
+   "nights": 3,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-23",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-25",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-26",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2026-11-26",
+   "nights": 4,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-26",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-28",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-29",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-30",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2026-11-30",
+   "nights": 3,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-30",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-01",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-02",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-03",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2026-12-03",
+   "nights": 3,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-03",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-04",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-05",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-06",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2026-12-06",
+   "nights": 4,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-06",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-08",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-09",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-10",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2026-12-10",
+   "nights": 3,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-10",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-11",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-13",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2026-12-13",
+   "nights": 4,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-13",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-14",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-16",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-17",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2026-12-17",
+   "nights": 3,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-17",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-18",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-19",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-20",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2026-12-20",
+   "nights": 7,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-20",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-21",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-22",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-23",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-24",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-26",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-27",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2026-12-22",
+   "nights": 7,
+   "embark_port": "Rio de Janeiro",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-22",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-23",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-24",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-26",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-27",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-28",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-29",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2026-12-26",
+   "nights": 7,
+   "embark_port": "Paranagu\u00e1",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-26",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-27",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-28",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-29",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-30",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-31",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-01",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-02",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2026-12-27",
+   "nights": 7,
+   "embark_port": "Itaja\u00ed",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-27",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-28",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-29",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-30",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-31",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-01",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-02",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-03",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2026-12-29",
+   "nights": 7,
+   "embark_port": "Rio de Janeiro",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-29",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-30",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-31",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-01",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-02",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-03",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-04",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-05",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2027-01-02",
+   "nights": 7,
+   "embark_port": "Paranagu\u00e1",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-02",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-03",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-04",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-05",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-06",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-07",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-08",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-09",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2027-01-03",
+   "nights": 7,
+   "embark_port": "Itaja\u00ed",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-03",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-04",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-05",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-06",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-07",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-08",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-09",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-10",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2027-01-05",
+   "nights": 7,
+   "embark_port": "Rio de Janeiro",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-05",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-06",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-07",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-08",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-09",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-10",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-11",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-12",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2027-01-09",
+   "nights": 7,
+   "embark_port": "Paranagu\u00e1",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-09",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-10",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-11",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-12",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-13",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-14",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-16",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2027-01-10",
+   "nights": 7,
+   "embark_port": "Itaja\u00ed",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-10",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-11",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-12",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-13",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-14",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-16",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-17",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2027-01-12",
+   "nights": 7,
+   "embark_port": "Rio de Janeiro",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-12",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-13",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-14",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-16",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-17",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-18",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-19",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2027-01-16",
+   "nights": 7,
+   "embark_port": "Paranagu\u00e1",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-16",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-17",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-18",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-19",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-20",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-21",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-23",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2027-01-17",
+   "nights": 7,
+   "embark_port": "Itaja\u00ed",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-17",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-18",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-19",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-20",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-21",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-23",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-24",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2027-01-19",
+   "nights": 7,
+   "embark_port": "Rio de Janeiro",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-19",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-20",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-21",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-23",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-24",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-25",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-26",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2027-01-23",
+   "nights": 7,
+   "embark_port": "Paranagu\u00e1",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-23",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-24",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-25",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-26",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-27",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-28",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-30",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Musica",
+   "departure_date": "2027-01-24",
+   "nights": 7,
+   "embark_port": "Itaja\u00ed",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-24",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-25",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-26",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-27",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-28",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-30",
+     "port_id": "paranagua",
+     "port_name": "Paranagu\u00e1",
+     "lat": -25.58724,
+     "lon": -48.56796,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-31",
+     "port_id": "itajai",
+     "port_name": "Itaja\u00ed",
+     "lat": -26.90836,
+     "lon": -48.6626,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Opera",
+   "departure_date": "2026-11-16",
+   "nights": 7,
+   "embark_port": "La Romana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-16",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-17",
+     "port_id": "catalina-dr",
+     "port_name": "Catalina Island, Dominican Republic",
+     "lat": 18.36,
+     "lon": -69.00472,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-18",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-19",
+     "port_id": "bridgetown",
+     "port_name": "Bridgetown (Barbados)",
+     "lat": 13.112,
+     "lon": -59.61269,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-20",
+     "port_id": "fort-de-france",
+     "port_name": "Fort-de-France",
+     "lat": 14.60623,
+     "lon": -61.06268,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-21",
+     "port_id": "pointe-a-pitre",
+     "port_name": "Pointe-\u00e0-Pitre",
+     "lat": 16.2457,
+     "lon": -61.5421,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-22",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-23",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Opera",
+   "departure_date": "2026-11-23",
+   "nights": 7,
+   "embark_port": "La Romana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-23",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-24",
+     "port_id": "samana",
+     "port_name": "Saman\u00e1, Dominican Republic",
+     "lat": 19.20421,
+     "lon": -69.33203,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-25",
+     "port_id": "virgin-gorda",
+     "port_name": "Virgin Gorda",
+     "lat": 18.48563,
+     "lon": -64.40032,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-26",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-27",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-29",
+     "port_id": "catalina-dr",
+     "port_name": "Catalina Island, Dominican Republic",
+     "lat": 18.36,
+     "lon": -69.00472,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-30",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Opera",
+   "departure_date": "2026-11-30",
+   "nights": 7,
+   "embark_port": "La Romana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-30",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-01",
+     "port_id": "catalina-dr",
+     "port_name": "Catalina Island, Dominican Republic",
+     "lat": 18.36,
+     "lon": -69.00472,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-02",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-03",
+     "port_id": "bridgetown",
+     "port_name": "Bridgetown (Barbados)",
+     "lat": 13.112,
+     "lon": -59.61269,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-04",
+     "port_id": "fort-de-france",
+     "port_name": "Fort-de-France",
+     "lat": 14.60623,
+     "lon": -61.06268,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-05",
+     "port_id": "pointe-a-pitre",
+     "port_name": "Pointe-\u00e0-Pitre",
+     "lat": 16.2457,
+     "lon": -61.5421,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-06",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-07",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Opera",
+   "departure_date": "2026-12-07",
+   "nights": 7,
+   "embark_port": "La Romana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-07",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-08",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-09",
+     "port_id": "virgin-gorda",
+     "port_name": "Virgin Gorda",
+     "lat": 18.48563,
+     "lon": -64.40032,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-10",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-11",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-12",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-13",
+     "port_id": "catalina-dr",
+     "port_name": "Catalina Island, Dominican Republic",
+     "lat": 18.36,
+     "lon": -69.00472,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-14",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Opera",
+   "departure_date": "2026-12-14",
+   "nights": 7,
+   "embark_port": "La Romana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-14",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-15",
+     "port_id": "catalina-dr",
+     "port_name": "Catalina Island, Dominican Republic",
+     "lat": 18.36,
+     "lon": -69.00472,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-16",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-17",
+     "port_id": "bridgetown",
+     "port_name": "Bridgetown (Barbados)",
+     "lat": 13.112,
+     "lon": -59.61269,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-18",
+     "port_id": "fort-de-france",
+     "port_name": "Fort-de-France",
+     "lat": 14.60623,
+     "lon": -61.06268,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-19",
+     "port_id": "pointe-a-pitre",
+     "port_name": "Pointe-\u00e0-Pitre",
+     "lat": 16.2457,
+     "lon": -61.5421,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-20",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-21",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Opera",
+   "departure_date": "2026-12-21",
+   "nights": 7,
+   "embark_port": "La Romana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-21",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-22",
+     "port_id": "samana",
+     "port_name": "Saman\u00e1, Dominican Republic",
+     "lat": 19.20421,
+     "lon": -69.33203,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-23",
+     "port_id": "virgin-gorda",
+     "port_name": "Virgin Gorda",
+     "lat": 18.48563,
+     "lon": -64.40032,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-24",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-25",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-26",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-27",
+     "port_id": "catalina-dr",
+     "port_name": "Catalina Island, Dominican Republic",
+     "lat": 18.36,
+     "lon": -69.00472,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-28",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Opera",
+   "departure_date": "2026-12-28",
+   "nights": 7,
+   "embark_port": "La Romana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-28",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-29",
+     "port_id": "catalina-dr",
+     "port_name": "Catalina Island, Dominican Republic",
+     "lat": 18.36,
+     "lon": -69.00472,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-31",
+     "port_id": "bridgetown",
+     "port_name": "Bridgetown (Barbados)",
+     "lat": 13.112,
+     "lon": -59.61269,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-01",
+     "port_id": "fort-de-france",
+     "port_name": "Fort-de-France",
+     "lat": 14.60623,
+     "lon": -61.06268,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-02",
+     "port_id": "st-johns",
+     "port_name": "St. John's (Antigua)",
+     "lat": 17.11632,
+     "lon": -61.84158,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-03",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-04",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Opera",
+   "departure_date": "2027-01-04",
+   "nights": 7,
+   "embark_port": "La Romana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-04",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-05",
+     "port_id": "samana",
+     "port_name": "Saman\u00e1, Dominican Republic",
+     "lat": 19.20421,
+     "lon": -69.33203,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-06",
+     "port_id": "virgin-gorda",
+     "port_name": "Virgin Gorda",
+     "lat": 18.48563,
+     "lon": -64.40032,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-07",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-08",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-09",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-10",
+     "port_id": "catalina-dr",
+     "port_name": "Catalina Island, Dominican Republic",
+     "lat": 18.36,
+     "lon": -69.00472,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-11",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Opera",
+   "departure_date": "2027-01-11",
+   "nights": 7,
+   "embark_port": "La Romana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-11",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-12",
+     "port_id": "catalina-dr",
+     "port_name": "Catalina Island, Dominican Republic",
+     "lat": 18.36,
+     "lon": -69.00472,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-13",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-14",
+     "port_id": "bridgetown",
+     "port_name": "Bridgetown (Barbados)",
+     "lat": 13.112,
+     "lon": -59.61269,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-15",
+     "port_id": "fort-de-france",
+     "port_name": "Fort-de-France",
+     "lat": 14.60623,
+     "lon": -61.06268,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-16",
+     "port_id": "st-johns",
+     "port_name": "St. John's (Antigua)",
+     "lat": 17.11632,
+     "lon": -61.84158,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-17",
+     "port_id": "virgin-gorda",
+     "port_name": "Virgin Gorda",
+     "lat": 18.48563,
+     "lon": -64.40032,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-18",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Opera",
+   "departure_date": "2027-01-18",
+   "nights": 7,
+   "embark_port": "La Romana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-18",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-19",
+     "port_id": "samana",
+     "port_name": "Saman\u00e1, Dominican Republic",
+     "lat": 19.20421,
+     "lon": -69.33203,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-20",
+     "port_id": "virgin-gorda",
+     "port_name": "Virgin Gorda",
+     "lat": 18.48563,
+     "lon": -64.40032,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-21",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-22",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-23",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-24",
+     "port_id": "catalina-dr",
+     "port_name": "Catalina Island, Dominican Republic",
+     "lat": 18.36,
+     "lon": -69.00472,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-25",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Opera",
+   "departure_date": "2027-01-25",
+   "nights": 7,
+   "embark_port": "La Romana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-25",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-26",
+     "port_id": "catalina-dr",
+     "port_name": "Catalina Island, Dominican Republic",
+     "lat": 18.36,
+     "lon": -69.00472,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-28",
+     "port_id": "bridgetown",
+     "port_name": "Bridgetown (Barbados)",
+     "lat": 13.112,
+     "lon": -59.61269,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-29",
+     "port_id": "fort-de-france",
+     "port_name": "Fort-de-France",
+     "lat": 14.60623,
+     "lon": -61.06268,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-30",
+     "port_id": "st-johns",
+     "port_name": "St. John's (Antigua)",
+     "lat": 17.11632,
+     "lon": -61.84158,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-31",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-01",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Opera",
+   "departure_date": "2027-02-01",
+   "nights": 7,
+   "embark_port": "La Romana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-01",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-02",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-03",
+     "port_id": "virgin-gorda",
+     "port_name": "Virgin Gorda",
+     "lat": 18.48563,
+     "lon": -64.40032,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-04",
+     "port_id": "philipsburg",
+     "port_name": "Philipsburg (St. Maarten)",
+     "lat": 18.01411,
+     "lon": -63.04425,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-05",
+     "port_id": "basseterre",
+     "port_name": "Basseterre (St. Kitts)",
+     "lat": 17.29652,
+     "lon": -62.72389,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-06",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-07",
+     "port_id": "catalina-dr",
+     "port_name": "Catalina Island, Dominican Republic",
+     "lat": 18.36,
+     "lon": -69.00472,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-08",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Opera",
+   "departure_date": "2027-02-08",
+   "nights": 7,
+   "embark_port": "La Romana",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-08",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-09",
+     "port_id": "catalina-dr",
+     "port_name": "Catalina Island, Dominican Republic",
+     "lat": 18.36,
+     "lon": -69.00472,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-10",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-11",
+     "port_id": "bridgetown",
+     "port_name": "Bridgetown (Barbados)",
+     "lat": 13.112,
+     "lon": -59.61269,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-12",
+     "port_id": "fort-de-france",
+     "port_name": "Fort-de-France",
+     "lat": 14.60623,
+     "lon": -61.06268,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-13",
+     "port_id": "pointe-a-pitre",
+     "port_name": "Pointe-\u00e0-Pitre",
+     "lat": 16.2457,
+     "lon": -61.5421,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-14",
+     "port_id": "tortola",
+     "port_name": "Tortola, British Virgin Islands",
+     "lat": 18.42878,
+     "lon": -64.61324,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-15",
+     "port_id": "la-romana",
+     "port_name": "La Romana",
+     "lat": 18.42558,
+     "lon": -68.96918,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-11-09",
+   "nights": 7,
+   "embark_port": "Piraeus (Athens)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-09",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-10",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-11",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-13",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-14",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-16",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-11-11",
+   "nights": 7,
+   "embark_port": "Istanbul",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-11",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-13",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-14",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-16",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-17",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-18",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-11-14",
+   "nights": 7,
+   "embark_port": "Bari",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-14",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-16",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-17",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-18",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-20",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-21",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-11-16",
+   "nights": 7,
+   "embark_port": "Piraeus (Athens)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-16",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-17",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-18",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-20",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-21",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-23",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-11-18",
+   "nights": 7,
+   "embark_port": "Istanbul",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-18",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-20",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-21",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-23",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-24",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-25",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-11-21",
+   "nights": 7,
+   "embark_port": "Bari",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-21",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-23",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-24",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-25",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-26",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-27",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-28",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-11-23",
+   "nights": 7,
+   "embark_port": "Piraeus (Athens)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-23",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-24",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-25",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-26",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-27",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-28",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-30",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-11-24",
+   "nights": 7,
+   "embark_port": "Izmir",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-24",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-25",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-26",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-27",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-28",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-30",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-01",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-11-25",
+   "nights": 7,
+   "embark_port": "Istanbul",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-25",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-26",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-27",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-28",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-30",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-01",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-02",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-11-28",
+   "nights": 7,
+   "embark_port": "Bari",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-28",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-30",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-01",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-02",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-04",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-05",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-11-30",
+   "nights": 7,
+   "embark_port": "Piraeus (Athens)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-30",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-01",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-02",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-04",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-05",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-06",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-07",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-12-02",
+   "nights": 7,
+   "embark_port": "Istanbul",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-02",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-04",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-05",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-06",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-07",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-08",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-09",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-12-05",
+   "nights": 7,
+   "embark_port": "Bari",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-05",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-06",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-07",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-08",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-09",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-10",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-11",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-12",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-12-07",
+   "nights": 7,
+   "embark_port": "Piraeus (Athens)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-07",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-08",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-09",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-10",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-11",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-12",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-13",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-14",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-12-09",
+   "nights": 7,
+   "embark_port": "Istanbul",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-09",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-10",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-11",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-12",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-13",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-14",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-15",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-16",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-12-12",
+   "nights": 7,
+   "embark_port": "Bari",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-12",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-13",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-14",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-15",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-16",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-18",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-19",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-12-14",
+   "nights": 7,
+   "embark_port": "Piraeus (Athens)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-14",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-15",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-16",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-18",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-19",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-20",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-21",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-12-16",
+   "nights": 7,
+   "embark_port": "Istanbul",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-16",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-18",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-19",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-20",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-21",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-22",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-23",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-12-19",
+   "nights": 7,
+   "embark_port": "Bari",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-19",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-20",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-21",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-22",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-23",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-25",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-26",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-12-21",
+   "nights": 7,
+   "embark_port": "Piraeus (Athens)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-21",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-22",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-23",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-25",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-26",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-28",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-12-23",
+   "nights": 7,
+   "embark_port": "Istanbul",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-23",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-25",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-26",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-28",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-29",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-30",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-12-26",
+   "nights": 7,
+   "embark_port": "Bari",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-26",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-28",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-29",
+     "port_id": "izmir",
+     "port_name": "Izmir",
+     "lat": 38.4262,
+     "lon": 27.14188,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-30",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-31",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-01",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-02",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-12-28",
+   "nights": 7,
+   "embark_port": "Piraeus (Athens)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-28",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-29",
+     "port_id": "kusadasi",
+     "port_name": "Kusadasi",
+     "lat": 37.86087,
+     "lon": 27.25515,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-30",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-31",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-01",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-02",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-04",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2026-12-30",
+   "nights": 7,
+   "embark_port": "Istanbul",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-30",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-31",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-01",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-02",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-04",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-05",
+     "port_id": "kusadasi",
+     "port_name": "Kusadasi",
+     "lat": 37.86087,
+     "lon": 27.25515,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-06",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Orchestra",
+   "departure_date": "2027-01-02",
+   "nights": 7,
+   "embark_port": "Bari",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-02",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-04",
+     "port_id": "piraeus",
+     "port_name": "Piraeus (Athens)",
+     "lat": 37.94,
+     "lon": 23.64,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-05",
+     "port_id": "kusadasi",
+     "port_name": "Kusadasi",
+     "lat": 37.86087,
+     "lon": 27.25515,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-06",
+     "port_id": "istanbul",
+     "port_name": "Istanbul",
+     "lat": 41.02797,
+     "lon": 28.98507,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-08",
+     "port_id": "corfu",
+     "port_name": "Corfu",
+     "lat": 39.62556,
+     "lon": 19.91075,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-09",
+     "port_id": "bari",
+     "port_name": "Bari",
+     "lat": 41.12587,
+     "lon": 16.86666,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
   }
  ],
  "holland-america-line": [],
