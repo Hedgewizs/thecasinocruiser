@@ -3437,255 +3437,6 @@
   {
    "sailing_id": null,
    "ship_name": "Enchanted Princess",
-   "departure_date": "2026-11-10",
-   "nights": 23,
-   "embark_port": "Civitavecchia (Rome)",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-10",
-     "port_id": "civitavecchia-rome",
-     "port_name": "Civitavecchia (Rome)",
-     "lat": 42.09,
-     "lon": 11.79,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-11",
-     "port_id": "salerno",
-     "port_name": "Salerno",
-     "lat": 40.67348,
-     "lon": 14.77125,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-12",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-13",
-     "port_id": "santorini",
-     "port_name": "Santorini",
-     "lat": 36.39,
-     "lon": 25.46,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-14",
-     "port_id": "kusadasi",
-     "port_name": "Kusadasi",
-     "lat": 37.86087,
-     "lon": 27.25515,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 5,
-     "date": "2026-11-15",
-     "port_id": "katakolon",
-     "port_name": "Katakolon",
-     "lat": 37.64749,
-     "lon": 21.31624,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 6,
-     "date": "2026-11-16",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 7,
-     "date": "2026-11-17",
-     "port_id": "civitavecchia-rome",
-     "port_name": "Civitavecchia (Rome)",
-     "lat": 42.09,
-     "lon": 11.79,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 8,
-     "date": "2026-11-18",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 9,
-     "date": "2026-11-19",
-     "port_id": "palma-de-mallorca",
-     "port_name": "Palma de Mallorca",
-     "lat": 39.57155,
-     "lon": 2.64663,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 10,
-     "date": "2026-11-20",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 11,
-     "date": "2026-11-21",
-     "port_id": "gibraltar",
-     "port_name": "Gibraltar",
-     "lat": 36.14606,
-     "lon": -5.35441,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 12,
-     "date": "2026-11-22",
-     "port_id": "casablanca",
-     "port_name": "Casablanca",
-     "lat": 33.60806,
-     "lon": -7.58291,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 13,
-     "date": "2026-11-23",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 14,
-     "date": "2026-11-24",
-     "port_id": "santa-cruz-de-tenerife",
-     "port_name": "Santa Cruz de Tenerife",
-     "lat": 28.46078,
-     "lon": -16.2639,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 15,
-     "date": "2026-11-25",
-     "port_id": "santa-cruz-de-la-palma",
-     "port_name": "Santa Cruz de La Palma",
-     "lat": 28.67828,
-     "lon": -17.77142,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 16,
-     "date": "2026-11-26",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 17,
-     "date": "2026-11-27",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 18,
-     "date": "2026-11-28",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 19,
-     "date": "2026-11-29",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 20,
-     "date": "2026-11-30",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 21,
-     "date": "2026-12-01",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 22,
-     "date": "2026-12-02",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 23,
-     "date": "2026-12-03",
-     "port_id": "fort-lauderdale",
-     "port_name": "Fort Lauderdale",
-     "lat": 26.09,
-     "lon": -80.11,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Enchanted Princess",
    "departure_date": "2026-12-03",
    "nights": 14,
    "embark_port": "Fort Lauderdale",
@@ -6697,155 +6448,6 @@
      "port_name": "Fort Lauderdale",
      "lat": 26.09,
      "lon": -80.11,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Royal Princess",
-   "departure_date": "2026-11-10",
-   "nights": 13,
-   "embark_port": "Singapore",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-10",
-     "port_id": "singapore",
-     "port_name": "Singapore",
-     "lat": 1.30834,
-     "lon": 103.85193,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-11",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-12",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-13",
-     "port_id": "lombok",
-     "port_name": "Lombok",
-     "lat": -8.58365,
-     "lon": 116.16929,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-14",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 5,
-     "date": "2026-11-15",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 6,
-     "date": "2026-11-16",
-     "port_id": "darwin",
-     "port_name": "Darwin",
-     "lat": -12.46044,
-     "lon": 130.8410469,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 7,
-     "date": "2026-11-17",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 8,
-     "date": "2026-11-18",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 9,
-     "date": "2026-11-19",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 10,
-     "date": "2026-11-20",
-     "port_id": "yorkeys-knob",
-     "port_name": "Yorkeys Knob (Cairns)",
-     "lat": -16.81217,
-     "lon": 145.72082,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 11,
-     "date": "2026-11-21",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 12,
-     "date": "2026-11-22",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 13,
-     "date": "2026-11-23",
-     "port_id": "brisbane",
-     "port_name": "Brisbane",
-     "lat": -27.4693645,
-     "lon": 152.9687926,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -26381,65 +25983,6 @@
   {
    "sailing_id": null,
    "ship_name": "Harmony of the Seas",
-   "departure_date": "2026-11-10",
-   "nights": 4,
-   "embark_port": "Port Canaveral",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-10",
-     "port_id": "port-canaveral",
-     "port_name": "Port Canaveral",
-     "lat": 28.405,
-     "lon": -80.61497,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-11",
-     "port_id": null,
-     "port_name": null,
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-12",
-     "port_id": "perfect-day-at-cococay",
-     "port_name": "Perfect Day at CocoCay",
-     "lat": 25.817,
-     "lon": -77.933,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-13",
-     "port_id": "nassau",
-     "port_name": "Nassau",
-     "lat": 25.07895,
-     "lon": -77.341,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-14",
-     "port_id": "port-canaveral",
-     "port_name": "Port Canaveral",
-     "lat": 28.405,
-     "lon": -80.61497,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Harmony of the Seas",
    "departure_date": "2026-11-14",
    "nights": 7,
    "embark_port": "Port Canaveral",
@@ -42992,165 +42535,6 @@
   {
    "sailing_id": null,
    "ship_name": "Celebrity Eclipse",
-   "departure_date": "2026-11-10",
-   "nights": 14,
-   "embark_port": "Barcelona",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-10",
-     "port_id": "barcelona",
-     "port_name": "Barcelona",
-     "lat": 41.36533,
-     "lon": 2.17363,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-11",
-     "port_id": "palma-de-mallorca",
-     "port_name": "Palma de Mallorca",
-     "lat": 39.57155,
-     "lon": 2.64663,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-12",
-     "port_id": "cartagena-spain",
-     "port_name": "Cartagena",
-     "lat": 37.60672,
-     "lon": -0.98752,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-13",
-     "port_id": "malaga",
-     "port_name": "Malaga",
-     "lat": 36.71935,
-     "lon": -4.36273,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-14",
-     "port_id": "gibraltar",
-     "port_name": "Gibraltar",
-     "lat": 36.14606,
-     "lon": -5.35441,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 5,
-     "date": "2026-11-15",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 6,
-     "date": "2026-11-16",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 7,
-     "date": "2026-11-17",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 8,
-     "date": "2026-11-18",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 9,
-     "date": "2026-11-19",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 10,
-     "date": "2026-11-20",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 11,
-     "date": "2026-11-21",
-     "port_id": "kings-wharf",
-     "port_name": "King's Wharf",
-     "lat": 32.32,
-     "lon": -64.83,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 12,
-     "date": "2026-11-22",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 13,
-     "date": "2026-11-23",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 14,
-     "date": "2026-11-24",
-     "port_id": "fort-lauderdale",
-     "port_name": "Fort Lauderdale",
-     "lat": 26.09,
-     "lon": -80.11,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Celebrity Eclipse",
    "departure_date": "2026-11-24",
    "nights": 9,
    "embark_port": "Fort Lauderdale",
@@ -52044,145 +51428,6 @@
      "port_name": "Fort Lauderdale",
      "lat": 26.09,
      "lon": -80.11,
-     "kind": "disembark",
-     "day_confidence": "exact"
-    }
-   ]
-  },
-  {
-   "sailing_id": null,
-   "ship_name": "Celebrity Solstice",
-   "departure_date": "2026-11-10",
-   "nights": 12,
-   "embark_port": "Sydney",
-   "itinerary": [
-    {
-     "day_offset": 0,
-     "date": "2026-11-10",
-     "port_id": "sydney",
-     "port_name": "Sydney",
-     "lat": -33.85929,
-     "lon": 151.20904,
-     "kind": "embark",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 1,
-     "date": "2026-11-11",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 2,
-     "date": "2026-11-12",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 3,
-     "date": "2026-11-13",
-     "port_id": "lifou",
-     "port_name": "Lifou",
-     "lat": -21.04516,
-     "lon": 167.28461,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 4,
-     "date": "2026-11-14",
-     "port_id": "mystery-island",
-     "port_name": "Mystery Island",
-     "lat": -20.2491889,
-     "lon": 169.7711722,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 5,
-     "date": "2026-11-15",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 6,
-     "date": "2026-11-16",
-     "port_id": "luganville",
-     "port_name": "Luganville",
-     "lat": -15.51342,
-     "lon": 167.16979,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 7,
-     "date": "2026-11-17",
-     "port_id": "port-vila",
-     "port_name": "Port Vila",
-     "lat": -17.75676,
-     "lon": 168.2984,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 8,
-     "date": "2026-11-18",
-     "port_id": "noumea",
-     "port_name": "Noumea",
-     "lat": -22.21113,
-     "lon": 166.46625,
-     "kind": "call",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 9,
-     "date": "2026-11-19",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 10,
-     "date": "2026-11-20",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 11,
-     "date": "2026-11-21",
-     "port_id": "at-sea",
-     "port_name": "At Sea",
-     "lat": null,
-     "lon": null,
-     "kind": "sea",
-     "day_confidence": "exact"
-    },
-    {
-     "day_offset": 12,
-     "date": "2026-11-22",
-     "port_id": "sydney",
-     "port_name": "Sydney",
-     "lat": -33.85929,
-     "lon": 151.20904,
      "kind": "disembark",
      "day_confidence": "exact"
     }
@@ -111107,6 +110352,7959 @@
      "lon": -48.63556,
      "kind": "disembark",
      "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-11-14",
+   "nights": 6,
+   "embark_port": "Valencia",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-14",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-15",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-16",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-17",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-18",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-20",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-11-15",
+   "nights": 7,
+   "embark_port": "Barcelona",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-15",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-16",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-17",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-18",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-20",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-21",
+     "port_id": "palma-de-mallorca",
+     "port_name": "Palma de Mallorca",
+     "lat": 39.57155,
+     "lon": 2.64663,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-22",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-11-16",
+   "nights": 7,
+   "embark_port": "Marseille",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-16",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-17",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-18",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-20",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-21",
+     "port_id": "palma-de-mallorca",
+     "port_name": "Palma de Mallorca",
+     "lat": 39.57155,
+     "lon": 2.64663,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-22",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-23",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-11-17",
+   "nights": 7,
+   "embark_port": "Genoa",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-17",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-18",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-20",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-21",
+     "port_id": "palma-de-mallorca",
+     "port_name": "Palma de Mallorca",
+     "lat": 39.57155,
+     "lon": 2.64663,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-22",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-23",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-24",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-11-20",
+   "nights": 8,
+   "embark_port": "Valencia",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-20",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-21",
+     "port_id": "palma-de-mallorca",
+     "port_name": "Palma de Mallorca",
+     "lat": 39.57155,
+     "lon": 2.64663,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-22",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-23",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-24",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-25",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-26",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-28",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-11-22",
+   "nights": 7,
+   "embark_port": "Barcelona",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-22",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-23",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-24",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-25",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-26",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-28",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-29",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-11-24",
+   "nights": 7,
+   "embark_port": "Genoa",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-24",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-25",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-26",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-28",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-29",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-30",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-01",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-11-26",
+   "nights": 7,
+   "embark_port": "Civitavecchia (Rome)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-26",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-28",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-29",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-30",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-01",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-02",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-03",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-11-29",
+   "nights": 7,
+   "embark_port": "Barcelona",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-29",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-30",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-01",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-02",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-03",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-04",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-05",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-06",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-11-30",
+   "nights": 7,
+   "embark_port": "Marseille",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-30",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-01",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-02",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-03",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-04",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-05",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-06",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-07",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-12-01",
+   "nights": 7,
+   "embark_port": "Genoa",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-01",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-02",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-03",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-04",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-05",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-06",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-07",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-08",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-12-06",
+   "nights": 7,
+   "embark_port": "Barcelona",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-06",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-07",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-08",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-09",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-10",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-11",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-12",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-13",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-12-08",
+   "nights": 7,
+   "embark_port": "Genoa",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-08",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-09",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-10",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-11",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-12",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-13",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-14",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-15",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-12-13",
+   "nights": 7,
+   "embark_port": "Barcelona",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-13",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-14",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-15",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-16",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-17",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-18",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-19",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-20",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-12-14",
+   "nights": 7,
+   "embark_port": "Marseille",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-14",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-15",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-16",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-17",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-18",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-19",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-20",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-21",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-12-15",
+   "nights": 7,
+   "embark_port": "Genoa",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-15",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-16",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-17",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-18",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-19",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-20",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-21",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-22",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-12-20",
+   "nights": 7,
+   "embark_port": "Barcelona",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-20",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-21",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-22",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-23",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-24",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-26",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-27",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-12-22",
+   "nights": 7,
+   "embark_port": "Genoa",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-22",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-23",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-24",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-26",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-27",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-28",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-29",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-12-27",
+   "nights": 7,
+   "embark_port": "Barcelona",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-27",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-28",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-29",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-30",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-31",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-01",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-02",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-03",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2026-12-29",
+   "nights": 7,
+   "embark_port": "Genoa",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-29",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-30",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-31",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-01",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-02",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-03",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-04",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-05",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2027-01-03",
+   "nights": 7,
+   "embark_port": "Barcelona",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-03",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-04",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-05",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-06",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-07",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-08",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-09",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-10",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2027-01-05",
+   "nights": 7,
+   "embark_port": "Genoa",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-05",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-06",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-07",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-08",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-09",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-10",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-11",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-12",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2027-02-06",
+   "nights": 7,
+   "embark_port": "Valencia",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-06",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-07",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-08",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-09",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-10",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-11",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-13",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2027-02-07",
+   "nights": 7,
+   "embark_port": "Barcelona",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-07",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-08",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-09",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-10",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-11",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-13",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-14",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2027-02-09",
+   "nights": 7,
+   "embark_port": "Genoa",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-09",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-10",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-11",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-13",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-14",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-15",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-16",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Sinfonia",
+   "departure_date": "2027-02-11",
+   "nights": 7,
+   "embark_port": "Civitavecchia (Rome)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-11",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-13",
+     "port_id": "valencia",
+     "port_name": "Valencia",
+     "lat": 39.46894,
+     "lon": -0.37687,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-14",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-15",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-16",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-17",
+     "port_id": "livorno",
+     "port_name": "Livorno",
+     "lat": 43.55291,
+     "lon": 10.31997,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-18",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2026-11-11",
+   "nights": 21,
+   "embark_port": "Cagliari",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-11",
+     "port_id": "cagliari",
+     "port_name": "Cagliari",
+     "lat": 39.21454,
+     "lon": 9.11049,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-12",
+     "port_id": "palermo",
+     "port_name": "Palermo",
+     "lat": 38.12,
+     "lon": 13.38,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-13",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-14",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-15",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-16",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-17",
+     "port_id": "gibraltar",
+     "port_name": "Gibraltar",
+     "lat": 36.14606,
+     "lon": -5.35441,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-18",
+     "port_id": "casablanca",
+     "port_name": "Casablanca",
+     "lat": 33.60806,
+     "lon": -7.58291,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-11-20",
+     "port_id": "las-palmas-gran-canaria",
+     "port_name": "Las Palmas (Gran Canaria)",
+     "lat": 28.14048,
+     "lon": -15.42371,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-11-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2026-11-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2026-11-23",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 13,
+     "date": "2026-11-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 14,
+     "date": "2026-11-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 15,
+     "date": "2026-11-26",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 16,
+     "date": "2026-11-27",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 17,
+     "date": "2026-11-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 18,
+     "date": "2026-11-29",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 19,
+     "date": "2026-11-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 20,
+     "date": "2026-12-01",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 21,
+     "date": "2026-12-02",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2026-11-11",
+   "nights": 22,
+   "embark_port": "Cagliari",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-11",
+     "port_id": "cagliari",
+     "port_name": "Cagliari",
+     "lat": 39.21454,
+     "lon": 9.11049,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-12",
+     "port_id": "palermo",
+     "port_name": "Palermo",
+     "lat": 38.12,
+     "lon": 13.38,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-13",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-14",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-15",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-16",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-17",
+     "port_id": "gibraltar",
+     "port_name": "Gibraltar",
+     "lat": 36.14606,
+     "lon": -5.35441,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-18",
+     "port_id": "casablanca",
+     "port_name": "Casablanca",
+     "lat": 33.60806,
+     "lon": -7.58291,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-11-20",
+     "port_id": "las-palmas-gran-canaria",
+     "port_name": "Las Palmas (Gran Canaria)",
+     "lat": 28.14048,
+     "lon": -15.42371,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-11-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2026-11-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2026-11-23",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 13,
+     "date": "2026-11-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 14,
+     "date": "2026-11-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 15,
+     "date": "2026-11-26",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 16,
+     "date": "2026-11-27",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 17,
+     "date": "2026-11-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 18,
+     "date": "2026-11-29",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 19,
+     "date": "2026-11-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 20,
+     "date": "2026-12-01",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 21,
+     "date": "2026-12-02",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 22,
+     "date": "2026-12-03",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2026-11-12",
+   "nights": 20,
+   "embark_port": "Palermo",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-12",
+     "port_id": "palermo",
+     "port_name": "Palermo",
+     "lat": 38.12,
+     "lon": 13.38,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-13",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-14",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-15",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-16",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-17",
+     "port_id": "gibraltar",
+     "port_name": "Gibraltar",
+     "lat": 36.14606,
+     "lon": -5.35441,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-18",
+     "port_id": "casablanca",
+     "port_name": "Casablanca",
+     "lat": 33.60806,
+     "lon": -7.58291,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-20",
+     "port_id": "las-palmas-gran-canaria",
+     "port_name": "Las Palmas (Gran Canaria)",
+     "lat": 28.14048,
+     "lon": -15.42371,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-11-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-11-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2026-11-23",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2026-11-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 13,
+     "date": "2026-11-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 14,
+     "date": "2026-11-26",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 15,
+     "date": "2026-11-27",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 16,
+     "date": "2026-11-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 17,
+     "date": "2026-11-29",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 18,
+     "date": "2026-11-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 19,
+     "date": "2026-12-01",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 20,
+     "date": "2026-12-02",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2026-11-12",
+   "nights": 21,
+   "embark_port": "Palermo",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-12",
+     "port_id": "palermo",
+     "port_name": "Palermo",
+     "lat": 38.12,
+     "lon": 13.38,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-13",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-14",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-15",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-16",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-17",
+     "port_id": "gibraltar",
+     "port_name": "Gibraltar",
+     "lat": 36.14606,
+     "lon": -5.35441,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-18",
+     "port_id": "casablanca",
+     "port_name": "Casablanca",
+     "lat": 33.60806,
+     "lon": -7.58291,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-20",
+     "port_id": "las-palmas-gran-canaria",
+     "port_name": "Las Palmas (Gran Canaria)",
+     "lat": 28.14048,
+     "lon": -15.42371,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-11-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-11-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2026-11-23",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2026-11-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 13,
+     "date": "2026-11-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 14,
+     "date": "2026-11-26",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 15,
+     "date": "2026-11-27",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 16,
+     "date": "2026-11-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 17,
+     "date": "2026-11-29",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 18,
+     "date": "2026-11-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 19,
+     "date": "2026-12-01",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 20,
+     "date": "2026-12-02",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 21,
+     "date": "2026-12-03",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2026-11-15",
+   "nights": 14,
+   "embark_port": "Barcelona",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-15",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-16",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-17",
+     "port_id": "gibraltar",
+     "port_name": "Gibraltar",
+     "lat": 36.14606,
+     "lon": -5.35441,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-18",
+     "port_id": "casablanca",
+     "port_name": "Casablanca",
+     "lat": 33.60806,
+     "lon": -7.58291,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-20",
+     "port_id": "las-palmas-gran-canaria",
+     "port_name": "Las Palmas (Gran Canaria)",
+     "lat": 28.14048,
+     "lon": -15.42371,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-23",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-11-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-11-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2026-11-26",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2026-11-27",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 13,
+     "date": "2026-11-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 14,
+     "date": "2026-11-29",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2026-11-15",
+   "nights": 18,
+   "embark_port": "Barcelona",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-15",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-16",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-17",
+     "port_id": "gibraltar",
+     "port_name": "Gibraltar",
+     "lat": 36.14606,
+     "lon": -5.35441,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-18",
+     "port_id": "casablanca",
+     "port_name": "Casablanca",
+     "lat": 33.60806,
+     "lon": -7.58291,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-20",
+     "port_id": "las-palmas-gran-canaria",
+     "port_name": "Las Palmas (Gran Canaria)",
+     "lat": 28.14048,
+     "lon": -15.42371,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-23",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-11-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-11-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2026-11-26",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2026-11-27",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 13,
+     "date": "2026-11-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 14,
+     "date": "2026-11-29",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 15,
+     "date": "2026-11-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 16,
+     "date": "2026-12-01",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 17,
+     "date": "2026-12-02",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 18,
+     "date": "2026-12-03",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2026-11-29",
+   "nights": 4,
+   "embark_port": "Rio de Janeiro",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-29",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-01",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-02",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-03",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2026-12-03",
+   "nights": 3,
+   "embark_port": "Buenos Aires",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-03",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-04",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-05",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-06",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2026-12-03",
+   "nights": 8,
+   "embark_port": "Buenos Aires",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-03",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-04",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-05",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-06",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-07",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-08",
+     "port_id": "balneario-camboriu",
+     "port_name": "Balne\u00e1rio Cambori\u00fa",
+     "lat": -26.99528,
+     "lon": -48.63556,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-09",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-10",
+     "port_id": "punta-del-este",
+     "port_name": "Punta del Este",
+     "lat": -34.93453,
+     "lon": -54.93383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-11",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2026-12-06",
+   "nights": 8,
+   "embark_port": "Rio de Janeiro",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-06",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-07",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-08",
+     "port_id": "balneario-camboriu",
+     "port_name": "Balne\u00e1rio Cambori\u00fa",
+     "lat": -26.99528,
+     "lon": -48.63556,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-09",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-10",
+     "port_id": "punta-del-este",
+     "port_name": "Punta del Este",
+     "lat": -34.93453,
+     "lon": -54.93383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-11",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-13",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-14",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2026-12-11",
+   "nights": 8,
+   "embark_port": "Buenos Aires",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-11",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-13",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-14",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-15",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-16",
+     "port_id": "balneario-camboriu",
+     "port_name": "Balne\u00e1rio Cambori\u00fa",
+     "lat": -26.99528,
+     "lon": -48.63556,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-18",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-19",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2026-12-14",
+   "nights": 8,
+   "embark_port": "Rio de Janeiro",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-14",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-15",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-16",
+     "port_id": "balneario-camboriu",
+     "port_name": "Balne\u00e1rio Cambori\u00fa",
+     "lat": -26.99528,
+     "lon": -48.63556,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-18",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-19",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-20",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-22",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2026-12-19",
+   "nights": 8,
+   "embark_port": "Buenos Aires",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-19",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-20",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-22",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-23",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-24",
+     "port_id": "balneario-camboriu",
+     "port_name": "Balne\u00e1rio Cambori\u00fa",
+     "lat": -26.99528,
+     "lon": -48.63556,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-26",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-27",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2026-12-22",
+   "nights": 9,
+   "embark_port": "Rio de Janeiro",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-22",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-23",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-24",
+     "port_id": "balneario-camboriu",
+     "port_name": "Balne\u00e1rio Cambori\u00fa",
+     "lat": -26.99528,
+     "lon": -48.63556,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-26",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-27",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-12-30",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-12-31",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2026-12-27",
+   "nights": 9,
+   "embark_port": "Buenos Aires",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-27",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-30",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-31",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-01",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-02",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-01-04",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2027-01-05",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2026-12-31",
+   "nights": 8,
+   "embark_port": "Rio de Janeiro",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-31",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-01",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-02",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-04",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-05",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-06",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-01-08",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2027-01-05",
+   "nights": 9,
+   "embark_port": "Buenos Aires",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-05",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-06",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-08",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-09",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-10",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-11",
+     "port_id": "balneario-camboriu",
+     "port_name": "Balne\u00e1rio Cambori\u00fa",
+     "lat": -26.99528,
+     "lon": -48.63556,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-01-13",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2027-01-14",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2027-01-08",
+   "nights": 9,
+   "embark_port": "Rio de Janeiro",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-08",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-09",
+     "port_id": "ilha-grande",
+     "port_name": "Ilha Grande",
+     "lat": -23.14186,
+     "lon": -44.16853,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-10",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-11",
+     "port_id": "balneario-camboriu",
+     "port_name": "Balne\u00e1rio Cambori\u00fa",
+     "lat": -26.99528,
+     "lon": -48.63556,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-13",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-14",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-01-16",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2027-01-17",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2027-01-14",
+   "nights": 9,
+   "embark_port": "Buenos Aires",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-14",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-16",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-17",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-18",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-19",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-20",
+     "port_id": "balneario-camboriu",
+     "port_name": "Balne\u00e1rio Cambori\u00fa",
+     "lat": -26.99528,
+     "lon": -48.63556,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-01-22",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2027-01-23",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2027-01-17",
+   "nights": 9,
+   "embark_port": "Rio de Janeiro",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-17",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-18",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-19",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-20",
+     "port_id": "balneario-camboriu",
+     "port_name": "Balne\u00e1rio Cambori\u00fa",
+     "lat": -26.99528,
+     "lon": -48.63556,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-22",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-23",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-01-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2027-01-26",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2027-01-23",
+   "nights": 9,
+   "embark_port": "Buenos Aires",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-23",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-26",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-27",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-28",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-29",
+     "port_id": "balneario-camboriu",
+     "port_name": "Balne\u00e1rio Cambori\u00fa",
+     "lat": -26.99528,
+     "lon": -48.63556,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-01-31",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2027-02-01",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2027-01-26",
+   "nights": 9,
+   "embark_port": "Rio de Janeiro",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-26",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-27",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-28",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-29",
+     "port_id": "balneario-camboriu",
+     "port_name": "Balne\u00e1rio Cambori\u00fa",
+     "lat": -26.99528,
+     "lon": -48.63556,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-31",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-01",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-02",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-02-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2027-02-04",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2027-02-01",
+   "nights": 9,
+   "embark_port": "Buenos Aires",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-01",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-02",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-04",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-05",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-06",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-07",
+     "port_id": "balneario-camboriu",
+     "port_name": "Balne\u00e1rio Cambori\u00fa",
+     "lat": -26.99528,
+     "lon": -48.63556,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-08",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-02-09",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2027-02-10",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2027-02-04",
+   "nights": 9,
+   "embark_port": "Rio de Janeiro",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-04",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-05",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-06",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-07",
+     "port_id": "balneario-camboriu",
+     "port_name": "Balne\u00e1rio Cambori\u00fa",
+     "lat": -26.99528,
+     "lon": -48.63556,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-08",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-09",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-10",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-11",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-02-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 9,
+     "date": "2027-02-13",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Splendida",
+   "departure_date": "2027-02-10",
+   "nights": 9,
+   "embark_port": "Buenos Aires",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-10",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-11",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-12",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-13",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-14",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-15",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-16",
+     "port_id": "balneario-camboriu",
+     "port_name": "Balne\u00e1rio Cambori\u00fa",
+     "lat": -26.99528,
+     "lon": -48.63556,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 8,
+     "date": "2027-02-18",
+     "port_id": "montevideo-uruguay",
+     "port_name": "Montevideo, Uruguay",
+     "lat": -34.85498,
+     "lon": -56.23383,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 9,
+     "date": "2027-02-19",
+     "port_id": "buenos-aires-argentina",
+     "port_name": "Buenos Aires, Argentina",
+     "lat": -34.6,
+     "lon": -58.38,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2026-11-12",
+   "nights": 4,
+   "embark_port": "Malaga",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-12",
+     "port_id": "malaga",
+     "port_name": "Malaga",
+     "lat": 36.71935,
+     "lon": -4.36273,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-13",
+     "port_id": "alicante",
+     "port_name": "Alicante",
+     "lat": 38.34282,
+     "lon": -0.47895,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-14",
+     "port_id": "palma-de-mallorca",
+     "port_name": "Palma de Mallorca",
+     "lat": 39.57155,
+     "lon": 2.64663,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-15",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-16",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2026-11-15",
+   "nights": 17,
+   "embark_port": "Marseille",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-15",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-16",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-18",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-19",
+     "port_id": "funchal",
+     "port_name": "Funchal",
+     "lat": 32.64693,
+     "lon": -16.90853,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-20",
+     "port_id": "arrecife",
+     "port_name": "Arrecife",
+     "lat": 28.97347,
+     "lon": -13.53637,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-21",
+     "port_id": "las-palmas-gran-canaria",
+     "port_name": "Las Palmas",
+     "lat": 28.14048,
+     "lon": -15.42371,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-23",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-11-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-11-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2026-11-26",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2026-11-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 13,
+     "date": "2026-11-28",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 14,
+     "date": "2026-11-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 15,
+     "date": "2026-11-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 16,
+     "date": "2026-12-01",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 17,
+     "date": "2026-12-02",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2026-11-16",
+   "nights": 16,
+   "embark_port": "Barcelona",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-16",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-18",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-19",
+     "port_id": "funchal",
+     "port_name": "Funchal",
+     "lat": 32.64693,
+     "lon": -16.90853,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-20",
+     "port_id": "arrecife",
+     "port_name": "Arrecife",
+     "lat": 28.97347,
+     "lon": -13.53637,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-21",
+     "port_id": "las-palmas-gran-canaria",
+     "port_name": "Las Palmas",
+     "lat": 28.14048,
+     "lon": -15.42371,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-23",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-11-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-11-26",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2026-11-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2026-11-28",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 13,
+     "date": "2026-11-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 14,
+     "date": "2026-11-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 15,
+     "date": "2026-12-01",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 16,
+     "date": "2026-12-02",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2026-11-19",
+   "nights": 13,
+   "embark_port": "Funchal",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-19",
+     "port_id": "funchal",
+     "port_name": "Funchal",
+     "lat": 32.64693,
+     "lon": -16.90853,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-20",
+     "port_id": "arrecife",
+     "port_name": "Arrecife",
+     "lat": 28.97347,
+     "lon": -13.53637,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-21",
+     "port_id": "las-palmas-gran-canaria",
+     "port_name": "Las Palmas",
+     "lat": 28.14048,
+     "lon": -15.42371,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-23",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-26",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 8,
+     "date": "2026-11-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 9,
+     "date": "2026-11-28",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 10,
+     "date": "2026-11-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 11,
+     "date": "2026-11-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 12,
+     "date": "2026-12-01",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 13,
+     "date": "2026-12-02",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2026-11-28",
+   "nights": 4,
+   "embark_port": "Salvador de Bahia",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-28",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-01",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-02",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2026-12-02",
+   "nights": 3,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-02",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-03",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-04",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-05",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2026-12-05",
+   "nights": 7,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-05",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-06",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-08",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-09",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-10",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-11",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-12",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2026-12-08",
+   "nights": 7,
+   "embark_port": "Salvador de Bahia",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-08",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-09",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-10",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-11",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-12",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-13",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-14",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-15",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2026-12-09",
+   "nights": 7,
+   "embark_port": "Macei\u00f3",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-09",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-10",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-11",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-12",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-13",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-14",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-15",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-16",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2026-12-12",
+   "nights": 7,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-12",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-13",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-14",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-15",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-16",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-18",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-19",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2026-12-15",
+   "nights": 7,
+   "embark_port": "Salvador de Bahia",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-15",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-16",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-18",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-19",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-20",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-22",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2026-12-16",
+   "nights": 7,
+   "embark_port": "Macei\u00f3",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-16",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-18",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-19",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-20",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-22",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-23",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2026-12-19",
+   "nights": 7,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-19",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-20",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-22",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-23",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-26",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2026-12-22",
+   "nights": 7,
+   "embark_port": "Salvador de Bahia",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-22",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-23",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-26",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-27",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-29",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2026-12-26",
+   "nights": 7,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-26",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-27",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-29",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-31",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-01",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-02",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2026-12-29",
+   "nights": 7,
+   "embark_port": "Salvador de Bahia",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-29",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-31",
+     "port_id": "rio-de-janeiro",
+     "port_name": "Rio de Janeiro",
+     "lat": -22.91216,
+     "lon": -43.17501,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-01",
+     "port_id": "ilhabela",
+     "port_name": "Ilhabela",
+     "lat": -23.82686,
+     "lon": -45.36811,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-02",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-03",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-04",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-05",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2027-01-02",
+   "nights": 7,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-02",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-03",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-04",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-05",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-06",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-08",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-09",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2027-01-05",
+   "nights": 7,
+   "embark_port": "Salvador de Bahia",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-05",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-06",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-08",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-09",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-10",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-11",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-12",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2027-01-06",
+   "nights": 7,
+   "embark_port": "Macei\u00f3",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-06",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-08",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-09",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-10",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-11",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-12",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-13",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2027-01-09",
+   "nights": 7,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-09",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-10",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-11",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-12",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-13",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-14",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-16",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2027-01-12",
+   "nights": 7,
+   "embark_port": "Salvador de Bahia",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-12",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-13",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-14",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-16",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-17",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-18",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-19",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2027-01-13",
+   "nights": 7,
+   "embark_port": "Macei\u00f3",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-13",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-14",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-16",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-17",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-18",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-19",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-20",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2027-01-16",
+   "nights": 7,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-16",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-17",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-18",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-19",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-20",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-23",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2027-01-19",
+   "nights": 7,
+   "embark_port": "Salvador de Bahia",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-19",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-20",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-23",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-24",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-26",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2027-01-20",
+   "nights": 7,
+   "embark_port": "Macei\u00f3",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-20",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-23",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-24",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-26",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-27",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC Virtuosa",
+   "departure_date": "2027-01-23",
+   "nights": 7,
+   "embark_port": "Santos",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-23",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-24",
+     "port_id": "buzios",
+     "port_name": "B\u00fazios",
+     "lat": -22.77329,
+     "lon": -41.91275,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-25",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-26",
+     "port_id": "salvador-de-bahia",
+     "port_name": "Salvador de Bahia",
+     "lat": -12.97,
+     "lon": -38.51,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-27",
+     "port_id": "maceio",
+     "port_name": "Macei\u00f3",
+     "lat": -9.66705,
+     "lon": -35.72596,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-30",
+     "port_id": "santos",
+     "port_name": "Santos",
+     "lat": -23.96128,
+     "lon": -46.32806,
+     "kind": "disembark",
+     "day_confidence": "inferred"
     }
    ]
   }
