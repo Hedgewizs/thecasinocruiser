@@ -118307,6 +118307,3477 @@
      "day_confidence": "inferred"
     }
    ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World America",
+   "departure_date": "2026-11-14",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-14",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-15",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-16",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-17",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-18",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-19",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-20",
+     "port_id": "ocean-cay",
+     "port_name": "Ocean Cay MSC Marine Reserve",
+     "lat": 25.4209,
+     "lon": -79.2055,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-21",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World America",
+   "departure_date": "2026-11-21",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-21",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-22",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-23",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-11-24",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-11-25",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-11-26",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-11-27",
+     "port_id": "ocean-cay",
+     "port_name": "Ocean Cay MSC Marine Reserve",
+     "lat": 25.4209,
+     "lon": -79.2055,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-11-28",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World America",
+   "departure_date": "2026-11-28",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-11-28",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-11-29",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-11-30",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-01",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-02",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-04",
+     "port_id": "ocean-cay",
+     "port_name": "Ocean Cay MSC Marine Reserve",
+     "lat": 25.4209,
+     "lon": -79.2055,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-05",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World America",
+   "departure_date": "2026-12-05",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-05",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-06",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-07",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-08",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-09",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-10",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-11",
+     "port_id": "ocean-cay",
+     "port_name": "Ocean Cay MSC Marine Reserve",
+     "lat": 25.4209,
+     "lon": -79.2055,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-12",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World America",
+   "departure_date": "2026-12-12",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-12",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-13",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-14",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-15",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-16",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-18",
+     "port_id": "ocean-cay",
+     "port_name": "Ocean Cay MSC Marine Reserve",
+     "lat": 25.4209,
+     "lon": -79.2055,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-19",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World America",
+   "departure_date": "2026-12-19",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-19",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-20",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-21",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-22",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-23",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-25",
+     "port_id": "ocean-cay",
+     "port_name": "Ocean Cay MSC Marine Reserve",
+     "lat": 25.4209,
+     "lon": -79.2055,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-26",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World America",
+   "departure_date": "2026-12-26",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-26",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-28",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-29",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-30",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-31",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-01",
+     "port_id": "ocean-cay",
+     "port_name": "Ocean Cay MSC Marine Reserve",
+     "lat": 25.4209,
+     "lon": -79.2055,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-02",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World America",
+   "departure_date": "2027-01-02",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-02",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-03",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-04",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-05",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-06",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-08",
+     "port_id": "ocean-cay",
+     "port_name": "Ocean Cay MSC Marine Reserve",
+     "lat": 25.4209,
+     "lon": -79.2055,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-09",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World America",
+   "departure_date": "2027-01-09",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-09",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-10",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-11",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-12",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-13",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-14",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-15",
+     "port_id": "ocean-cay",
+     "port_name": "Ocean Cay MSC Marine Reserve",
+     "lat": 25.4209,
+     "lon": -79.2055,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-16",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World America",
+   "departure_date": "2027-01-16",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-16",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-17",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-18",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-19",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-20",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-21",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-22",
+     "port_id": "ocean-cay",
+     "port_name": "Ocean Cay MSC Marine Reserve",
+     "lat": 25.4209,
+     "lon": -79.2055,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-23",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World America",
+   "departure_date": "2027-01-23",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-23",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-24",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-25",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-26",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-27",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-28",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-29",
+     "port_id": "ocean-cay",
+     "port_name": "Ocean Cay MSC Marine Reserve",
+     "lat": 25.4209,
+     "lon": -79.2055,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-30",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World America",
+   "departure_date": "2027-01-30",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-30",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-31",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-01",
+     "port_id": "roatan",
+     "port_name": "Roatan",
+     "lat": 16.33154,
+     "lon": -86.53855,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-02",
+     "port_id": "costa-maya",
+     "port_name": "Costa Maya",
+     "lat": 18.73283,
+     "lon": -87.70305,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-03",
+     "port_id": "cozumel",
+     "port_name": "Cozumel",
+     "lat": 20.47897,
+     "lon": -86.9735,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-04",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-05",
+     "port_id": "ocean-cay",
+     "port_name": "Ocean Cay MSC Marine Reserve",
+     "lat": 25.4209,
+     "lon": -79.2055,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-06",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World America",
+   "departure_date": "2027-02-06",
+   "nights": 7,
+   "embark_port": "Miami",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-02-06",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-02-07",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-02-08",
+     "port_id": "puerto-plata",
+     "port_name": "Puerto Plata",
+     "lat": 19.78781,
+     "lon": -70.69455,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-02-09",
+     "port_id": "san-juan",
+     "port_name": "San Juan",
+     "lat": 18.47,
+     "lon": -66.11,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-02-10",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-02-11",
+     "port_id": "at-sea",
+     "port_name": "At Sea",
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-02-12",
+     "port_id": "ocean-cay",
+     "port_name": "Ocean Cay MSC Marine Reserve",
+     "lat": 25.4209,
+     "lon": -79.2055,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-02-13",
+     "port_id": "miami",
+     "port_name": "Miami",
+     "lat": 25.77188,
+     "lon": -80.15908,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-04",
+   "nights": 7,
+   "embark_port": "Barcelona",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-04",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "embark",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-05",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-06",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-07",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-08",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-09",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-10",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "exact"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-11",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "disembark",
+     "day_confidence": "exact"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-05",
+   "nights": 7,
+   "embark_port": "Marseille",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-05",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-06",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-07",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-08",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-09",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-10",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-11",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-12",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-06",
+   "nights": 7,
+   "embark_port": "Genoa",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-06",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-07",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-08",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-09",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-10",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-11",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-12",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-13",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-07",
+   "nights": 7,
+   "embark_port": "Civitavecchia (Rome)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-07",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-08",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-09",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-10",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-11",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-12",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-13",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-14",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-08",
+   "nights": 7,
+   "embark_port": "Messina (Sicily)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-08",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-09",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-10",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-11",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-12",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-13",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-14",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-15",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-11",
+   "nights": 7,
+   "embark_port": "Barcelona",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-11",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-12",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-13",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-14",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-15",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-16",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-17",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-18",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-12",
+   "nights": 7,
+   "embark_port": "Marseille",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-12",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-13",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-14",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-15",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-16",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-17",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-18",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-19",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-13",
+   "nights": 7,
+   "embark_port": "Genoa",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-13",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-14",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-15",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-16",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-17",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-18",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-19",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-20",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-14",
+   "nights": 7,
+   "embark_port": "Civitavecchia (Rome)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-14",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-15",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-16",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-17",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-18",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-19",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-20",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-21",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-15",
+   "nights": 7,
+   "embark_port": "Messina (Sicily)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-15",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-16",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-17",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-18",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-19",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-20",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-21",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-22",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-18",
+   "nights": 7,
+   "embark_port": "Barcelona",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-18",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-19",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-20",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-21",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-22",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-23",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-24",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-25",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-19",
+   "nights": 7,
+   "embark_port": "Marseille",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-19",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-20",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-21",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-22",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-23",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-24",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-25",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-26",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-20",
+   "nights": 7,
+   "embark_port": "Genoa",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-20",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-21",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-22",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-23",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-24",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-25",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-26",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-27",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-21",
+   "nights": 7,
+   "embark_port": "Civitavecchia (Rome)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-21",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-22",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-23",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-24",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-25",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-26",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-27",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-28",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-22",
+   "nights": 7,
+   "embark_port": "Messina (Sicily)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-22",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-23",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-24",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-25",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-26",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-27",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-28",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2026-12-29",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-25",
+   "nights": 7,
+   "embark_port": "Barcelona",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-25",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-26",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-27",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-28",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-29",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-30",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2026-12-31",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-01",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-26",
+   "nights": 7,
+   "embark_port": "Marseille",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-26",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-27",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-28",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-29",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-30",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2026-12-31",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-01",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-02",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-27",
+   "nights": 7,
+   "embark_port": "Genoa",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-27",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-28",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-29",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-30",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2026-12-31",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-01",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-02",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-03",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-28",
+   "nights": 7,
+   "embark_port": "Civitavecchia (Rome)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-28",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-29",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-30",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2026-12-31",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-01",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-02",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-03",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-04",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2026-12-29",
+   "nights": 7,
+   "embark_port": "Messina (Sicily)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2026-12-29",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2026-12-30",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2026-12-31",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-01",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-02",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-03",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-04",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-05",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2027-01-01",
+   "nights": 7,
+   "embark_port": "Barcelona",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-01",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-02",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-03",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-04",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-05",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-06",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-07",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-08",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2027-01-02",
+   "nights": 7,
+   "embark_port": "Marseille",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-02",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-03",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-04",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-05",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-06",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-07",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-08",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-09",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2027-01-03",
+   "nights": 7,
+   "embark_port": "Genoa",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-03",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-04",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-05",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-06",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-07",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-08",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-09",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-10",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2027-01-04",
+   "nights": 7,
+   "embark_port": "Civitavecchia (Rome)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-04",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-05",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-06",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-07",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-08",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-09",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-10",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-11",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2027-01-05",
+   "nights": 7,
+   "embark_port": "Messina (Sicily)",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-05",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-06",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-07",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-08",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-09",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-10",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-11",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-12",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
+  },
+  {
+   "sailing_id": null,
+   "ship_name": "MSC World Asia",
+   "departure_date": "2027-01-08",
+   "nights": 7,
+   "embark_port": "Barcelona",
+   "itinerary": [
+    {
+     "day_offset": 0,
+     "date": "2027-01-08",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "embark",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 1,
+     "date": "2027-01-09",
+     "port_id": "marseille",
+     "port_name": "Marseille",
+     "lat": 43.33889,
+     "lon": 5.34806,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 2,
+     "date": "2027-01-10",
+     "port_id": "genoa",
+     "port_name": "Genoa",
+     "lat": 44.40535,
+     "lon": 8.93636,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 3,
+     "date": "2027-01-11",
+     "port_id": "civitavecchia-rome",
+     "port_name": "Civitavecchia (Rome)",
+     "lat": 42.09,
+     "lon": 11.79,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 4,
+     "date": "2027-01-12",
+     "port_id": "messina",
+     "port_name": "Messina (Sicily)",
+     "lat": 38.17839,
+     "lon": 15.55309,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 5,
+     "date": "2027-01-13",
+     "port_id": "valletta",
+     "port_name": "Valletta",
+     "lat": 35.89353,
+     "lon": 14.5118,
+     "kind": "call",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 6,
+     "date": "2027-01-14",
+     "port_id": null,
+     "port_name": null,
+     "lat": null,
+     "lon": null,
+     "kind": "sea",
+     "day_confidence": "inferred"
+    },
+    {
+     "day_offset": 7,
+     "date": "2027-01-15",
+     "port_id": "barcelona",
+     "port_name": "Barcelona",
+     "lat": 41.36533,
+     "lon": 2.17363,
+     "kind": "disembark",
+     "day_confidence": "inferred"
+    }
+   ]
   }
  ],
  "holland-america-line": [],
