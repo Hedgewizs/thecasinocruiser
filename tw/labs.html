@@ -15,7 +15,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>實驗室 — 賭場遊戲模擬器 | 賭場郵輪客</title>
 <meta name="description" content="免費賭場遊戲模擬器，附真實數學：百家樂實驗室、花旗骰實驗室、輪盤實驗室、二十一點實驗室。練習策略、學會機率，中英雙語。">
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../styles.css?v=4">
 <style>
 .badge{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:4px 10px;border-radius:999px;margin-bottom:10px}
 .badge.live{background:#0e7a3d;color:#fff}
@@ -27,16 +27,23 @@
 
 <nav class="nav"><div class="wrap">
   <a class="brand" href="index.html">賭場<span>郵輪</span>客</a>
-  <div class="nav-links">
+  <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">☰</button>
+  <div class="nav-links" id="nav-links">
     <a href="index.html">首頁</a>
+    <a href="sailings.html">行程</a>
+    <a href="ports.html">停靠港</a>
     <a href="playbook.html">實戰手冊</a>
     <a href="guides.html">指南</a>
+    <a href="port-days.html">停靠日</a>
+    <a href="ships.html">郵輪評價</a>
+    <a href="costs.html">每日花費</a>
     <a href="labs.html" class="active">實驗室</a>
     <a href="gear.html">裝備</a>
-    <a href="#merch">周邊</a>
+    <a href="index.html#merch">周邊</a>
     <a href="booking.html">找我訂</a>
     <a href="about.html">關於</a>
-    <a href="../labs.html">English</a>
+    <a class="lang-pill" href="../labs.html">English</a>
+    <a class="lang-pill" href="../es/labs.html">ES</a>
   </div>
 </div></nav>
 
@@ -85,5 +92,8 @@
   <p>© 2026 賭場郵輪客。理性博彩：設定預算、不追輸、只玩輸得起的金額。</p>
 </div></footer>
 
+<script>
+(function(){var b=document.querySelector('.nav-toggle');if(!b)return;var n=b.closest('.nav');b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o?'true':'false');});n.querySelectorAll('.nav-links a').forEach(function(a){a.addEventListener('click',function(){n.classList.remove('open');b.setAttribute('aria-expanded','false');});});})();
+</script>
 </body>
 </html>

@@ -13,7 +13,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Labs — Simuladores de juegos de casino | The Casino Cruiser</title>
 <meta name="description" content="Simuladores gratuitos de juegos de casino con matemáticas reales: Laboratorio de Baccarat, Laboratorio de Craps, Laboratorio de Ruleta, Laboratorio de Blackjack. Practica estrategias, aprende las probabilidades, en inglés y chino.">
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../styles.css?v=4">
 <style>
 .badge{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:4px 10px;border-radius:999px;margin-bottom:10px}
 .badge.live{background:#0e7a3d;color:#fff}
@@ -26,19 +26,23 @@
 
 <nav class="nav"><div class="wrap">
   <a class="brand" href="index.html">The <span>Casino</span> Cruiser</a>
-  <div class="nav-links">
+  <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">☰</button>
+  <div class="nav-links" id="nav-links">
     <a href="index.html">Inicio</a>
     <a href="sailings.html">Salidas</a>
+    <a href="ports.html">Puertos</a>
     <a href="playbook.html">Manual</a>
     <a href="guides.html">Guías</a>
-    <a href="ports.html">Puertos</a>
+    <a href="port-days.html">Días de puerto</a>
+    <a href="ships.html">Barcos</a>
+    <a href="costs.html">Costos</a>
     <a href="labs.html" class="active">Labs</a>
     <a href="gear.html">Equipo</a>
     <a href="index.html#merch">Merch</a>
     <a href="booking.html">Reserva conmigo</a>
     <a href="about.html">Acerca de</a>
-    <a href="../index.html">EN</a>
-    <a href="../tw/index.html">中</a>
+    <a class="lang-pill" href="../labs.html">EN</a>
+    <a class="lang-pill" href="../tw/labs.html">中</a>
   </div>
 </div></nav>
 
@@ -87,5 +91,8 @@
   <p>© 2026 The Casino Cruiser. Juego responsable: fija un presupuesto, no persigas las pérdidas y juega solo con lo que puedas permitirte perder.</p>
 </div></footer>
 
+<script>
+(function(){var b=document.querySelector('.nav-toggle');if(!b)return;var n=b.closest('.nav');b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o?'true':'false');});n.querySelectorAll('.nav-links a').forEach(function(a){a.addEventListener('click',function(){n.classList.remove('open');b.setAttribute('aria-expanded','false');});});})();
+</script>
 </body>
 </html>

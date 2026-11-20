@@ -15,25 +15,29 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Manual de días de puerto — The Casino Cruiser</title>
 <meta name="description" content="Cómo aprovechar un día de puerto: cómo calcular la hora límite de embarque, el riesgo de los tenders, el margen de transporte y fijar un solo imperdible.">
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../styles.css?v=4">
 </head>
 <body>
 
 <nav class="nav"><div class="wrap">
   <a class="brand" href="index.html">The <span>Casino</span> Cruiser</a>
-  <div class="nav-links">
+  <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">☰</button>
+  <div class="nav-links" id="nav-links">
     <a href="index.html">Inicio</a>
     <a href="sailings.html">Salidas</a>
-    <a href="playbook.html">Manual</a>
-    <a href="guides.html" class="active">Guías</a>
     <a href="ports.html">Puertos</a>
+    <a href="playbook.html">Manual</a>
+    <a href="guides.html">Guías</a>
+    <a href="port-days.html" class="active">Días de puerto</a>
+    <a href="ships.html">Barcos</a>
+    <a href="costs.html">Costos</a>
     <a href="labs.html">Labs</a>
     <a href="gear.html">Equipo</a>
     <a href="index.html#merch">Merch</a>
     <a href="booking.html">Reserva conmigo</a>
     <a href="about.html">Acerca de</a>
-    <a href="../index.html">EN</a>
-    <a href="../tw/index.html">中</a>
+    <a class="lang-pill" href="../port-days.html">EN</a>
+    <a class="lang-pill" href="../tw/port-days.html">中</a>
   </div>
 </div></nav>
 
@@ -76,5 +80,8 @@
   <p>© 2026 The Casino Cruiser. Juego responsable: fija un presupuesto, no persigas las pérdidas y juega solo con lo que puedas permitirte perder.</p>
 </div></footer>
 
+<script>
+(function(){var b=document.querySelector('.nav-toggle');if(!b)return;var n=b.closest('.nav');b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o?'true':'false');});n.querySelectorAll('.nav-links a').forEach(function(a){a.addEventListener('click',function(){n.classList.remove('open');b.setAttribute('aria-expanded','false');});});})();
+</script>
 </body>
 </html>

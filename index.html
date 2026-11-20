@@ -15,7 +15,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The Casino Cruiser — The Free Cruise Playbook</title>
 <meta name="description" content="A travel agent's honest guide to cruising on casino comps: how offers work, port-day strategy, ship reviews, real costs, and gear that earns its space.">
-<link rel="stylesheet" href="styles.css?v=3">
+<link rel="stylesheet" href="styles.css?v=4">
 <style>
 .house-ad-banner{margin:36px auto 8px;max-width:970px;border-radius:12px;background:linear-gradient(135deg,#f5b942,#e8930c);color:#1a1206;padding:22px 26px;text-align:center;box-shadow:0 4px 24px rgba(232,147,12,.25)}
 .house-ad-banner-label{display:block;font-size:11px;letter-spacing:3px;text-transform:uppercase;font-weight:700;opacity:.7;margin-bottom:8px}
@@ -36,17 +36,23 @@
 
 <nav class="nav"><div class="wrap">
   <a class="brand" href="index.html">The <span>Casino</span> Cruiser</a>
-  <div class="nav-links">
+  <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">☰</button>
+  <div class="nav-links" id="nav-links">
     <a href="index.html" class="active">Home</a>
     <a href="sailings.html">Sailings</a>
+    <a href="ports.html">Port Planner</a>
     <a href="playbook.html">Playbook</a>
     <a href="guides.html">Guides</a>
+    <a href="port-days.html">Port Days</a>
+    <a href="ships.html">Ships</a>
+    <a href="costs.html">Costs</a>
     <a href="labs.html">Labs</a>
     <a href="gear.html">Gear</a>
     <a href="#merch">Merch</a>
     <a href="booking.html">Book with me</a>
     <a href="about.html">About</a>
-    <a href="tw/index.html">中</a> <a href="es/index.html">ES</a>
+    <a class="lang-pill" href="tw/index.html">中</a>
+    <a class="lang-pill" href="es/index.html">ES</a>
   </div>
 </div></nav>
 
@@ -63,6 +69,7 @@
     <select id="hero-line" aria-label="Cruise line"></select>
     <select id="hero-ship" aria-label="Ship"></select>
   </div>
+  <p class="finder-hint">Pick a cruise line first — the ship list appears after you choose one.</p>
   <div id="hero-results"></div>
   <p style="margin-top:18px"><a class="btn ghost" href="sailings.html">Open the full sailing finder</a></p>
 </div></header>
@@ -302,6 +309,9 @@
     shipSel.onchange = function(){ render(lineSel.value, shipSel.value); };
   });
 })();
+</script>
+<script>
+(function(){var b=document.querySelector('.nav-toggle');if(!b)return;var n=b.closest('.nav');b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o?'true':'false');});n.querySelectorAll('.nav-links a').forEach(function(a){a.addEventListener('click',function(){n.classList.remove('open');b.setAttribute('aria-expanded','false');});});})();
 </script>
 </body>
 </html>

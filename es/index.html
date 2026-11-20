@@ -15,7 +15,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The Casino Cruiser — La guía gratuita de cruceros</title>
 <meta name="description" content="La guía honesta de un agente de viajes para navegar con comps de casino: cómo funcionan las ofertas, estrategia de días de puerto, reseñas de barcos, costos reales y equipo que vale su espacio.">
-<link rel="stylesheet" href="styles.css?v=3">
+<link rel="stylesheet" href="styles.css?v=4">
 <style>
 .house-ad-banner{margin:36px auto 8px;max-width:970px;border-radius:12px;background:linear-gradient(135deg,#f5b942,#e8930c);color:#1a1206;padding:22px 26px;text-align:center;box-shadow:0 4px 24px rgba(232,147,12,.25)}
 .house-ad-banner-label{display:block;font-size:11px;letter-spacing:3px;text-transform:uppercase;font-weight:700;opacity:.7;margin-bottom:8px}
@@ -36,19 +36,23 @@
 
 <nav class="nav"><div class="wrap">
   <a class="brand" href="index.html">The <span>Casino</span> Cruiser</a>
-  <div class="nav-links">
+  <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">☰</button>
+  <div class="nav-links" id="nav-links">
     <a href="index.html" class="active">Inicio</a>
     <a href="sailings.html">Salidas</a>
+    <a href="ports.html">Puertos</a>
     <a href="playbook.html">Manual</a>
     <a href="guides.html">Guías</a>
-    <a href="ports.html">Puertos</a>
+    <a href="port-days.html">Días de puerto</a>
+    <a href="ships.html">Barcos</a>
+    <a href="costs.html">Costos</a>
     <a href="labs.html">Labs</a>
     <a href="gear.html">Equipo</a>
     <a href="#merch">Merch</a>
     <a href="booking.html">Reserva conmigo</a>
     <a href="about.html">Acerca de</a>
-    <a href="../">EN</a>
-    <a href="../tw/">中</a>
+    <a class="lang-pill" href="../index.html">EN</a>
+    <a class="lang-pill" href="../tw/index.html">中</a>
   </div>
 </div></nav>
 
@@ -65,6 +69,7 @@
     <select id="hero-line" aria-label="Línea de cruceros"></select>
     <select id="hero-ship" aria-label="Barco"></select>
   </div>
+  <p class="finder-hint">Elige primero la línea de cruceros; la lista de barcos aparece después.</p>
   <div id="hero-results"></div>
   <p style="margin-top:18px"><a class="btn ghost" href="sailings.html">Abrir el buscador completo de salidas</a></p>
 </div></header>
@@ -305,6 +310,9 @@
     shipSel.onchange = function(){ render(lineSel.value, shipSel.value); };
   });
 })();
+</script>
+<script>
+(function(){var b=document.querySelector('.nav-toggle');if(!b)return;var n=b.closest('.nav');b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o?'true':'false');});n.querySelectorAll('.nav-links a').forEach(function(a){a.addEventListener('click',function(){n.classList.remove('open');b.setAttribute('aria-expanded','false');});});})();
 </script>
 </body>
 </html>

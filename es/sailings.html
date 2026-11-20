@@ -15,7 +15,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Encuentra tu salida — Buscador de salidas | The Casino Cruiser</title>
 <meta name="description" content="Busca salidas de crucero por línea y barco. Mira itinerarios día por día con el clima de cada puerto antes de reservar.">
-<link rel="stylesheet" href="styles.css?v=3">
+<link rel="stylesheet" href="styles.css?v=4">
 <style>
 .finder{display:flex;flex-wrap:wrap;gap:12px;margin:22px 0}
 .finder select{flex:1 1 220px;padding:14px 16px;font-size:16px;border-radius:10px;border:2px solid var(--gold);background:#fff;color:var(--navy);font-weight:600}
@@ -44,19 +44,23 @@
 
 <nav class="nav"><div class="wrap">
   <a class="brand" href="index.html">The <span>Casino</span> Cruiser</a>
-  <div class="nav-links">
+  <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">☰</button>
+  <div class="nav-links" id="nav-links">
     <a href="index.html">Inicio</a>
     <a href="sailings.html" class="active">Salidas</a>
+    <a href="ports.html">Puertos</a>
     <a href="playbook.html">Manual</a>
     <a href="guides.html">Guías</a>
-    <a href="ports.html">Puertos</a>
+    <a href="port-days.html">Días de puerto</a>
+    <a href="ships.html">Barcos</a>
+    <a href="costs.html">Costos</a>
     <a href="labs.html">Labs</a>
     <a href="gear.html">Equipo</a>
-    <a href="#merch">Merch</a>
+    <a href="index.html#merch">Merch</a>
     <a href="booking.html">Reserva conmigo</a>
     <a href="about.html">Acerca de</a>
-    <a href="../">EN</a>
-    <a href="../tw/">中</a>
+    <a class="lang-pill" href="../sailings.html">EN</a>
+    <a class="lang-pill" href="../tw/sailings.html">中</a>
   </div>
 </div></nav>
 
@@ -71,6 +75,7 @@
     <select id="line-sel" aria-label="Línea de cruceros"></select>
     <select id="ship-sel" aria-label="Barco"></select>
   </div>
+  <p class="finder-hint">Elige primero la línea de cruceros; la lista de barcos aparece después.</p>
   <div id="results"></div>
 </div></section>
 
@@ -134,6 +139,9 @@
     results.innerHTML = "<p>No se pudieron cargar los datos de salidas; inténtalo de nuevo.</p>";
   });
 })();
+</script>
+<script>
+(function(){var b=document.querySelector('.nav-toggle');if(!b)return;var n=b.closest('.nav');b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o?'true':'false');});n.querySelectorAll('.nav-links a').forEach(function(a){a.addEventListener('click',function(){n.classList.remove('open');b.setAttribute('aria-expanded','false');});});})();
 </script>
 </body>
 </html>

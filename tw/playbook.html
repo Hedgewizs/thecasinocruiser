@@ -15,20 +15,29 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>免費郵輪實戰手冊 — 賭場郵輪客</title>
 <meta name="description" content="賭場招待怎麼變成免費郵輪：投注評級、陸上與海上優惠、訂之前一定要算的帳。">
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../styles.css?v=4">
 </head>
 <body>
 
 <nav class="nav"><div class="wrap">
   <a class="brand" href="index.html">賭場<span>郵輪</span>客</a>
-  <div class="nav-links">
+  <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">☰</button>
+  <div class="nav-links" id="nav-links">
     <a href="index.html">首頁</a>
+    <a href="sailings.html">行程</a>
+    <a href="ports.html">停靠港</a>
     <a href="playbook.html" class="active">實戰手冊</a>
     <a href="guides.html">指南</a>
+    <a href="port-days.html">停靠日</a>
+    <a href="ships.html">郵輪評價</a>
+    <a href="costs.html">每日花費</a>
+    <a href="labs.html">實驗室</a>
     <a href="gear.html">裝備</a>
+    <a href="index.html#merch">周邊</a>
     <a href="booking.html">找我訂</a>
     <a href="about.html">關於</a>
-    <a href="../playbook.html">English</a>
+    <a class="lang-pill" href="../playbook.html">English</a>
+    <a class="lang-pill" href="../es/playbook.html">ES</a>
   </div>
 </div></nav>
 
@@ -77,5 +86,8 @@
   <p>© 2026 賭場郵輪客。理性博彩：設定預算、不追輸、只玩輸得起的金額。</p>
 </div></footer>
 
+<script>
+(function(){var b=document.querySelector('.nav-toggle');if(!b)return;var n=b.closest('.nav');b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o?'true':'false');});n.querySelectorAll('.nav-links a').forEach(function(a){a.addEventListener('click',function(){n.classList.remove('open');b.setAttribute('aria-expanded','false');});});})();
+</script>
 </body>
 </html>

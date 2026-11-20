@@ -13,21 +13,30 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>裝備推薦 — The Casino Cruiser</title>
 <meta name="description" content="沒有落落長的打包清單——只有這 27 樣經得起長途航程考驗的裝備，每一樣我都用過或敢背書。打包前請先確認郵輪公司的最新違禁品規定。">
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../styles.css?v=4">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2871648321226549" crossorigin="anonymous"></script>
 </head>
 <body>
 
 <nav class="nav"><div class="wrap">
-  <a class="brand" href="index.html">The <span>Casino</span> Cruiser</a>
-  <div class="nav-links">
+  <a class="brand" href="index.html">賭場<span>郵輪</span>客</a>
+  <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">☰</button>
+  <div class="nav-links" id="nav-links">
     <a href="index.html">首頁</a>
-    <a href="playbook.html">攻略</a>
+    <a href="sailings.html">行程</a>
+    <a href="ports.html">停靠港</a>
+    <a href="playbook.html">實戰手冊</a>
     <a href="guides.html">指南</a>
+    <a href="port-days.html">停靠日</a>
+    <a href="ships.html">郵輪評價</a>
+    <a href="costs.html">每日花費</a>
+    <a href="labs.html">實驗室</a>
     <a href="gear.html" class="active">裝備</a>
-    <a href="booking.html">找我訂房</a>
-    <a href="about.html">關於我</a>
-    <a href="../index.html">EN</a>
+    <a href="index.html#merch">周邊</a>
+    <a href="booking.html">找我訂</a>
+    <a href="about.html">關於</a>
+    <a class="lang-pill" href="../gear.html">English</a>
+    <a class="lang-pill" href="../es/gear.html">ES</a>
   </div>
 </div></nav>
 
@@ -402,5 +411,8 @@
   <p>© 2026 The Casino Cruiser。理性博弈：設定預算、不追輸、只玩負擔得起的金額。</p>
 </div></footer>
 
+<script>
+(function(){var b=document.querySelector('.nav-toggle');if(!b)return;var n=b.closest('.nav');b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o?'true':'false');});n.querySelectorAll('.nav-links a').forEach(function(a){a.addEventListener('click',function(){n.classList.remove('open');b.setAttribute('aria-expanded','false');});});})();
+</script>
 </body>
 </html>

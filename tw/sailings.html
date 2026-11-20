@@ -15,7 +15,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>搜尋行程 — 郵輪行程搜尋 | 賭場郵輪客</title>
 <meta name="description" content="依郵輪公司和船隻搜尋郵輪行程。查看逐日停靠港與天氣。">
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../styles.css?v=4">
 <style>
 .finder{display:flex;flex-wrap:wrap;gap:12px;margin:22px 0}
 .finder select{flex:1 1 220px;padding:14px 16px;font-size:16px;border-radius:10px;border:2px solid var(--gold);background:#fff;color:var(--navy);font-weight:600}
@@ -43,17 +43,23 @@
 
 <nav class="nav"><div class="wrap">
   <a class="brand" href="index.html">賭場<span>郵輪</span>客</a>
-  <div class="nav-links">
+  <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">☰</button>
+  <div class="nav-links" id="nav-links">
     <a href="index.html">首頁</a>
     <a href="sailings.html" class="active">行程</a>
+    <a href="ports.html">停靠港</a>
     <a href="playbook.html">實戰手冊</a>
     <a href="guides.html">指南</a>
+    <a href="port-days.html">停靠日</a>
+    <a href="ships.html">郵輪評價</a>
+    <a href="costs.html">每日花費</a>
     <a href="labs.html">實驗室</a>
     <a href="gear.html">裝備</a>
-    <a href="#merch">周邊</a>
+    <a href="index.html#merch">周邊</a>
     <a href="booking.html">找我訂</a>
     <a href="about.html">關於</a>
-    <a href="../sailings.html">English</a>
+    <a class="lang-pill" href="../sailings.html">English</a>
+    <a class="lang-pill" href="../es/sailings.html">ES</a>
   </div>
 </div></nav>
 
@@ -68,6 +74,7 @@
     <select id="line-sel" aria-label="郵輪公司"></select>
     <select id="ship-sel" aria-label="船隻"></select>
   </div>
+  <p class="finder-hint">請先選擇郵輪公司，船隻清單會在選擇後出現。</p>
   <div id="results"></div>
 </div></section>
 
@@ -143,6 +150,9 @@ window.SAIL_T = {
     results.innerHTML = "<p>行程資料載入失敗——請再試一次。</p>";
   });
 })();
+</script>
+<script>
+(function(){var b=document.querySelector('.nav-toggle');if(!b)return;var n=b.closest('.nav');b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o?'true':'false');});n.querySelectorAll('.nav-links a').forEach(function(a){a.addEventListener('click',function(){n.classList.remove('open');b.setAttribute('aria-expanded','false');});});})();
 </script>
 </body>
 </html>

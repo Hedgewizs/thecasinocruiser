@@ -15,20 +15,29 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Cruise Guides — The Casino Cruiser</title>
 <meta name="description" content="Practical cruise guides: port-day strategy, honest ship reviews, and real cost-per-day math.">
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles.css?v=4">
 </head>
 <body>
 
 <nav class="nav"><div class="wrap">
   <a class="brand" href="index.html">The <span>Casino</span> Cruiser</a>
-  <div class="nav-links">
+  <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">☰</button>
+  <div class="nav-links" id="nav-links">
     <a href="index.html">Home</a>
+    <a href="sailings.html">Sailings</a>
+    <a href="ports.html">Port Planner</a>
     <a href="playbook.html">Playbook</a>
     <a href="guides.html" class="active">Guides</a>
+    <a href="port-days.html">Port Days</a>
+    <a href="ships.html">Ships</a>
+    <a href="costs.html">Costs</a>
+    <a href="labs.html">Labs</a>
     <a href="gear.html">Gear</a>
+    <a href="index.html#merch">Merch</a>
     <a href="booking.html">Book with me</a>
     <a href="about.html">About</a>
-    <a href="tw/index.html">中</a>
+    <a class="lang-pill" href="tw/guides.html">中</a>
+    <a class="lang-pill" href="es/guides.html">ES</a>
   </div>
 </div></nav>
 
@@ -62,5 +71,8 @@
   <p>© 2026 The Casino Cruiser. Gamble responsibly: set a budget, never chase losses, and only play what you can afford to lose.</p>
 </div></footer>
 
+<script>
+(function(){var b=document.querySelector('.nav-toggle');if(!b)return;var n=b.closest('.nav');b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o?'true':'false');});n.querySelectorAll('.nav-links a').forEach(function(a){a.addEventListener('click',function(){n.classList.remove('open');b.setAttribute('aria-expanded','false');});});})();
+</script>
 </body>
 </html>

@@ -164,3 +164,32 @@ footer p { margin: 0 0 10px; max-width: 720px; }
 .viator-cta{background:#f4f8f4;border:1px solid #d8e5d8;border-radius:12px;padding:16px 18px;margin:18px 0}
 .viator-cta h4{margin:0 0 6px}
 .viator-cta p{margin:0 0 10px;color:var(--muted,#555)}
+
+/* --- Mobile fixes, Nov 2026 --- */
+/* Gear product names were white-on-white (#fff links on a white page). */
+.gear-block{border-top:1px solid var(--line)}
+.gear-main h2 a{color:var(--navy)}
+.buy-row .price{color:var(--navy)}
+.kicker-pill{color:#0e7490;background:rgba(14,165,183,.12);border-color:rgba(14,165,183,.4)}
+/* Hamburger nav */
+.nav-toggle{display:none;margin-left:auto;background:none;border:1px solid var(--gold);border-radius:8px;color:#fff;font-size:20px;line-height:1;padding:8px 12px;cursor:pointer}
+.nav-links a.lang-pill{border:1px solid var(--gold);border-radius:999px;padding:6px 14px;margin-left:6px;color:var(--gold-soft);font-weight:700;white-space:nowrap}
+@media(max-width:760px){
+  .nav .wrap{padding-top:10px;padding-bottom:10px}
+  .brand{font-size:16px}
+  .nav-toggle{display:block}
+  .nav-links{display:none;position:absolute;top:100%;left:0;right:0;background:var(--navy);flex-direction:column;align-items:stretch;gap:0;padding:6px 20px 14px;border-bottom:2px solid var(--gold);max-height:70vh;overflow-y:auto}
+  .nav.open .nav-links{display:flex}
+  .nav-links a{padding:12px 10px;font-size:16px;border-top:1px solid rgba(255,255,255,.08)}
+  .nav-links a.lang-pill{margin:10px 8px 0 0;align-self:flex-start}
+}
+/* Finder hint + phone stacking */
+.finder-hint{font-size:14px;color:var(--muted);margin:8px 0 0}
+.hero .finder-hint{color:#c9d4e8}
+@media(max-width:640px){
+  .finder{flex-direction:column}
+  .finder select{width:100%}
+  .gear-block{flex-direction:column}
+  .gear-img{flex:0 0 auto;max-width:240px}
+  .gear-main h2{font-size:19px}
+}
